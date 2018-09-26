@@ -17,17 +17,17 @@
 ## Slide 2
 ### Why is your project interesting?
  First, it can help people understand world in the international aspect.
- Second, it stimulates people to think how human beings maintain world peace. 
+ Second, it stimulates people to think how human beings maintain world peace.  
 ### Why is your visualization important?
- In this project, main purpose is to provides visual information on easy way by making the web site.
+ In this project, the main purpose is to provide visual information in an easy way by making a web site.
 
 ### How is your visualization useful?
- And our visualization can be used to educate the public about this problem.
+ Our visualization can be used to educate the public about this problem.
 
 ## Slide 3 
 ### Who is the audience for your project?
- Anyone who have never studied international war problems but wants to understand these problems and resolve the problems 
- Anyone who want to get intuition under the war dataset by using information visualization.
+ Anyone who has never studied international war problems but wants to understand these problems and resolve these issues.
+ Anyone who wants to get intuition under the war dataset by using information visualization.
 
 ## Slide 4 (Slide 4 - 8 : Visualization)
 ### What are you telling with your visualization?
