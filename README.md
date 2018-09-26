@@ -7,7 +7,7 @@
 
 -  Also, we think spending our passion and energy for works which are related to peace is awesome.
 ### What is the story?
- There are 7 datasets. 
+ There are 7 datasets that we are using. 
 - War dataset
 - National Material Capabilities
 - World Religion Data
@@ -17,15 +17,12 @@
 - Trade. 
  All of these were downloaded from the correlates of war website.
 
- By giving this information to people, we want to explain and summarize how these values for each of the countries have changed over time. 
+ By giving this information to people, we want to explain and summarize how these values for each of the countries have changed over time. For example, political scientists have proved that interdependence on economical things have positive effects on deterring wars among countries. By showing the network of trade and conflict data, we can show that one way to deter war can be having good trade relationships.
 
- For example, political scientists have proved that interdependence on economical things have positive effects on deterring wars among countries. By showing the network of trade and conflict data, we can show that one way to deter war can be having good trade relationships.
-
- 
 ## Slide 2
 ### Why is your project interesting?
- First, it can help people understand world in the international aspect.
- Second, it stimulates people to think how human beings maintain world peace.  
+- First, it can help people understand world in the international aspect.
+- Second, it stimulates people to think how human beings maintain world peace.  
 ### Why is your visualization important?
  In this project, the main purpose is to provide visual information in an easy way by making a web site.
 
@@ -34,16 +31,21 @@
 
 ## Slide 3 
 ### Who is the audience for your project?
- Anyone who has never studied international war problems but wants to understand these problems and resolve these issues.
- Anyone who wants to get intuition under the war dataset by using information visualization.
+- Anyone who has never studied international war problems but wants to understand these problems and resolve these issues.
+- Anyone who wants to get intuition under the war dataset by using information visualization.
 
 ## Slide 4 (Slide 4 - 8 : Visualization)
 ### What are you telling with your visualization?
- First, by using the COW war data, we can show the visual information about how many wars have occurred from 1816-2016,How many people have passed away because of each conflict, What countries have took participated in what kinds of war, How long countries have fought, and How each war was over.
+ By using the COW war datasets, we can show the visual information about: 
+- How many wars have occurred from 1816-2016?
+- How many people have passed away because of each conflict? 
+- What countries took part and what type of war it was? 
+- Time period of the wars? 
+- How each war ended?
 
 ## Slide 5
 ### What are you telling with your visualization?
- Second, by using militarized interstate disputes and location, we can visualize where countries took participate in conflicts. We draw this information on the map. Therefore users can know where each conflict has been occurred, How many wars have been existed in each area, and how many people passed away in each conflict area. To visualize all this kind of information, we can use cartogram, proportional symbol map, and dot map
+ By using militarized interstate disputes and locations, we can visualize where countries took part in conflicts. We draw this information on the map. Therefore, users can know the exact location where each conflict has occurred, number of wars that took place in each area, and how many people passed away in each conflict area. To visualize all these kinds of information, we make use of cartogram, proportional symbol map, dot map, etc.
 
 ## Slide 6
 ### What are you telling with your visualization?
