@@ -80,9 +80,11 @@
 ### What are the components that make your visualization cool?
  ?????????????????????????????????????????????????????????
 ### How does your visualization compare to what others have done?
- There are some websites which provide information visualization. The first one is International Conflict Research in ETH Zurich, Swiss. The second one is Uppsala Conflict Data Program (UCDP) in Uppsala University, Sweden.
+ There are some websites which provide information visualizations on war related datasets. 
+- The first one is International Conflict Research in ETH Zurich, Swiss. 
+- The second one is Uppsala Conflict Data Program (UCDP) in Uppsala University, Sweden.
 
- These websites provide visual information on international conflict problems. But each website provide limited information. 
+ These websites provide visual information on international conflict problems but each website has only limited information. 
 
 ## Slide 11(What is your plan) 
 ### What are the technologies you plan to use?
@@ -100,10 +102,10 @@
  ???????????????????????????????????????????????????
 
 ### Evaluate
- The two websites(International Conflict Research in ETH Zurich and Uppsala Conflict Data Program (UCDP) in Uppsala University) are be able to use to compare. We can compare our website with them.
- By making visualization wheel of each website, we can analyze and compare.
+ The two websites(International Conflict Research in ETH Zurich and Uppsala Conflict Data Program (UCDP) in Uppsala University can be used as a reference point to compare our website with.
+ By making the visualization wheels of the websites, we can analyze and compare their features in more detail.
 ### What data will you use, how will you obtain it?
- I download the data sets from the correlates of war. This web site is well known to researchers in international conflict.
+ We downloaded the data sets from the correlates of war website. This is a renowned website to researchers in the field of international conflict.
 
 ## Slide 13
 ?????????????????????????
