@@ -2,8 +2,8 @@
 
 ## Slide 1 (Slide 1 - 3 : Introduction)
 
-The title of our project is Information Visualization of the Correlates of War Dataset
-Our group name is Team Peace
+The title of our project is Information Visualization of the Correlates of War Dataset.
+Our group name is Team Peace.
 
 ### Why you chose this project?
 - There are some websites which provide visual information on war problems. But to understand this information, users should have domain knowledge in this field. Also, this information is limited. So, we want to make websites where people easily access and understand these problems. Providing people information on conflicts is important because it can help the public think how they can live together with their neighboring countries peacefully. 
@@ -92,7 +92,7 @@ Our group name is Team Peace
 
  These websites provide visual information on international conflict problems but each website has only limited information. 
 
-## Slide 11(What is your plan) 
+## Slide 11 (What is your plan) 
 ### What are the technologies you plan to use?
 - HTML 
 - CSS
@@ -103,7 +103,7 @@ Our group name is Team Peace
 - Inkscape
 - Sketch
 
-## Slide 12(How are you going to design, build, and evaluate?)
+## Slide 12 (How are you going to design, build, and evaluate?)
 ### Design & Build
 - Our information visualizations would be more multidimensional and dense in nature.
 - Our focus would be more on functionality rather than visual style.  
