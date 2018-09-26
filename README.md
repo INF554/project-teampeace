@@ -1,5 +1,8 @@
 # INF 554 Assignment for 5
 
+## Slide 0
+We introduce our team name, names, and email addresses. 
+
 ## Slide 1 (Slide 1 - 3 : Introduction)
 
 The title of our project is Information Visualization of the Correlates of War Dataset.
