@@ -1,6 +1,6 @@
 # INF 554 Assignment for 5
 
-## Slide 1 (Introduction)
+## Slide 1 (Slide 1 - 3 : Introduction)
 
 ### why you chose this project?
  There are some websites which provide visual information on war problems. But to understand these information, users should know domain knowledge in this field. And the information are limited. So we want to make websites where people easily access and understand these problems. We think providing people information on conflicts is important, because it can help the public think how we can live together with our neighborhood countries peacefully. 
@@ -29,7 +29,7 @@
  Anyone who have never studied international war problems but wants to understand these problems and resolve the problems 
  Anyone who want to get intuition under the war dataset by using information visualization.
 
-## Slide 4 (Our visualization)
+## Slide 4 (Slide 4 - 8 : Visualization)
 ### What are you telling with your visualization?
  First, by using the COW war data, we can show the visual information about how many wars have occurred from 1816-2016,How many people have passed away because of each conflict, What countries have took participated in what kinds of war, How long countries have fought, and How each war was over.
 
@@ -79,8 +79,11 @@
  I download the data sets from the correlates of war. This web site is well known to researchers in international conflict.
 
 ## Slide 13
+?????????????????????????
 ## Slide 14
+????????????????????????
 ## Slide 15
+???????????????????????
 
 #### ![alt text](7-2.PNG)
 
