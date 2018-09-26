@@ -59,13 +59,23 @@
 
 ## Slide 8
 ### What are you telling with your visualization?
- Sixth, trade is known as one of factors to deter wars among countries. By using this trade data, we can show how the amount of trade has been changed between each country, Which countries are most interdependent on trade each other( this information can be visualized with the Chord diagram), the number of war between countries which have traded, the number of war between countries which have not traded. 
+ Trade is known as one of factors to deter wars among countries. By using this trade data, we can show:
+- How the amount of trade has changed over time between each country?
+- Which countries are most interdependent on each other?( This information can be visualized with the Chord diagram)
+- The number of wars between countries that have good trade relationships with each other?
+- The number of war between countries which have do not have good trade relationships with each other?
 
- Seventh, by using territorial change, we can show how each countries have behaved. 
+ By using territorial change, we can show the behavior of each country. 
 
 ## Slide 9
 ### What are your design considerations?
-    ??????????????????????????????????????????????????
+- Affordance for interactive elements.
+- Making use of Hover-and-click animations. For example, the Hover-and-click animation is used to provide additional information for a particular region and a specific year in a map showing battle related deaths in state based conflicts since 1946.
+- Clean UI.
+- Simple color palette that is very easy to see.
+- Legible and readable text.
+
+
 ## Slide 10
 ### What are the components that make your visualization cool?
  ?????????????????????????????????????????????????????????
