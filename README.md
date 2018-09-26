@@ -2,16 +2,16 @@
 
 ## Slide 1 (Slide 1 - 3 : Introduction)
 
-### why you chose this project?
- There are some websites which provide visual information on war problems. But to understand these information, users should know domain knowledge in this field. And the information are limited. So we want to make websites where people easily access and understand these problems. We think providing people information on conflicts is important, because it can help the public think how we can live together with our neighborhood countries peacefully. 
+### Why you chose this project?
+ There are some websites which provide visual information on war problems. But to understand this information, users should have domain knowledge in this field. Also, this information is limited. So, we want to make websites where people easily access and understand these problems. Providing people information on conflicts is important because it can help the public think how they can live together with their neighboring countries peacefully. 
 
- And I want to work for the public. 
+ Also, we think spending our passion and energy for works which are related to peace is awesome.
 ### What is the story?
  There are 7 datasets. War dataset, National Material Capabilities, World Religion Data, Militarized Interstate Disputes & Locations, Formal Alliances, Territorial Change, and Trade. These all were download from the correlates of war.
 
- By giving these information to people, we want to explain and summarize how the each value of each countries have changed in each fields. 
+ By giving these information to people, we want to explain and summarize how these values for each of the countries have changed over time. 
 
- For example, political scientists proved whether interdependence on economical things have positive effects on deterring wars among countries. By showing the network of trade and conflict data, we can show one of good way to deter war can be trading. 
+ For example, political scientists have proved that interdependence on economical things have positive effects on deterring wars among countries. By showing the network of trade and conflict data, we can show that one way to deter war can be having good trade relationships.
 
  
 ## Slide 2
