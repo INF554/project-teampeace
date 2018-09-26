@@ -78,7 +78,10 @@
 
 ## Slide 10
 ### What are the components that make your visualization cool?
- ?????????????????????????????????????????????????????????
+- Visualizations that are more interactive and explorative in nature.
+- Making use of novel charts, maps that people don't usually encounter in daily life.
+- More information visualizations that are multidimensional in nature. 
+
 ### How does your visualization compare to what others have done?
  There are some websites which provide information visualizations on war related datasets. 
 - The first one is International Conflict Research in ETH Zurich, Swiss. 
@@ -99,11 +102,13 @@
 
 ## Slide 12(How are you going to design, build, and evaluate?)
 ### Design & Build
- ???????????????????????????????????????????????????
+- Our information visualizations would be more multidimensional and dense in nature.
+- Our focus would be more on functionality rather than visual style.  
 
 ### Evaluate
  The two websites(International Conflict Research in ETH Zurich and Uppsala Conflict Data Program (UCDP) in Uppsala University can be used as a reference point to compare our website with.
  By making the visualization wheels of the websites, we can analyze and compare their features in more detail.
+ 
 ### What data will you use, how will you obtain it?
  We downloaded the data sets from the correlates of war website. This is a renowned website to researchers in the field of international conflict.
 
