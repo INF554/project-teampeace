@@ -2,6 +2,9 @@
 
 ## Slide 1 (Slide 1 - 3 : Introduction)
 
+The title of our project is Information Visualization of the Correlates of War Dataset
+Our group name is Team Peace
+
 ### Why you chose this project?
 - There are some websites which provide visual information on war problems. But to understand this information, users should have domain knowledge in this field. Also, this information is limited. So, we want to make websites where people easily access and understand these problems. Providing people information on conflicts is important because it can help the public think how they can live together with their neighboring countries peacefully. 
 
@@ -113,6 +116,15 @@
  We downloaded the data sets from the correlates of war website. This is a renowned website to researchers in the field of international conflict.
 
 ## Slide 13
+### Timeline
+- Data Acquisition (Week 5)
+- Exploratory Data Analysis (Week 7)
+- Website Prototype (Week 9)
+- Paper 1st Draft (Week 10)
+- Final Paper (mid Week 13)
+- Final Video (late Week 13)
+- Final Website (early Week 14)
+- Project Presentation (mid Week 14)
 
 
 ## Slide 14
@@ -122,6 +134,13 @@
 - Paper publication.
 
 ## Slide 15
+### Team
+- Team members: 
+	- Huyunjun Choi  |  choi797@usc.edu
+	- Seun Deleawe  |  deleawe@usc.edu
+	- Shiv Velagala  |  velagala@usc.edu 
+
+- We are confident in our ability to achieve the intended goal of this project. Our plan is to divide the work according to our strengths. Huyunjun has great domain expertise, Seun is strong in visual design, and Shiv is strong in web technologies such as D3.js
 
 
 
