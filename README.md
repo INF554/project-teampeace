@@ -49,14 +49,13 @@
 
 ## Slide 6
 ### What are you telling with your visualization?
- Third, each countries of national material capabilities are important one of factors. By using this information, we can show that which countries can have prominent effects on world peace and wars. One of the simplest comparison is to use military expenditure of each countries. And change of military expenditure by year is used. We can also show the correlation between fatalities and national capacities index. In the industry, the amount of producing Iron and steel and total population comparison can be used. 
+ Each country's national material capabilities is one important factor which can be linked with number of deaths. By using this information, we can show the countries that have a prominent effect on world peace and war. One of the simplest comparison is to use military expenditure for each of the countries. The trend in the change of military expenditure every year can be observed. We can also show the correlation between fatalities and national capacities index. The amount of Iron and steel produced versus the total population comparison can be used. 
 
 ## Slide 7
 ### What are you telling with your visualization?
- Fourth, visual information about how alliances have changed is showed with formal alliances dataset. By using network of countries, we can help the public understand how the relationships have changed.
+ Visual information about how alliances have changed is showed with the formal alliances dataset. By using network of countries, we can help people understand how relationships between countries have changed over time.
 
- Fifth, by using world religion data, we can show What kind of religions people believe in each area. This data will be visualized on the map. we can draw this information globally, nationally, and regionally.
-
+ By using world religion data, we can show the major religions people follow in different parts of the world. This data will be visualized on the map. We can draw this information globally, nationally, and regionally.
 
 ## Slide 8
 ### What are you telling with your visualization?
@@ -77,6 +76,14 @@
 
 ## Slide 11(What is your plan) 
 ### What are the technologies you plan to use?
+- HTML 
+- CSS
+- JavaScript
+- D3.js
+- Bootstrap
+- Vue.js
+- Inkscape
+- Sketch
 
 ## Slide 12(How are you going to design, build, and evaluate?)
 ### Design & Build
