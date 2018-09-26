@@ -7,9 +7,17 @@
 
 -  Also, we think spending our passion and energy for works which are related to peace is awesome.
 ### What is the story?
- There are 7 datasets. War dataset, National Material Capabilities, World Religion Data, Militarized Interstate Disputes & Locations, Formal Alliances, Territorial Change, and Trade. These all were download from the correlates of war.
+ There are 7 datasets. 
+- War dataset
+- National Material Capabilities
+- World Religion Data
+- Militarized Interstate Disputes & Locations
+- Formal Alliances
+- Territorial Change
+- Trade. 
+ All of these were downloaded from the correlates of war website.
 
- By giving these information to people, we want to explain and summarize how these values for each of the countries have changed over time. 
+ By giving this information to people, we want to explain and summarize how these values for each of the countries have changed over time. 
 
  For example, political scientists have proved that interdependence on economical things have positive effects on deterring wars among countries. By showing the network of trade and conflict data, we can show that one way to deter war can be having good trade relationships.
 
