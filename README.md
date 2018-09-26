@@ -3,9 +3,9 @@
 ## Slide 1 (Slide 1 - 3 : Introduction)
 
 ### Why you chose this project?
- There are some websites which provide visual information on war problems. But to understand this information, users should have domain knowledge in this field. Also, this information is limited. So, we want to make websites where people easily access and understand these problems. Providing people information on conflicts is important because it can help the public think how they can live together with their neighboring countries peacefully. 
+- There are some websites which provide visual information on war problems. But to understand this information, users should have domain knowledge in this field. Also, this information is limited. So, we want to make websites where people easily access and understand these problems. Providing people information on conflicts is important because it can help the public think how they can live together with their neighboring countries peacefully. 
 
- Also, we think spending our passion and energy for works which are related to peace is awesome.
+-  Also, we think spending our passion and energy for works which are related to peace is awesome.
 ### What is the story?
  There are 7 datasets. War dataset, National Material Capabilities, World Religion Data, Militarized Interstate Disputes & Locations, Formal Alliances, Territorial Change, and Trade. These all were download from the correlates of war.
 
