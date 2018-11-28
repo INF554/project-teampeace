@@ -21,11 +21,8 @@ why it is interesting, original, useful
 How these figures of military expenditue, wars, MIDs, and International Trade has changed.
 When people, who are not experts in this field, want to understand this problem broadly, 
 it can helps people to get intuition about this problem.
- 
-                       
 
 
- 
 
 
 ## Slide 3
@@ -46,7 +43,7 @@ trade flows between states (as defined by the Correlates of War project) for the
 The dyadic trade dataset describes import and export data in current U.S. dollars for pairs of sovereign states. The National (Monadic) Trade dataset contains information on individual states import and export levels in current U.S. dollars.
 
 
-## Slide 4-12
+## Slide 4-14
 ### Explain the research we have done, what others have done in the same topic, other topics that are relevant.  
 - Military Expenditure in Slide 4-5  
 - Slide 4 (Giving information about the military expenditure of major countries)
@@ -73,12 +70,12 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 
   The purpose of this page is to give some intutition about relationships between the number of countires at wars and the number of countries at trade. 
 
-- Slide 11
+- Slide 11-12
   Before showing the change between the number of countries at wars and the number of countries at trade and change between the number of countries at wars and the total amount trade, I want to show this pie chart.
 
   This pie chart shows the most of trade dependency for all war cases between countries was lower than 0.1. 
 
-- Slide 12
+- Slide 13
   Let's see the change between the number of countries at wars and the number of countries at trade and change between the number of countries at wars and the total amount trade, I want to show this pie chart.
 
   As you can see here, there is some negative correlation between the number of countries at wars and the number of countries at trade by years. And, there is some negative correlation between the number of countries at wars and total amount international trade by years. 
@@ -86,6 +83,7 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 
   Many Liberalists interpreate this phenomenon and believe trade has posivitve effects in developing each countries. And in many cases, the countries which is developed hesitate to join war, because of a lot of negative effects such as increasing military expenditure, decreasing expenditure for other social parts, social insecure,and etc.
 
+- Slide 14
   These Liberalists believe this phenomena ruled by two factors:
   They are international institutions, and International trade.
 
@@ -95,16 +93,8 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 
 
 
-  
-
-
-
-
-
-
-
 ## Slide 15
-Explain your design process, rationale for the layout, story, choice of forms:
+(choice1.svg)Explain your design process, rationale for the layout, story, choice of forms:
 
 - Simple and clean layout which is easy to understand.
 - Well designed pages with good story flow.
@@ -113,7 +103,7 @@ Explain your design process, rationale for the layout, story, choice of forms:
 - This was done to grab the attention of the user initially and maintain the interest of the user long enough till they can explore novel and complex visualizations.
 
 
-Explain choice of forms, how you optimized the visual queries and user interaction and how your work is original:
+(choice2.svg)Explain choice of forms, how you optimized the visual queries and user interaction and how your work is original:
 
 - Made use of bar charts and maps together to show the multilevel, multidimensional visualization of information.
 - Users can easily explore MIDs, Wars and Trade datasets with a single click and find patterns, relations between these entities.
@@ -123,7 +113,7 @@ Explain choice of forms, how you optimized the visual queries and user interacti
 
 
 ## Slide 16
-List of required d3 features to include:
+(demonstration.svg)List of required d3 features to include:
 
 - Affordance for interactive elements.
 - Making use of Hover-and-click animations.
@@ -132,7 +122,7 @@ List of required d3 features to include:
 - Legible and readable text.
 - Responsive and Interactive D3 charts.
 
-List of required d3 features to include:
+(demonstration2.svg)List of required d3 features to include:
 
 - Animated Chart.
 - Here, we use an animated bar chart which can be used to filter and sort the data according to our requirements.
@@ -140,7 +130,7 @@ List of required d3 features to include:
 - Here, we show a proportional symbol map showing the share of military expenditure.
 
 ## Slide 17
-Highlight what you have built:
+(highlight.svg)Highlight what you have built:
 
 - The Bubble Chart displays the summarized as well as specific information of wars over a particular period of time.
 - For example, when we hover the bubble 1988-2003, it shows the number of countries involved in war each year and the major war which took place during this time range. 
@@ -149,11 +139,11 @@ Highlight what you have built:
 - If more countries are peaceful and not involved in any kind of war, the international trade value is high. 
  
 ## Slide 18
-What others have done in the same topic, other topics that are relevant:
+(what others have done in the same topic, other topics that are relevant.)
 - There are many books, magazine, papers in international relations field. Some universities, research institute, international organization such as UN have their specific web pages which provide simple data visualization. In many cases, there provide simple facts in the data set, which does not have any story about data. I always feel if there are web pages that provide data visualization about international relations, the webpages are made in simple story, I thought it is useful. Therefore with story and data, we made the web page.   
 
 ## Slide 19
-Tools and framework features you used:
+(techused.svg)Tools and framework features you used:
 
 Technologies used-
 - HTML
@@ -173,13 +163,13 @@ Technologies used-
     Team Project Homepage making: Angular, Bootstrap.
 
 - Shiv
-    D3:Bubble chart using circle packing(4), Bar chart(3), Line chart(1), Pie chart(4), Scatter Plot(3).
+    D3:Bubble chart(?), Bar chart(?), Line chart(?), Pie chart(?),
     Presentation: Making Presentation file using sozi. 
-    Team Project Homepage making:Angular, Bootstrap.
+    Team Project Homepage making:Angular.
 
 - Seun
-    D3:Line chart(1), Bar chart(2).
-    Presentation: Making Presentation file using sozi. 
-    Team Project Homepage making: Angular, Bootstrap.    
+    D3:Line chart(1), Bar chart(1),
+    Presentation: 
+    Team Project Homepage making: 
 
 
