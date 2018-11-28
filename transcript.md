@@ -43,7 +43,7 @@ trade flows between states (as defined by the Correlates of War project) for the
 The dyadic trade dataset describes import and export data in current U.S. dollars for pairs of sovereign states. The National (Monadic) Trade dataset contains information on individual states import and export levels in current U.S. dollars.
 
 
-## Slide 4-12
+## Slide 4-14
 ### Explain the research we have done, what others have done in the same topic, other topics that are relevant.  
 - Military Expenditure in Slide 4-5  
 - Slide 4 (Giving information about the military expenditure of major countries)
