@@ -95,7 +95,7 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 
 
 ## Slide 15
-(choice1.svg)Explain your design process, rationale for the layout, story, choice of forms:
+Explain your design process, rationale for the layout, story, choice of forms:
 
 - Simple and clean layout which is easy to understand.
 - Well designed pages with good story flow.
@@ -104,7 +104,7 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 - This was done to grab the attention of the user initially and maintain the interest of the user long enough till they can explore novel and complex visualizations.
 
 
-(choice2.svg)Explain choice of forms, how you optimized the visual queries and user interaction and how your work is original:
+Explain choice of forms, how you optimized the visual queries and user interaction and how your work is original:
 
 - Made use of bar charts and maps together to show the multilevel, multidimensional visualization of information.
 - Users can easily explore MIDs, Wars and Trade datasets with a single click and find patterns, relations between these entities.
@@ -114,7 +114,7 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 
 
 ## Slide 16
-(demonstration.svg)List of required d3 features to include:
+List of required d3 features to include:
 
 - Affordance for interactive elements.
 - Making use of Hover-and-click animations.
@@ -123,15 +123,13 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 - Legible and readable text.
 - Responsive and Interactive D3 charts.
 
-(demonstration2.svg)List of required d3 features to include:
-
 - Animated Chart.
 - Here, we use an animated bar chart which can be used to filter and sort the data according to our requirements.
 - We also make use of D3 Maps in our project.
 - Here, we show a proportional symbol map showing the share of military expenditure.
 
 ## Slide 17
-(highlight.svg)Highlight what you have built:
+Highlight what you have built:
 
 - The Bubble Chart displays the summarized as well as specific information of wars over a particular period of time.
 - For example, when we hover the bubble 1988-2003, it shows the number of countries involved in war each year and the major war which took place during this time range. 
@@ -140,11 +138,11 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 - If more countries are peaceful and not involved in any kind of war, the international trade value is high. 
  
 ## Slide 18
-(what others have done in the same topic, other topics that are relevant.)
+What others have done in the same topic and other topics that are relevant:
 - There are many books, magazine, papers in international relations field. Some universities, research institute, international organization such as UN have their specific web pages which provide simple data visualization. In many cases, there provide simple facts in the data set, which does not have any story about data. I always feel if there are web pages that provide data visualization about international relations, the webpages are made in simple story, I thought it is useful. Therefore with story and data, we made the web page.   
 
 ## Slide 19
-(techused.svg)Tools and framework features you used:
+Tools and framework features you used:
 
 Technologies used-
 - HTML
@@ -164,13 +162,13 @@ Technologies used-
     Team Project Homepage making: Angular, Bootstrap.
 
 - Shiv
-    D3:Bubble chart(?), Bar chart(?), Line chart(?), Pie chart(?),
+    D3:Bubble chart(4), Bar chart(3), Line chart(1), Pie chart(4), Scatter Plot(3).
     Presentation: Making Presentation file using sozi. 
-    Team Project Homepage making:Angular.
+    Team Project Homepage making: Angular, Bootstrap.
 
 - Seun
-    D3:Line chart(1), Bar chart(1),
+    D3:Line chart(1), Bar chart(2),
     Presentation: 
-    Team Project Homepage making: 
+    Team Project Homepage making: Angular, Bootstrap.
 
 
