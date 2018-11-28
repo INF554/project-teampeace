@@ -23,26 +23,6 @@ When people, who are not experts in this field, want to understand this problem 
 it can helps people to get intuition about this problem.
 
 
-## Slide ?????????s
-### Explain who did what.
-- Hyun Jun Choi  
-    D3:Bubble chart(2), Bar chart(3), Map(5), Line chart(1), Pie chart(2), Scatter Plot(1).
-    Presentation: Making Presentation file using sozi. 
-    Team Project Homepage making: Angular, Bootstrap.
-
-- Shiv
-    D3:Bubble chart(?), Bar chart(?), Line chart(?), Pie chart(?),
-    Presentation: Making Presentation file using sozi. 
-    Team Project Homepage making:Angular.
-
-- Seun
-    D3:Line chart(1), Bar chart(1),
-    Presentation: 
-    Team Project Homepage making:     
-                       
-
-
- 
 
 
 ## Slide 3
@@ -90,12 +70,12 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 
   The purpose of this page is to give some intutition about relationships between the number of countires at wars and the number of countries at trade. 
 
-- Slide 11
+- Slide 11-12
   Before showing the change between the number of countries at wars and the number of countries at trade and change between the number of countries at wars and the total amount trade, I want to show this pie chart.
 
   This pie chart shows the most of trade dependency for all war cases between countries was lower than 0.1. 
 
-- Slide 12
+- Slide 13
   Let's see the change between the number of countries at wars and the number of countries at trade and change between the number of countries at wars and the total amount trade, I want to show this pie chart.
 
   As you can see here, there is some negative correlation between the number of countries at wars and the number of countries at trade by years. And, there is some negative correlation between the number of countries at wars and total amount international trade by years. 
@@ -103,20 +83,13 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
 
   Many Liberalists interpreate this phenomenon and believe trade has posivitve effects in developing each countries. And in many cases, the countries which is developed hesitate to join war, because of a lot of negative effects such as increasing military expenditure, decreasing expenditure for other social parts, social insecure,and etc.
 
+- Slide 14
   These Liberalists believe this phenomena ruled by two factors:
   They are international institutions, and International trade.
 
   First, it is international institutions, such as the United Nations, who provide a forum to resolve disputes in a non-violent way.  
   
   Second, it is International trade because when countries' economies are interconnected through trade, they are less likely to go to war with each other.
-
-
-
-  
-
-
-
-
 
 
 
