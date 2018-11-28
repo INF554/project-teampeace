@@ -506,25 +506,25 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 77407.71370791514,
-          "cy": 68586.45553801543,
-          "width": 4048.9308912143383,
-          "height": 3035.03056919691,
+          "cx": 78238.15951581599,
+          "cy": 68726.95997809921,
+          "width": 6551.3421782929045,
+          "height": 4913.506633719679,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
           "clipXOffset": 412.16661766852536,
           "clipYOffset": -132.78258740236475,
-          "clipWidthFactor": 0.8253706754530478,
-          "clipHeightFactor": 0.8791208791208791
+          "clipWidthFactor": 0.7795256984069964,
+          "clipHeightFactor": 0.8786381109280611
         }
       },
       "cameraOffsets": {
         "__sozi_auto__": {
-          "deltaX": 142.69027041514346,
-          "deltaY": 617.8383505154343,
-          "widthFactor": 1.990710724197346,
-          "heightFactor": 2.2749463377063712,
+          "deltaX": 885.6360783159907,
+          "deltaY": 658.3427905992139,
+          "widthFactor": 2.9658681984167186,
+          "heightFactor": 3.202836787347205,
           "deltaAngle": 0
         }
       }
@@ -550,25 +550,25 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 85677.13189916822,
-          "cy": 76358.03649996867,
+          "cx": 84945.80890720335,
+          "cy": 76449.45187396428,
           "width": 14077.967595324559,
-          "height": 10552.677522030765,
+          "height": 10558.47569649342,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
           "clipXOffset": -21.753612702598957,
           "clipYOffset": 628.1355667875449,
           "clipWidthFactor": 0.9994508511806693,
-          "clipHeightFactor": 0.7272727272727268
+          "clipHeightFactor": 0.726873346313214
         }
       },
       "cameraOffsets": {
         "__sozi_auto__": {
-          "deltaX": 3592.83502416822,
-          "deltaY": 1178.2708749686717,
+          "deltaX": 2861.512032203347,
+          "deltaY": 1269.6862489642808,
           "widthFactor": 2.8241462142063916,
-          "heightFactor": 3.6874360016661125,
+          "heightFactor": 3.6894620654032924,
           "deltaAngle": 0
         }
       }
@@ -640,8 +640,8 @@
         "__sozi_auto__": {
           "cx": 98904.13739588173,
           "cy": 103818.67354841888,
-          "width": 18610.252056663267,
-          "height": 13957.68904249745,
+          "width": 18610.25205666327,
+          "height": 13957.689042497454,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
@@ -655,8 +655,8 @@
         "__sozi_auto__": {
           "deltaX": 2379.1452083817276,
           "deltaY": 1385.407923418883,
-          "widthFactor": 3.485737483457266,
-          "heightFactor": 3.3879936227019023,
+          "widthFactor": 3.485737483457267,
+          "heightFactor": 3.387993622701903,
           "deltaAngle": 0
         }
       }
@@ -684,8 +684,8 @@
         "__sozi_auto__": {
           "cx": 123383.36042580724,
           "cy": 102724.60872543743,
-          "width": 19799.65756653695,
-          "height": 14849.743174902713,
+          "width": 19799.657566536953,
+          "height": 14849.743174902715,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
@@ -699,8 +699,8 @@
         "__sozi_auto__": {
           "deltaX": -3539.6473866927554,
           "deltaY": -4770.961587062571,
-          "widthFactor": 3.616443966308142,
-          "heightFactor": 3.462953626081298,
+          "widthFactor": 3.6164439663081422,
+          "heightFactor": 3.4629536260812985,
           "deltaAngle": 0
         }
       }
@@ -728,8 +728,8 @@
         "__sozi_auto__": {
           "cx": 139440.12418610984,
           "cy": 115697.7917030989,
-          "width": 16037.795130594106,
-          "height": 12028.346347945577,
+          "width": 16037.795130594108,
+          "height": 12028.34634794558,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
@@ -743,8 +743,8 @@
         "__sozi_auto__": {
           "deltaX": -1312.0476888901612,
           "deltaY": 2119.7057655989047,
-          "widthFactor": 2.8690493580448986,
-          "heightFactor": 2.6385471704345185,
+          "widthFactor": 2.869049358044899,
+          "heightFactor": 2.6385471704345194,
           "deltaAngle": 0
         }
       }
@@ -884,7 +884,7 @@
   ],
   "elementsToHide": [],
   "selectedFrames": [
-    "frame6347"
+    "frame7191"
   ],
   "selectedLayers": [
     "__sozi_auto__"
