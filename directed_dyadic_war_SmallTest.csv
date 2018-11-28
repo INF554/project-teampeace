@@ -1,4 +1,0 @@
-warnum,disno,dyindex,statea,alatitude,alongitude,stateb,blatitude,blongitude,warstrtmnth,warstrtday,warstrtyr,warendmnth,warenday,warendyr,year,warolea,waroleb,wardyadrolea,wardyadroleb,outcomea,batdtha,batdthb,changes_1,changes_2,batdths,durindx
-1,89,89.001,220,48.864716,2.349014,230,41.294856,-4.055685,4,7,1823,9,30,1823,1823,1,3,1,3,1,400,600,,,1000,1
-4,189,189.001,365,61.994573,96.669705,640,39.060481,35.179593,4,30,1828,8,19,1829,1828,1,3,1,3,1,80000,50000,,,130000,1
-151,51,51.025,710,35.86166,104.195397,732,35.907757,127.766922,10,25,1950,7,27,1953,1950,2,3,1,3,2,422612,113248,,,535860,4
