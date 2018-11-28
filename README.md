@@ -1,152 +1,174 @@
-# INF 554 Assignment for 5
+# INF 554 Project
 
 ## Slide 0
 We introduce our team name, names, and email addresses. 
+[Demonstration URL](<http://www-scf.usc.edu/~choi797/teampeace/index.html>)
 
-## Slide 1 (Slide 1 - 3 : Introduction)
+## Slide 1 - 2  Introduction
 
 The title of our project is Information Visualization of the Correlates of War Dataset.
+The World is Changing in war and peace and Why it is changing.
+
 Our group name is Team Peace.
+Introduction leading with 10 words on what wer visualization is about
+- Military Expenditure, Wars, Militarized Interstate Disputes, and  international Trade
+and relationship between international trade and the number of Countries at war by year
 
-### Why you chose this project?
-- There are some websites which provide visual information on war problems. But to understand this information, users should have domain knowledge in this field. Also, this information is limited. So, we want to make websites where people easily access and understand these problems. Providing people information on conflicts is important because it can help the public think how they can live together with their neighboring countries peacefully. 
+Explain who is it addressed to
+- The public who want to know Wars, Military Expenditure, Militarized Interstate Disputes, and Trade, 
 
--  Also, we think spending our passion and energy for works which are related to peace is awesome.
-### What is the story?
- There are 7 datasets that we are using. 
-- War dataset
-- National Material Capabilities
-- World Religion Data
-- Militarized Interstate Disputes & Locations
-- Formal Alliances
-- Territorial Change
-- Trade. 
- All of these were downloaded from the correlates of war website.
+why it is interesting, original, useful
+- To public, we can explain the story in easy ways with data visualization.
+How these figures of military expenditue, wars, MIDs, and International Trade has changed.
+When people, who are not experts in this field, want to understand this problem broadly, 
+it can helps people to get intuition about this problem.
 
- By giving this information to people, we want to explain and summarize how these values for each of the countries have changed over time. For example, political scientists have proved that interdependence on economical things have positive effects on deterring wars among countries. By showing the network of trade and conflict data, we can show that one way to deter war can be having good trade relationships.
 
-## Slide 2
-### Why is your project interesting?
-- First, it can help people understand world in the international aspect.
-- Second, it stimulates people to think how human beings maintain world peace.  
-### Why is your visualization important?
- In this project, the main purpose is to provide visual information in an easy way by making a web site.
 
-### How is your visualization useful?
- Our visualization can be used to educate the public about this problem.
 
-## Slide 3 
-### Who is the audience for your project?
-- Anyone who has never studied international war problems but wants to understand these problems and resolve these issues.
-- Anyone who wants to get intuition under the war dataset by using information visualization.
+## Slide 3
+### Explain the data and topic as needed to understand the project.
+- Military Expenditure data
+A military budget (or military expenditure), also known as a defense budget, is the amount of financial resources dedicated by a state to raising and maintaining an armed forces or other methods essential for defense purposes. In this project, we use Military Expenditure(%) of GDP.
 
-## Slide 4 (Slide 4 - 8 : Visualization)
-### What are you telling with your visualization?
- By using the COW war datasets, we can show the visual information about: 
-- How many wars have occurred from 1816-2016?
-- How many people have passed away because of each conflict? 
-- What countries took part and what type of war it was? 
-- Time period of the wars? 
-- How each war ended?
+- MIDs data
+Militarized Interstate Disputes are conflicts between states that do not involve a full-scale war.
+A conflict is described as an MID if it cauese fewer than 1000 deaths, and some military force is used.
 
-## Slide 5
-### What are you telling with your visualization?
- By using militarized interstate disputes and locations, we can visualize where countries took part in conflicts. We draw this information on the map. Therefore, users can know the exact location where each conflict has occurred, number of wars that took place in each area, and how many people passed away in each conflict area. To visualize all these kinds of information, we make use of cartogram, proportional symbol map, dot map, etc.
+- War data
+Wars involve a full-scale war.
+A conflict is described as an War if it cauese more than 1000 deaths, and military force is used.
 
-## Slide 6
-### What are you telling with your visualization?
- Each country's national material capabilities is one important factor which can be linked with number of deaths. By using this information, we can show the countries that have a prominent effect on world peace and war. One of the simplest comparison is to use military expenditure for each of the countries. The trend in the change of military expenditure every year can be observed. We can also show the correlation between fatalities and national capacities index. The amount of Iron and steel produced versus the total population comparison can be used. 
+- Trade data
+trade flows between states (as defined by the Correlates of War project) for the period 1870-2014. The data include information on both bilateral trade flows and total national imports and exports. 
+The dyadic trade dataset describes import and export data in current U.S. dollars for pairs of sovereign states. The National (Monadic) Trade dataset contains information on individual states import and export levels in current U.S. dollars.
 
-## Slide 7
-### What are you telling with your visualization?
- Visual information about how alliances have changed is showed with the formal alliances dataset. By using network of countries, we can help people understand how relationships between countries have changed over time.
 
- By using world religion data, we can show the major religions people follow in different parts of the world. This data will be visualized on the map. We can draw this information globally, nationally, and regionally.
+## Slide 4-14
+### Explain the research we have done, what others have done in the same topic, other topics that are relevant.  
+- Military Expenditure in Slide 4-5  
+- Slide 4 (Giving information about the military expenditure of major countries)
+  To understand current situations of Militarized Disputes and Wars in world, knowing their military expenditure of major countries is important, because they have had significant effects on international peace. By providing this information, readers can check whether these major countries have compete in arms, which has negative effects on world peace.
 
-## Slide 8
-### What are you telling with your visualization?
- Trade is known as one of factors to deter wars among countries. By using this trade data, we can show:
-- How the amount of trade has changed over time between each country?
-- Which countries are most interdependent on each other?( This information can be visualized with the Chord diagram)
-- The number of wars between countries that have good trade relationships with each other?
-- The number of war between countries which have do not have good trade relationships with each other?
+  Therefore, by using the bubble cloud, I want to give the information about how much percentage of it's GDP major countries spend strengthening military power.
+  With the animated bar chart, reader can know the ranking of the expenditure.
+  
 
- By using territorial change, we can show the behavior of each country. 
+- Slide 5 (Showing military expenditure of major countries on the map)
+  By showing information about the share of entire military expenditure on the Map, I want to give inforamtion about which country has hegamony in each area, and which countries may compete in military power in each area and world. This information shows which area are peceful compared to other areas.  
 
-## Slide 9
-### What are your design considerations?
+  The line chart makes readers understand how major countries have spent the expenditure in military. The purpose of this chart is to show whether major countries have competed in militray or not. By using the line chart, reader can understand most of major countries have remained the percentage, instead of increasing the percentaage, which can makes tension.
+
+- War, MIDs, and International Trade in Slide 6-12 
+- Slide 6 shows the average number of countries at wars by year. And you can check what is major war during each period. The purpose of this chart is to give user broad understanding of when many countries have wars, and in recent years, how many countries took part in wars.
+
+- Slide 7-10 shows the information about MIDs, War, and Trade. 
+  By showing the mids inforamtion with bar chart and map, user can understand how the number of mids have changed and which area is the most disputed area by year.   
+
+  By showing the number of countries at war with bar chart and map, user can understand when countries have joined wars.    
+
+  By showing the number of countries at trade with bar chart and map, user can understand how many countries take part in international trade and whether the number of countries at trade increases or decreases.
+
+  The purpose of this page is to give some intutition about relationships between the number of countires at wars and the number of countries at trade. 
+
+- Slide 11-12
+  Before showing the change between the number of countries at wars and the number of countries at trade and change between the number of countries at wars and the total amount trade, I want to show this pie chart.
+
+  This pie chart shows the most of trade dependency for all war cases between countries was lower than 0.1. 
+
+- Slide 13
+  Let's see the change between the number of countries at wars and the number of countries at trade and change between the number of countries at wars and the total amount trade, I want to show this pie chart.
+
+  As you can see here, there is some negative correlation between the number of countries at wars and the number of countries at trade by years. And, there is some negative correlation between the number of countries at wars and total amount international trade by years. 
+
+
+  Many Liberalists interpreate this phenomenon and believe trade has posivitve effects in developing each countries. And in many cases, the countries which is developed hesitate to join war, because of a lot of negative effects such as increasing military expenditure, decreasing expenditure for other social parts, social insecure,and etc.
+
+- Slide 14
+  These Liberalists believe this phenomena ruled by two factors:
+  They are international institutions, and International trade.
+
+  First, it is international institutions, such as the United Nations, who provide a forum to resolve disputes in a non-violent way.  
+  
+  Second, it is International trade because when countries' economies are interconnected through trade, they are less likely to go to war with each other.
+
+
+
+## Slide 15
+Explain your design process, rationale for the layout, story, choice of forms:
+
+- Simple and clean layout which is easy to understand.
+- Well designed pages with good story flow.
+- Made use of frequently used charts like line chart, pie chart, etc. so that even users who are new to this domain of wars and disputes can easily understand the information.
+- Most of the charts that were used are ones that are familiar and popular with the average user. 
+- This was done to grab the attention of the user initially and maintain the interest of the user long enough till they can explore novel and complex visualizations.
+
+
+Explain choice of forms, how you optimized the visual queries and user interaction and how your work is original:
+
+- Made use of bar charts and maps together to show the multilevel, multidimensional visualization of information.
+- Users can easily explore MIDs, Wars and Trade datasets with a single click and find patterns, relations between these entities.
+- By showing different views at once, it is more informative and exploratory in nature to the user.
+- This kind of visualization are very useful to political scientists or people who are interested in getting specific information.
+- For example, if the user hovers a bar for the year 1986, the corresponding information is shown in the map below. 
+
+
+## Slide 16
+List of required d3 features to include:
+
 - Affordance for interactive elements.
-- Making use of Hover-and-click animations. For example, the Hover-and-click animation is used to provide additional information for a particular region and a specific year in a map showing battle related deaths in state based conflicts since 1946.
+- Making use of Hover-and-click animations.
 - Clean UI.
 - Simple color palette that is very easy to see.
 - Legible and readable text.
+- Responsive and Interactive D3 charts.
 
+- Animated Chart.
+- Here, we use an animated bar chart which can be used to filter and sort the data according to our requirements.
+- We also make use of D3 Maps in our project.
+- Here, we show a proportional symbol map showing the share of military expenditure.
 
-## Slide 10
-### What are the components that make your visualization cool?
-- Visualizations that are more interactive and explorative in nature.
-- Making use of novel charts, maps that people don't usually encounter in daily life.
-- More information visualizations that are multidimensional in nature. 
+## Slide 17
+Highlight what you have built:
 
-### How does your visualization compare to what others have done?
- There are some websites which provide information visualizations on war related datasets. 
-- The first one is International Conflict Research in ETH Zurich, Swiss. 
-- The second one is Uppsala Conflict Data Program (UCDP) in Uppsala University, Sweden.
-
- These websites provide visual information on international conflict problems but each website has only limited information. 
-
-## Slide 11 (What is your plan) 
-### What are the technologies you plan to use?
-- HTML 
-- CSS
-- JavaScript
-- D3.js
-- Bootstrap
-- Vue.js
-- Inkscape
-- Sketch
-
-## Slide 12 (How are you going to design, build, and evaluate?)
-### Design & Build
-- Our information visualizations would be more multidimensional and dense in nature.
-- Our focus would be more on functionality rather than visual style.  
-
-### Evaluate
- The two websites(International Conflict Research in ETH Zurich and Uppsala Conflict Data Program (UCDP) in Uppsala University can be used as a reference point to compare our website with.
- By making the visualization wheels of the websites, we can analyze and compare their features in more detail.
+- The Bubble Chart displays the summarized as well as specific information of wars over a particular period of time.
+- For example, when we hover the bubble 1988-2003, it shows the number of countries involved in war each year and the major war which took place during this time range. 
+- The Scatter Plot summarizes the relation between war and trade.
+- General pattern observered is that if more number of countries are involved in war, the international trade value is low.
+- If more countries are peaceful and not involved in any kind of war, the international trade value is high. 
  
-### What data will you use, how will you obtain it?
- We downloaded the data sets from the correlates of war website. This is a renowned website to researchers in the field of international conflict.
+## Slide 18
+What others have done in the same topic and other topics that are relevant:
+- There are many books, magazine, papers in international relations field. Some universities, research institute, international organization such as UN have their specific web pages which provide simple data visualization. In many cases, there provide simple facts in the data set, which does not have any story about data. I always feel if there are web pages that provide data visualization about international relations, the webpages are made in simple story, I thought it is useful. Therefore with story and data, we made the web page.   
 
-## Slide 13
-### Timeline
-- Data Acquisition (Week 5)
-- Exploratory Data Analysis (Week 7)
-- Website Prototype (Week 9)
-- Paper 1st Draft (Week 10)
-- Final Paper (mid Week 13)
-- Final Video (late Week 13)
-- Final Website (early Week 14)
-- Project Presentation (mid Week 14)
+## Slide 19
+Tools and framework features you used:
 
-
-## Slide 14
-### Deliverables
-- Website showing information visualizations.
-- Video.
-- Paper publication.
-
-## Slide 15
-### Team
-- Team members: 
-	- Huyunjun Choi  |  choi797@usc.edu
-	- Seun Deleawe  |  deleawe@usc.edu
-	- Shiv Velagala  |  velagala@usc.edu 
-
-- We are confident in our ability to achieve the intended goal of this project. Our plan is to divide the work according to our strengths. Huyunjun has great domain expertise, Seun is strong in visual design, and Shiv is strong in web technologies such as D3.js
+Technologies used-
+- HTML
+- CSS
+- JS
+- D3
+- Angular
+- Bootstrap
+- Inkscape
 
 
+## Slide 20
+### Explain who did what.
+- Hyun Jun Choi  
+    D3:Bubble chart(2), Bar chart(3), Map(5), Line chart(1), Pie chart(2), Scatter Plot(1).
+    Presentation: Making Presentation file using sozi. 
+    Team Project Homepage making: Angular, Bootstrap.
 
+- Shiv
+    D3:Bubble chart(4), Bar chart(3), Line chart(1), Pie chart(4), Scatter Plot(3).
+    Presentation: Making Presentation file using sozi. 
+    Team Project Homepage making: Angular, Bootstrap.
 
+- Seun
+    D3:Line chart(1), Bar chart(2),
+    Presentation: 
+    Team Project Homepage making: Angular, Bootstrap.
 
 
