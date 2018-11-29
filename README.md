@@ -5,7 +5,7 @@
 
 ### PROJECT INFORMATION
 
-- Project title: Wars, Militarized Disputes, and Trade
+- Project title: Wars, Militarized Disputes and Trade
 - Group name: Team Peace
 - Team names: Hyun Jun Choi (choi797), Shiv Prathik Velagala (velagala), Sean Deleawe (deleawe)
 
