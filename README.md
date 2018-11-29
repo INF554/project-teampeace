@@ -1,5 +1,23 @@
 # INF 554 Project
 
+```md
+## PROJECT SUMMARY
+
+### PROJECT INFORMATION
+
+- Project title: < Wars, Militarized Disputes, and Trade >
+- Group name: < Team Peace>
+- Team names: [< Hyun Jun Choi> (< choi797 >) 
+< Shiv Prathik Velagala> (< velagala >) 
+< Sean Deleawe> (< deleawe >)]
+
+### PROJECT ARTIFACTS
+
+- [Demonstration URL](<http://www-scf.usc.edu/~choi797/teampeace/index.html>)
+- [Presentation PDF](<presentation-pdf-url>) and [transcript](<presentation-transcript-md-url>)
+- [Article](<article-pdf-url>) and [Overleaf URL](<overleaf-article-url>)
+- [YouTube video](<youtube-video-url>)
+```
 ## Slide 0
 We introduce our team name, names, and email addresses. 
 [Demonstration URL](<http://www-scf.usc.edu/~choi797/teampeace/index.html>)
@@ -161,12 +179,12 @@ Technologies used-
     Presentation: Making Presentation file using sozi. 
     Team Project Homepage making: Angular, Bootstrap.
 
-- Shiv
+- Shiv Prathik Velagala
     D3:Bubble chart(4), Bar chart(3), Line chart(1), Pie chart(4), Scatter Plot(3).
     Presentation: Making Presentation file using sozi. 
     Team Project Homepage making: Angular, Bootstrap.
 
-- Seun
+- Seun Deleawe
     D3:Line chart(1), Bar chart(2),
     Presentation: 
     Team Project Homepage making: Angular, Bootstrap.
