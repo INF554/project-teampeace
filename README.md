@@ -186,7 +186,7 @@ Technologies used-
 
 - Seun Deleawe
     D3:Line chart(1), Bar chart(2),
-    Presentation: 
+    Presentation: Making Presentation file using sozi. 
     Team Project Homepage making: Angular, Bootstrap.
 
 
