@@ -5,22 +5,20 @@
 
 ### PROJECT INFORMATION
 
-- Project title: < Wars, Militarized Disputes, and Trade >
-- Group name: < Team Peace>
-- Team names: [< Hyun Jun Choi> (< choi797 >) 
-< Shiv Prathik Velagala> (< velagala >) 
-< Sean Deleawe> (< deleawe >)]
+- Project title: Wars, Militarized Disputes, and Trade
+- Group name: Team Peace
+- Team names: Hyun Jun Choi (choi797), Shiv Prathik Velagala (velagala), Sean Deleawe (deleawe)
 
 ### PROJECT ARTIFACTS
 
-- [Demonstration URL](<http://www-scf.usc.edu/~choi797/teampeace/index.html>)
+- [Demonstration URL](http://www-scf.usc.edu/~choi797/teampeace/index.html)
 - [Presentation PDF](<presentation-pdf-url>) and [transcript](<presentation-transcript-md-url>)
 - [Article](<article-pdf-url>) and [Overleaf URL](<overleaf-article-url>)
 - [YouTube video](<youtube-video-url>)
 ```
 ## Slide 0
 We introduce our team name, names, and email addresses. 
-[Demonstration URL](<http://www-scf.usc.edu/~choi797/teampeace/index.html>)
+[Demonstration URL](http://www-scf.usc.edu/~choi797/teampeace/index.html)
 
 ## Slide 1 - 2  Introduction
 
