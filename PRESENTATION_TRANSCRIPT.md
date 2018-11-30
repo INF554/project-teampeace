@@ -40,8 +40,6 @@ When people, who are not experts in this field, want to understand this problem 
 it can helps people to get intuition about this problem.
 
 
-
-
 ## Slide 3
 ### Explain the data and topic as needed to understand the project.
 - Military Expenditure data
@@ -109,7 +107,6 @@ The dyadic trade dataset describes import and export data in current U.S. dollar
   Second, it is International trade because when countries' economies are interconnected through trade, they are less likely to go to war with each other.
 
 
-
 ## Slide 15
 Explain your design process, rationale for the layout, story, choice of forms:
 
@@ -173,18 +170,20 @@ Technologies used-
 ## Slide 20
 ### Explain who did what.
 - Hyun Jun Choi  
-    D3:Bubble chart(2), Bar chart(3), Map(5), Line chart(1), Pie chart(2), Scatter Plot(1).
+    D3:Bubble chart, Bar chart, Map, Line chart, Pie chart, Scatter Plot.
     Presentation: Making Presentation file using sozi. 
     Team Project Homepage making: Angular, Bootstrap.
 
 - Shiv Prathik Velagala
-    D3:Bubble chart(4), Bar chart(3), Line chart(1), Pie chart(4), Scatter Plot(3).
+    D3:Bubble chart, Bar chart, Line chart, Pie chart, Scatter Plot.
     Presentation: Making Presentation file using sozi. 
     Team Project Homepage making: Angular, Bootstrap.
 
 - Seun Deleawe
-    D3:Line chart(1), Bar chart(2),
+    D3:Line chart, Bar chart, Slopegraph.
     Presentation: Making Presentation file using sozi. 
     Team Project Homepage making: Angular, Bootstrap.
+
+
 
 
