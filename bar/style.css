@@ -1,0 +1,35 @@
+body {
+	padding-top: 25px;
+	margin: auto;
+	width: 650px;
+	font: 16px arial;
+}
+
+div.tooltip {
+		position: absolute;
+		text-align: center;
+		width: auto;
+		height: auto;
+		padding: 5px;
+		font-size: 18px;
+		background: lightsteelblue;
+		border: 0px;
+		border-radius: 8px;
+		pointer-events: none;
+}
+
+rect:hover {
+		fill: #F47F42;
+		stroke: black;
+		stroke-width: 2px;
+}
+
+p{
+		color: rgb(52, 63, 83);
+		font-family: "Arial";
+		font-size: 16px;
+}
+
+h2{
+	text-align: center;
+}

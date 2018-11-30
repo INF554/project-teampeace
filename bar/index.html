@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+
+<head>
+  <title>Bar Charts</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+</head>
+
+
+<body>
+
+<div id="section1">
+<h2>Bar Chart showing Total Trade Values of the top 10 countries based on CINC score in 1870</h2>
+<svg id="svg_barchart" width="800" height="500"></svg>
+</div>
+
+<div id="section2">
+<h2>Bar Chart showing Total Trade Values of the top 10 countries based on CINC score in 2014</h2>
+<svg id="svg_barchart2" width="800" height="500"></svg>
+</div>
+
+<div id="section3">
+<h2>Animated Bar Chart showing Total Trade Values of the top 10 countries based on CINC score</h2>
+<svg id="chart" width="950" height="500"></svg>
+Select year:
+<select id="year"></select>
+
+<input type="checkbox" id="sort">
+Sort by Trade Value
+</div>
+
+
+<script src="barchart_1870.js"></script>
+<script src="barchart_2014.js"></script>
+<script src="dynamicbar.js"></script>
+
+</body>
+
+</html>
