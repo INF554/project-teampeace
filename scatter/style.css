@@ -1,0 +1,36 @@
+
+body {
+    background-color: #FFFFFF;
+    color: rgb(52, 63, 83);
+}
+
+  h2{
+    text-align: center;
+  }
+
+
+   svg{
+    margin-bottom: 3em;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  circle:hover {
+      fill: #F47F42;
+      stroke: black;
+      stroke-width: 2px;
+  }
+
+  div.tooltip {
+      position: absolute;
+      text-align: center;
+      width: auto;
+      height: auto;
+      padding: 5px;
+      font-size: 18px;
+      background: lightsteelblue;
+      border: 0px;
+      border-radius: 8px;
+      pointer-events: none;
+  }
