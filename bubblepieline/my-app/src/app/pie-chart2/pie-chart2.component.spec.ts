@@ -1,0 +1,25 @@
+import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+
+import { PieChart2Component } from './pie-chart2.component';
+
+describe('PieChart2Component', () => {
+  let component: PieChart2Component;
+  let fixture: ComponentFixture<PieChart2Component>;
+
+  beforeEach(async(() => {
+    TestBed.configureTestingModule({
+      declarations: [ PieChart2Component ]
+    })
+    .compileComponents();
+  }));
+
+  beforeEach(() => {
+    fixture = TestBed.createComponent(PieChart2Component);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+  });
+
+  it('should create', () => {
+    expect(component).toBeTruthy();
+  });
+});
