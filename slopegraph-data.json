@@ -1,0 +1,102 @@
+[
+    {
+      "country": "U.S.A",
+      "year": 2007,
+      "value": 3.85
+    },
+    {
+      "country": "U.S.A",
+      "year": 2016,
+      "value": 3.28
+    },
+    {
+      "country": "Italy",
+      "year": 2007,
+      "value": 1.63
+    },
+    {
+      "country": "Italy",
+      "year": 2016,
+      "value": 1.50
+    },
+    {
+      "country": "Iran",
+      "year": 2007,
+      "value": 2.67
+    },
+    {
+      "country": "Iran",
+      "year": 2016,
+      "value": 2.97
+    },
+    {
+      "country": "Japan",
+      "year": 2007,
+      "value": 0.90
+    },
+    {
+      "country": "Japan",
+      "year": 2016,
+      "value": 0.93
+    },
+    {
+      "country": "India",
+      "year": 2007,
+      "value": 2.42
+    },
+    {
+      "country": "India",
+      "year": 2016,
+      "value": 2.47
+    },
+    {
+      "country": "Germany",
+      "year": 2007,
+      "value": 1.24
+    },
+    {
+      "country": "Germany",
+      "year": 2016,
+      "value": 1.18
+    },
+    {
+      "country": "France",
+      "year": 2007,
+      "value": 2.28
+    },
+    {
+      "country": "France",
+      "year": 2016,
+      "value": 2.26
+    },
+    {
+      "country": "China",
+      "year": 2007,
+      "value": 1.91
+    },
+    {
+      "country": "China",
+      "year": 2016,
+      "value": 1.92
+    },
+    {
+      "country": "Canada",
+      "year": 2007,
+      "value": 1.19
+    },
+    {
+      "country": "Canada",
+      "year": 2016,
+      "value": 0.99
+    },
+    {
+      "country": "Australia",
+      "year": 2007,
+      "value": 1.89
+    },
+    {
+      "country": "Australia",
+      "year": 2016,
+      "value": 2.00
+    }
+]

@@ -7,7 +7,7 @@
 
 - Project title: Wars, Militarized Disputes and Trade
 - Group name: Team Peace
-- Team names: Hyun Jun Choi (choi797), Shiv Prathik Velagala (velagala), Sean Deleawe (deleawe)
+- Team names: Hyun Jun Choi (choi797), Shiv Prathik Velagala (velagala), Seun Deleawe (deleawe)
 
 ### PROJECT ARTIFACTS
 
@@ -185,7 +185,7 @@ Technologies used-
     Team Project Homepage making: Angular, Bootstrap.
 
 - Seun Deleawe
-    D3:Line chart(1), Bar chart(2),
+    D3:Line chart(1), Bar chart(2), Slopegraph
     Presentation: Making Presentation file using sozi. 
     Team Project Homepage making: Angular, Bootstrap.
 
