@@ -1,21 +1,4 @@
-# INF 554 Project
 
-```md
-## PROJECT SUMMARY
-
-### PROJECT INFORMATION
-
-- Project title: Wars, Militarized Disputes and Trade
-- Group name: Team Peace
-- Team names: Hyun Jun Choi (choi797), Shiv Prathik Velagala (velagala), Sean Deleawe (deleawe)
-
-### PROJECT ARTIFACTS
-
-- [Demonstration URL](http://www-scf.usc.edu/~choi797/teampeace/index.html)
-- [Presentation PDF](<presentation-pdf-url>) and [transcript](<presentation-transcript-md-url>)
-- [Article](<article-pdf-url>) and [Overleaf URL](<overleaf-article-url>)
-- [YouTube video](<youtube-video-url>)
-```
 ## 1. Implementation of the main page.
 
     By using the bootstrap example code, we made the main webpage.
