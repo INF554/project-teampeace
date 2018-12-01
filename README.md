@@ -2,6 +2,7 @@
 
 ```md
 ## PROJECT SUMMARY
+This project is about Militarized interstate disputes, wars, and trade. By giving public this information, we want to make people interested in these problems.   
 
 ### PROJECT INFORMATION
 
