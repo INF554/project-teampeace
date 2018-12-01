@@ -294,25 +294,25 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 64424.78633547226,
-          "cy": 58958.30869687125,
-          "width": 8935.351271381705,
-          "height": 6697.833325335546,
+          "cx": 64322.0464097359,
+          "cy": 59020.020705169205,
+          "width": 9851.224776698342,
+          "height": 7388.418582523757,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
           "clipXOffset": 124.83416950446173,
           "clipYOffset": -36.2045044612732,
-          "clipWidthFactor": 0.7544555938295641,
-          "clipHeightFactor": 0.8008658008658008
+          "clipWidthFactor": 0.7544555938295632,
+          "clipHeightFactor": 0.800426006356813
         }
       },
       "cameraOffsets": {
         "__sozi_auto__": {
-          "deltaX": 1222.6925854722576,
-          "deltaY": 843.9883843712523,
-          "widthFactor": 2.5680739604356018,
-          "heightFactor": 2.110214705729487,
+          "deltaX": 1119.9526597359,
+          "deltaY": 905.700392669205,
+          "widthFactor": 2.8313015413802542,
+          "heightFactor": 2.32779001620581,
           "deltaAngle": 0
         }
       }
@@ -884,7 +884,7 @@
   ],
   "elementsToHide": [],
   "selectedFrames": [
-    "frame7191"
+    "frame8931"
   ],
   "selectedLayers": [
     "__sozi_auto__"
