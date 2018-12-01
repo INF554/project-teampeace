@@ -17,173 +17,614 @@
 - [YouTube video](<youtube-video-url>)
 ```
 
-## Slide 0
-We introduce our team name, names, and email addresses. 
-- [Demonstration URL](http://www-scf.usc.edu/~choi797/teampeace/index.html)
-- [Transcript URL](<https://github.com/INF554Fall18/project-teampeace/blob/master/PRESENTATION_TRANSCRIPT.md>)
+## 1. Implementation of the main page.
 
-## Slide 1 - 2  Introduction
+    By using the bootstrap example code, we made the main webpage.
 
-The title of our project is Information Visualization of the Correlates of War Dataset.
-The World is Changing in war and peace and Why it is changing.
+## Bubble chart
+    By mouseovering each circle, we can check each information of each period with tooltips. 
+### ![alt text](01P.PNG)
 
-Our group name is Team Peace.
-Introduction leading with 10 words on what wer visualization is about
-- Military Expenditure, Wars, Militarized Interstate Disputes, and  international Trade
-and relationship between international trade and the number of Countries at war by year
+## 0. Format your files and Load the JSON file.
+### Bubble chart(The file named, BothWarAndTradeInter10ForBubble.json)
+    To make json file for this bubble chart, we need the war data set and trade. There are 3 parts, which are BeforeWWone, BetweenWWoneWWtwo, and PostWWtwo. And in each part, there are records about wars, trade, and the name of major war. we upload the python file for processing data(554DataPreprocessing.py).
+#### ![alt text](05.PNG) 
 
-Explain who is it addressed to
-- The public who want to know Wars, Military Expenditure, Militarized Interstate Disputes, and Trade, 
+## 1. Implementation of the Bubble chart.
+### 1-1 Explanation about bubble-war-trade.html
+    For the bubble chart, we need to implement html code. The code is located in this bubble-cir-pack.component.html.
+    We can see the structure of each part such as where card and tooltips are located.
+    Based on this html code, we implement the bubble chart.
+### 1-2 Explanation about bubble-war-trade.ts
+#### About bubble chart
+    We implement js code in this file. For implementing this code, the most important part is to format the json file well. We explain the code in ts file. We select the div with BubbleChar1Div.
+#### ![alt text](10.PNG)   
+    The root variable is made using d.value, which means expenditure. And it is sorted using the values.
+#### ![alt text](11.PNG)   
+    The circles have the class named cir1. we can check how the radius and color are set. 
+#### ![alt text](12.PNG)  
 
-why it is interesting, original, useful
-- To public, we can explain the story in easy ways with data visualization.
-How these figures of military expenditue, wars, MIDs, and International Trade has changed.
-When people, who are not experts in this field, want to understand this problem broadly, 
-it can helps people to get intuition about this problem.
-
-
-## Slide 3
-### Explain the data and topic as needed to understand the project.
-- Military Expenditure data
-A military budget (or military expenditure), also known as a defense budget, is the amount of financial resources dedicated by a state to raising and maintaining an armed forces or other methods essential for defense purposes. In this project, we use Military Expenditure(%) of GDP.
-
-- MIDs data
-Militarized Interstate Disputes are conflicts between states that do not involve a full-scale war.
-A conflict is described as an MID if it cauese fewer than 1000 deaths, and some military force is used.
-
-- War data
-Wars involve a full-scale war.
-A conflict is described as an War if it cauese more than 1000 deaths, and military force is used.
-
-- Trade data
-trade flows between states (as defined by the Correlates of War project) for the period 1870-2014. The data include information on both bilateral trade flows and total national imports and exports. 
-The dyadic trade dataset describes import and export data in current U.S. dollars for pairs of sovereign states. The National (Monadic) Trade dataset contains information on individual states import and export levels in current U.S. dollars.
+#### About tooltip in the bubble chart.
+    When user mouseovers each pie, which is class cir1 in my code, the function on('mouseover') shows the tooltip. This photo shows how it works. The principle is not complicated.
+    The x,y position means where tooltip is located. So, by using the tooltip-bub1 (in the html code), if mouseover occurs, it shows the tooltip and if user mouseouts, the tooltip is hidden.
+#### ![alt text](13.PNG)  
 
 
-## Slide 4-14
-### Explain the research we have done, what others have done in the same topic, other topics that are relevant.  
-- Military Expenditure in Slide 4-5  
-- Slide 4 (Giving information about the military expenditure of major countries)
-  To understand current situations of Militarized Disputes and Wars in world, knowing their military expenditure of major countries is important, because they have had significant effects on international peace. By providing this information, readers can check whether these major countries have compete in arms, which has negative effects on world peace.
-
-  Therefore, by using the bubble cloud, I want to give the information about how much percentage of it's GDP major countries spend strengthening military power.
-  With the animated bar chart, reader can know the ranking of the expenditure.
-  
-
-- Slide 5 (Showing military expenditure of major countries on the map)
-  By showing information about the share of entire military expenditure on the Map, I want to give inforamtion about which country has hegamony in each area, and which countries may compete in military power in each area and world. This information shows which area are peceful compared to other areas.  
-
-  The line chart makes readers understand how major countries have spent the expenditure in military. The purpose of this chart is to show whether major countries have competed in militray or not. By using the line chart, reader can understand most of major countries have remained the percentage, instead of increasing the percentaage, which can makes tension.
-
-- War, MIDs, and International Trade in Slide 6-12 
-- Slide 6 shows the average number of countries at wars by year. And you can check what is major war during each period. The purpose of this chart is to give user broad understanding of when many countries have wars, and in recent years, how many countries took part in wars.
-
-- Slide 7-10 shows the information about MIDs, War, and Trade. 
-  By showing the mids inforamtion with bar chart and map, user can understand how the number of mids have changed and which area is the most disputed area by year.   
-
-  By showing the number of countries at war with bar chart and map, user can understand when countries have joined wars.    
-
-  By showing the number of countries at trade with bar chart and map, user can understand how many countries take part in international trade and whether the number of countries at trade increases or decreases.
-
-  The purpose of this page is to give some intutition about relationships between the number of countires at wars and the number of countries at trade. 
-
-- Slide 11-12
-  Before showing the change between the number of countries at wars and the number of countries at trade and change between the number of countries at wars and the total amount trade, I want to show this pie chart.
-
-  This pie chart shows the most of trade dependency for all war cases between countries was lower than 0.1. 
-
-- Slide 13
-  Let's see the change between the number of countries at wars and the number of countries at trade and change between the number of countries at wars and the total amount trade, I want to show this pie chart.
-
-  As you can see here, there is some negative correlation between the number of countries at wars and the number of countries at trade by years. And, there is some negative correlation between the number of countries at wars and total amount international trade by years. 
 
 
-  Many Liberalists interpreate this phenomenon and believe trade has posivitve effects in developing each countries. And in many cases, the countries which is developed hesitate to join war, because of a lot of negative effects such as increasing military expenditure, decreasing expenditure for other social parts, social insecure,and etc.
-
-- Slide 14
-  These Liberalists believe this phenomena ruled by two factors:
-  They are international institutions, and International trade.
-
-  First, it is international institutions, such as the United Nations, who provide a forum to resolve disputes in a non-violent way.  
-  
-  Second, it is International trade because when countries' economies are interconnected through trade, they are less likely to go to war with each other.
+## Pie chart
+    On the right side of the chart, there are generic informtion about data and how to use the pie chart. If we mouseover on each pie, we can check the color of the selected pie can be changed. And the card also changes, based on user's selection on the pies.
+### ![alt text](4-1.PNG)
+### ![alt text](4-2.PNG)
 
 
-## Slide 15
-Explain your design process, rationale for the layout, story, choice of forms:
 
-- Simple and clean layout which is easy to understand.
-- Well designed pages with good story flow.
-- Made use of frequently used charts like line chart, pie chart, etc. so that even users who are new to this domain of wars and disputes can easily understand the information.
-- Most of the charts that were used are ones that are familiar and popular with the average user. 
-- This was done to grab the attention of the user initially and maintain the interest of the user long enough till they can explore novel and complex visualizations.
+## 0. Format your files and Load the JSON file.
+### Pie chart(The file named, tradeImportanceAndWarsPoint1.json)
+    The structure of this json file is simple. The value represents the number of war between two countries. The country <0.1 and value 227  in file represent the 227 number of war whose trade dependency is smaller than 0.1. To make this json, we need war data set and trade dataset (dyad trade data set and nation trade data set). we upload the python file for processing data(554DataPreprocessing.py). 
+   
+
+## 1. Implementation the Pie chart.
+### 1 Explanation about piechart.component.html
+    For pie chart, we need to implement html code. The code is located in piechart.component.html.
+    we can see the structure of each part such as where card and tooltips are located.
+    Based on this html code, we implement the pie chart.
+## 2 Explanation about piechart.component.ts
+### About pie chart
+    we implement js code in this file.   
+    margin convention is used. svg is appended with id PieChart1Div.
+<!-- #### ![alt text](22.PNG)   -->
+
+```javascript
+    var margin = { top: 20, left: 80, bottom: 50, right: 10 };
+    var width = 800 - margin.left - margin.right;
+    var height = 600 - margin.top - margin.bottom;
+    var numPoints = 0;
+    var numTexts = 0;
+
+    var svg = d3.select("#PieChart1Div").append("svg")
+      .attr('width', width + margin.left + margin.right)
+      .attr('height', height + margin.top + margin.bottom)
+      .append('g')
+      .attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')');
+```
+
+    By using pie generator, the pies are made.
+<!-- #### ![alt text](23.PNG)  -->
+```javascript
+d3.json("tradeImportanceAndWarsPoint1.json").then(function (data: any) {
+
+      data.value = +data.value;
+      var arc = g.selectAll(".arc")
+        .data(pie(data)) //use pie generator to create the data needed for the each slice of the pie
+        .enter().append("g")
+        .attr("class", "arc");
+      arc.append("path") //for each slide use arc path generator to draw the pie
+        .attr("d", path)
+        .attr("class", "pathLine")
+        .attr("id", function (d: any) {
+          countryName.push(d.data.country); 
+          countryName.sort()
+          color.domain(countryName.sort());
+          numPoints = numPoints + 1;
+          return "pathLine1" + (numPoints + 1).toString();
+        })
+        .attr("fill", function (d: any) { return color(d.data.value); }); //get data from node (select and $0.__data__ in console)
+      arc.append("text") //for each slide use label path generator to place the text
+        .attr("transform", function (d: any) {
+          // console.log(label.centroid(d));
+          return "translate(" + label.centroid(d) + ")";
+        })
+        .attr("class", function () {
+          return "textonpie"
+        })
+        .attr("id", function () {
+          numTexts = numTexts + 1;
+          return "textonpie" + (numTexts + 1).toString();
+        })
+        .attr("dy", "0.35em")
+        .text(function (d: any) { return d.data.country; });
+
+```
+
+<!-- #### ![alt text](24.PNG)     -->
+    This photo is about mouseover and mouseout.
+    The pies have each id and common class named pathLine. By using the id, we change the fill. And we deal with card. And the mouseout is same. So if user mousevovers, the color of each pie and card information are changed.
 
 
-Explain choice of forms, how you optimized the visual queries and user interaction and how your work is original:
 
-- Made use of bar charts and maps together to show the multilevel, multidimensional visualization of information.
-- Users can easily explore MIDs, Wars and Trade datasets with a single click and find patterns, relations between these entities.
-- By showing different views at once, it is more informative and exploratory in nature to the user.
-- This kind of visualization are very useful to political scientists or people who are interested in getting specific information.
-- For example, if the user hovers a bar for the year 1986, the corresponding information is shown in the map below. 
+## Scatter Plot
+    By mouseovering each circle, and then we can check information of each year with tooltips. 
+### ![alt text](25.PNG)
 
+## 0. Format your files and Load the csvfile.
+### Bubble chart(The file named, WarAndTrade_From1870.csv)
+    To make csv file , we need the war data set and trade. After processing them, we made the file, named WarAndTrade_From1870.csv. The file has information about year, the number of countries at wars, sum of trade amount. we upload the python file for processing data(554DataPreprocessing.py).
+#### ![alt text](505.PNG) 
 
-## Slide 16
-List of required d3 features to include:
-
-- Affordance for interactive elements.
-- Making use of Hover-and-click animations.
-- Clean UI.
-- Simple color palette that is very easy to see.
-- Legible and readable text.
-- Responsive and Interactive D3 charts.
-
-- Animated Chart.
-- Here, we use an animated bar chart which can be used to filter and sort the data according to our requirements.
-- We also make use of D3 Maps in our project.
-- Here, we show a proportional symbol map showing the share of military expenditure.
-
-## Slide 17
-Highlight what you have built:
-
-- The Bubble Chart displays the summarized as well as specific information of wars over a particular period of time.
-- For example, when we hover the bubble 1988-2003, it shows the number of countries involved in war each year and the major war which took place during this time range. 
-- The Scatter Plot summarizes the relation between war and trade.
-- General pattern observered is that if more number of countries are involved in war, the international trade value is low.
-- If more countries are peaceful and not involved in any kind of war, the international trade value is high. 
- 
-## Slide 18
-What others have done in the same topic and other topics that are relevant:
-- There are many books, magazine, papers in international relations field. Some universities, research institute, international organization such as UN have their specific web pages which provide simple data visualization. In many cases, there provide simple facts in the data set, which does not have any story about data. I always feel if there are web pages that provide data visualization about international relations, the webpages are made in simple story, I thought it is useful. Therefore with story and data, we made the web page.   
-
-## Slide 19
-Tools and framework features you used:
-
-Technologies used-
-- HTML
-- CSS
-- JS
-- D3
-- Angular
-- Bootstrap
-- Inkscape
+## 1. Implementation the scatter plot.
+### 1-1 Explanation about scatter.component.html
+    For the scatter plot, we need to implement html code. The code is located in this scatter.component.html.
+    we can see the structure of each part such as where card and tooltips are located.
+    Based on this html code, we implement the scatter plot.
+## 1-2 Explanation about scatter.component.html.ts
+### About scatter plot
+    we implement js code in this file. For implementing this code, we made csv file. We explain the code in ts file. We select the div with scatterChart1Div.
+<!-- #### ![alt text](10.PNG)    -->
 
 
-## Slide 20
-### Explain who did what.
-- Hyun Jun Choi  
-    D3:Bubble chart, Bar chart, Map, Line chart, Pie chart, Scatter Plot.
-    Presentation: Making Presentation file using sozi. 
-    Team Project Homepage making: Angular, Bootstrap.
+```javascript
+var svg = d3.select("#scatterChart1Div").append("svg")
+        .attr('width', width + margin.left + margin.right)
+        .attr('height', height + margin.top + margin.bottom)
+        .append('g')
+        .attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')');
+```
+    
+<!-- #### ![alt text](11.PNG)    -->
+    Each circle is made by using data join.
 
-- Shiv Prathik Velagala
-    D3:Bubble chart, Bar chart, Line chart, Pie chart, Scatter Plot.
-    Presentation: Making Presentation file using sozi. 
-    Team Project Homepage making: Angular, Bootstrap.
+```javascript
+          svg.selectAll("circle")
+        .data(dataset)
+        .enter()
 
-- Seun Deleawe
-    D3:Line chart, Bar chart, Slopegraph.
-    Presentation: Making Presentation file using sozi. 
-    Team Project Homepage making: Angular, Bootstrap.
+        .append("circle")
+        .attr('id', function (data) {
+          return data['year']
+        })
+
+        .attr('cx', function (data) {
+
+
+          return x(+data["SumTrade"])
+          
+        })
+        .attr('cy', function (data) {
+
+
+          return (y(+data["countCouWars"]));
+
+        })
+        .attr('r', function () {
+          return 8;
+        })
+```
+
+    Each circle is filled based on the year. 
+```javascript
+        .style("fill", function (data) {
+
+        var color;
+        if (+data['year']<1900)
+        {
+            color = "#66c2a4";
+        }
+
+        if (+data['year']>=1900 && +data['year']<1965)
+        {
+            color = "#8c96c6";
+        }
+```
+
+    Tooltip works based on mouse point coordinate.
+```javascript
+    .on("mouseover",function(this:any,d:any){
+
+          var tooltipSpan = document.getElementById('tooltip-scatter1');
+
+          window.onmousemove = function (e) {
+            var x = e.clientX,
+              y = e.clientY;
+            // (x)
+            // console.log(y)
+            tooltipSpan.style.top = (y - 115) + 'px';
+            // console.log(y)
+            tooltipSpan.style.left = (x + 2) + 'px';
+
+            if (y<150)
+            {
+              tooltipSpan.style.top = (y + 20) + 'px';
+            }
+            if (x>1000)
+            {
+              tooltipSpan.style.left = (x -125) + 'px';
+            }
+          };
+```
+
+<!-- #### ![alt text](12.PNG)   -->
+
+```javascript
+          d3.select('#tooltip-scatter1')
+
+              .select('#planet-info-scatter1')
+              .html('<h4>' + 'Year: '+d.year+'<br>'+" Countries at Wars: "+d. countCouWars +  '<br>'+'Total trade amount: '+d.SumTrade+'<br>');
+
+          d3.select('#tooltip-scatter1').classed('hidden', false);
+   
+```
+
+
+    When user mouseover circle, or rectangle, or year, its edge is black and thick.
+```javascript
+ d3.select(this)
+        // .style('fill','yellow')
+          .style("stroke","black")
+          .style("stroke-width","2")
+```
+
+
+   When user mouseout circle, or rectangle, or year, its edge and tooltip disappear.
+```javascript
+
+  d3.select('#tooltip-scatter1').classed('hidden', true);
+  d3.select('#planet-info-scatter1').classed('hidden', true);
+
+  d3.select(this)
+   .style("stroke-width","0")
+```
+
+
+
+
+
+## Bar chart
+    By mouseovering each circle, we can check information of each period with tooltips. 
+### ![alt text](01P.PNG)
+
+## 0. Format your files and Load the JSON file.
+### Bubble chart(The file named, BothWarAndTradeInter10ForBubble.json)
+    To make json file for this bubble chart, we need the war data set and trade. There are 3 parts, which are BeforeWWone, BetweenWWoneWWtwo, and PostWWtwo. And in each part, there are records about wars, trade, and the name of major war. we upload the python file for processing data(554DataPreprocessing.py).
+#### ![alt text](05.PNG) 
+
+## 1. Implementation the Bubble chart.
+
+### 1-1 Explanation about bubble-war-trade.html
+    For the bubble chart, we implement html code. The code is located in this bubble-cir-pack.component.html.
+    We can see the structure of each parts such as where card and tooltips are located.
+    Based on this html code, we implement the bubble chart.
+### 1-2 Explanation about bubble-war-trade.ts
+#### About bubble chart
+    we implement js code in this file. For implementing this code, the most important part is to format the json file well. Let's me explain my code in ts file. we select the div with BubbleChar1Div.
+#### ![alt text](10.PNG)   
+    The root variable is made using d.value, which means expenditure. And it is sorted using the values.
+#### ![alt text](11.PNG)   
+    The circles have the class named cir1. we can check how the radius and color are set. 
+#### ![alt text](12.PNG)  
+
+#### About tooltip in the bubble chart.
+    When user mouseovers the each pie, which is class cir1 in my code, the function on('mouseover') shows the tooltip. This photo shows how it works. The principle is not complicated.
+    The x,y position means where tooltip is located. So, by using the tooltip-bub1 (in the html code), if mouseover occurs, it shows the tooltip and if user mouseouts, the tooltip is hidden.
+#### ![alt text](13.PNG)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### ![alt text](10-0.PNG)
+#### ![alt text](10-1.PNG)
+#### ![alt text](10-2.PNG)
+#### ![alt text](10-3.PNG)
+
+
+## 0. Format your files and Load the JSON file.
+#### Data Processing
+    We need MIDs dataset, wars dataset, and trade dataset. The processed MIDs data shows how many MIDs have been occured in each year. The continent represents which area is the most disputed area. 1-7 represent Africa, Antarctica, Asia, Australia, Europe, North America,  and South America. The processed war data shows how many countries have been at wars in each year. The processsed trade data represents the sum of trade amount, how many trade relationships there were, how many contries took part in international trade, which countries they are. we upload the python file for processing data(554DataPreprocessing.py).
+
+
+
+    MIDs data
+#### ![alt text](12-2.PNG)
+    War data
+#### ![alt text](12-3.PNG) 
+    Trade data
+#### ![alt text](12-4.PNG)
+
+
+
+
+
+
+## 1. Implementation the dot on the map.
+#### Load files
+    To load these two files, we use forEach function.
+
+```javascript
+
+    var files = [
+
+      "map_COW.geojson",//values[0] map 
+      "MIDLOCA_2.0.csv",//values[1] MIDs
+      "directed_dyadic_war_lati_long_stateName_allYear.csv",//values[2]
+      "COW country codes_lati_long.csv",//values[3]
+      "Dyadic_COW_4.0_flow2_1870.json",//values[4]
+      "MIDLOCA_2.0_groupbycountbyyearAllYearConti.csv",//values[5]
+      "directed_dyadic_war_lati_long_stateNamecountbyyearAllVer3.csv",//values[6]
+      "Dyadic_COW_4.0_Processed_WithCcode.csv", //trade dataset //values[7],
+      "Inter-StateWarsList-Ver2.csv",//values[8]
+      "National_COW_4.0.csv"
+
+    ];
+
+
+    var promises = [];
+
+    files.forEach(function (url) {
+      var partsOfurl = url.split('.');
+
+      if (partsOfurl[partsOfurl.length - 1] == "geojson" || partsOfurl[partsOfurl.length - 1] == "json") { promises.push(d3.json(url)) }
+      if (partsOfurl[partsOfurl.length - 1] == "csv") { promises.push(d3.csv(url)) }
+
+    });
+
+```
+
+#### Draw world map
+    we use geoMercator function. By using the geojson file, we do projection. And then we draw the path using data join.
+    
+```javascript
+    var projection = d3.geoMercator().fitSize([width, height], worldmapPath);
+
+    var path = d3.geoPath().projection(projection);
+
+    //MAP part
+    svg.selectAll(".states")
+        .data(worldmapPath.features)
+
+        .enter()
+        .append("path")
+        // .attr("fill", "#bdbdbd")
+        .attr("fill", "#bdbdbd")
+        .attr("id", function (d: any) {
+        // console.log(d);
+        //country name
+        allCCodeOnmap.push(d.properties.A3)
+        return d.properties.A3
+        })
+        .attr("class", "country")
+        .attr("stroke", "white")
+        .attr("stroke-width", "0.5px")
+        .attr("d", path)
+
+        .on('mouseover', function (this: any, d: any) {
+```
+
+    This is about tooltip and responsive map. Tooltip works based on the mouse coordinate. And when user mouseover on the map, the gray color changes to steelblue color.
+
+```javascript
+        .on('mouseover', function (this: any, d: any) {
+            // var centr = path.centroid(d)
+
+
+        var tooltipSpan = document.getElementById('tooltip-mid');
+
+        window.onmousemove = function (e) {
+            var x = e.clientX,
+            y = e.clientY;
+            tooltipSpan.style.top = (y - 20) + 'px';
+            tooltipSpan.style.left = (x - 55) + 'px';
+        };
+
+
+        d3.select('#tooltip-mid')
+            
+            .select('#country-info-mid')
+            .html('<h4>' + d.properties.A3 + '</h4>');
+
+        d3.select('#tooltip-mid').classed('hidden', false);
+
+        var idString = "#" + this.id.toString();
+        idString = String(idString)
+
+        console.log(idString)
+
+        d3.select(idString).attr("fillX", String(d3.select(idString).attr("fill")));
+        d3.select(idString).attr("fill", "steelblue");
+
+        })
+```
+
+    When user mouseout, every responsive parts return to the initial state.
+
+```javascript
+    .on('mouseout', function (this: any) {
+
+    d3.select('#tooltip-mid').classed('hidden', true);
+    d3.select('#tooltip-midInfor').classed('hidden', true);
+
+    var idString = "#" + this.id.toString()
+    idString = String(idString)
+    d3.select(idString).attr("fill", String(d3.select(idString).attr("fillX")));
+    })
+```
+
+
+
+#### Draw Bar chart.
+By using data join, we make the bars
+<!-- #### ![alt text](13-3.PNG)  -->
+
+```javascript
+
+svgmidsBar.selectAll(".bar")
+          .data(dataset, function (d: any) { return d.year; })
+          .enter()
+          .append("rect")
+          .attr("id", function (d: any) {
+            return "midscountbar" + d.year.toString();
+          })
+          .attr("class", "midscountbar")
+          .attr("x", function (d: any) { return x(d.year); })
+          .attr("y", function (d: any) { return y(d.countmids); })
+          .attr("width", x.bandwidth())
+          .attr("height", function (d: any) { return heightMIDBar - y(d.countmids); })
+          .attr("fill", "rgb(196, 50, 50)")
+
+```
+
+When user hovers the mouse on the bars, the MIDs information change. We make code part which shows these changes in the map below. We explain and show the corresponding information in the map. But others have same principle. Therefore we omitted to explain them.
+
+```javascript
+d3.select("#WarMajorOnMap")
+    // .attr("absolute","absolute")
+    // .attr("top", "70px")
+    // .attr("right", "15px")
+    // .attr("y", 400)
+    .transition()
+    .duration(1000)
+    .style("color", "black")
+    .on("start", function transitionHeaderIn() {
+
+    var t = d3.active(this)
+        .style("opacity", 0)
+        .remove();
+    // console.log(t)
+
+    d3.select("#WarMajorOnMap")
+        .style("opacity", 0)
+        .text("Militarized Conflicts")
+        .transition(t)
+        .style("opacity", 1)
+        .style("color", "black")
+        .transition()
+        .delay(1000);
+    });
+
+svg.append("text")
+    .attr("id", "WarTitleOnMap")
+    .attr("x", 0)
+    .attr("y", 360)
+    .attr("font-size", '17px')
+    .attr("font-weight", "bold")
+```
+
+
+
+
+
+#### Draw Corresponding MIDs Points.
+    We combine bar charts with map. When user mouseover on the MIDs bars, user can see the outbreak location of the MIDs. The dotsdrawMIDsDotOnMap function is the part. The MID dots on the map is made, using data join. This function is located in on click of the bar charts. 
+```javascript
+
+ var mids = svg.selectAll(".mid")
+          .data(data);
+        var delay = function (d, we) {
+          return we * 50;
+        }
+        // UPDATAE.
+        mids.transition()
+          .duration(750)
+          .delay(delay)
+        mids.attr("cx", function (d: any) {
+          // console.log(+d.midloc2_xlongitude)
+          var marker = projection([+d["midloc2_xlongitude"], +d["midloc2_ylatitude"]])
+          return marker[0]
+        })
+        .attr("cy", function (d: any) {
+          var marker = projection([+d["midloc2_xlongitude"], +d["midloc2_ylatitude"]])
+          return marker[1]
+        })
+        .attr("id", function (d: any) {
+          var tempId = "conflict" + String(d.dispnum)
+          return String(tempId);
+        })
+        .attr("r", 5)
+        .attr("fill", "rgb(196, 50, 50)")
+        // .style("opacity", 0)
+        .attr("class", "mid")
+
+
+
+        // ENTER.
+        mids.enter()
+          .append("circle")
+          .attr("cx", function (d: any) {
+            var marker = projection([+d["midloc2_xlongitude"], +d["midloc2_ylatitude"]])
+            return marker[0]
+          })
+          .attr("cy", function (d: any) {
+            var marker = projection([+d["midloc2_xlongitude"], +d["midloc2_ylatitude"]])
+            return marker[1]
+          })
+          .attr("id", function (d: any) {
+            var tempId = "conflict" + String(d.dispnum)
+            return String(tempId);
+          })
+          .attr("r", 5)
+          .attr("fill", "rgb(196, 50, 50)")
+          // .style("opacity", 0)
+          // .attr("fill", "white")
+          .attr("class", "mid")
+          .on('mouseover', function (this: any, d: any) {
+            var idString = "#" + this.id.toString();
+            idString = String(idString)
+            d3.select(idString).attr("fillX", String(d3.select(idString).attr("fill")));
+            d3.select(idString).attr("fill", "steelblue")
+
+            d3.select(idString).attr("rX", String(d3.select(idString).attr("r")));
+            d3.select(idString).attr("r", "5")
+          
+            var idString = "#" + this.id.toString()
+          
+            dothandleMouseOver(idString, d)
+
+          })
+
+```
+    When user mouseovers the MID point, it provide year and location information.
+```javascript
+
+    d3.select(idString).attr("fillX", String(d3.select(idString).attr("fill")));
+    d3.select(idString).attr("fill", "steelblue");
+
+    var temp = values[1].filter(x => x.year == String(yearString))
+
+    // repulse()
+    drawMIDsDotOnMap(temp)
+    // pulse()
+
+    // repulse()
+
+    })
+
+    .on('mouseout', function (this: any) {
+    // console.log(this);
+    var idString = "#" + this.id.toString()
+    idString = String(idString)
+    d3.select(idString).attr("fill", String(d3.select(idString).attr("fillX")));
+    d3.select(idString).attr("r", String(d3.select(idString).attr("rX")));
+
+    var idString = "#" + this.id.toString()
+    // console.log(idString)
+    dothandleMouseOut(idString)
+    });
+
+
+``` 
+
+    Until here, we explain what parts of code are related to each part of visualization.
+    Using similar methods, we plot the bars and maps for the wars and trade datasets.
+
+
+<!-- #### Draw Corresponding countries Color On Wars.
+    By using the json file about military expenditure, we draw the centroid. But when we draw it, we must need to project the longitude and latitude. 
+#### ![alt text](13-3.PNG) 
+
+
+#### Draw Corresponding countries Color On Trade
+    By using the json file about military expenditure, we draw the centroid. But when we draw it, we must need to project the longitude and latitude. 
+#### ![alt text](13-3.PNG)  -->
+
 
 
