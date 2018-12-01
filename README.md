@@ -13,7 +13,7 @@ This project is about Militarized interstate disputes, wars, and trade. By givin
 ### PROJECT ARTIFACTS
 
 - [Demonstration URL](http://www-scf.usc.edu/~choi797/teampeace/index.html)
-- [Presentation PDF](<presentation-pdf-url>) and [transcript](<presentation-transcript-md-url>)
+- [Presentation PDF](<presentation-pdf-url>) and [transcript](https://github.com/INF554Fall18/project-teampeace/blob/master/PRESENTATION_TRANSCRIPT.md)
 - [Article](<article-pdf-url>) and [Overleaf URL](<overleaf-article-url>)
 - [YouTube video](<youtube-video-url>)
 ```
