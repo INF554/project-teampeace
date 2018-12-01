@@ -8,7 +8,7 @@ This project is about Militarized interstate disputes, wars, and trade. By givin
 
 - Project title: Wars, Militarized Disputes and Trade
 - Group name: Team Peace
-- Team names: Hyun Jun Choi (choi797), Shiv Prathik Velagala (velagala), Sean Deleawe (deleawe)
+- Team names: Hyun Jun Choi (choi797), Shiv Prathik Velagala (velagala), Seun Deleawe (deleawe)
 
 ### PROJECT ARTIFACTS
 
