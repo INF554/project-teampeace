@@ -1,0 +1,23 @@
+*이 unhcr로 prototype 선택
+http://data.unhcr.org/dataviz/
+
+https://data2.unhcr.org/en/situations
+
+https://ourworldindata.org/war-and-peace
+
+https://icr.ethz.ch/
+
+https://icr.ethz.ch/data/
+
+https://icr.ethz.ch/research/
+
+https://icr.ethz.ch/research/warviews/
+
+http://pcr.uu.se/research/ucdp/charts-graphs-and-maps/#tocjump_00691383369807852_5
+
+#여기보다 더 쉽고 흥미있게 
+http://ucdp.uu.se/#/exploratory
+
+https://public.tableau.com/en-us/s/gallery/most-dangerous-places
+
+https://www.lyonwj.com/visualizing-correlates-of-war-date-with-leaftlet-js

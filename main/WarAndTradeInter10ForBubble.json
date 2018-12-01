@@ -1,0 +1,76 @@
+{
+    "name": "countries",
+    "children": [
+        {
+            "name": "BeforeWWOne",
+            "children": [
+                {
+                    "name": "Periods",
+                    "children": [
+                        {
+                            "name": "1870-1883",
+                            "totalcountCouWars": 30
+
+                        },
+                        {
+                            "name": "1884-1896",
+                            "totalcountCouWars": 10
+                        },
+                        {
+                            "name": "1897-1909",
+                            "totalcountCouWars": 22
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BetweenWWoneWWtwo",
+            "children": [
+                {
+                    "name": "Periods",
+                    "children": [
+                        {
+                            "name": "1910-1922",
+                            "totalcountCouWars": 100
+                        },
+                        {
+                            "name": "1923-1935",
+                            "totalcountCouWars": 20
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PostWWtwo",
+            "children": [
+                {
+                    "name": "Periods",
+                    "children": [
+                        {
+                            "name": "1936-1948",
+                            "totalcountCouWars": 125
+                        },
+                        {
+                            "name": "1949-1961",
+                            "totalcountCouWars": 77
+                        },
+                        {
+                            "name": "1962-1974",
+                            "totalcountCouWars": 92
+                        },
+                        {
+                            "name": "1975-1987",
+                            "totalcountCouWars": 54
+                        },
+                        {
+                            "name": "1988-2003",
+                            "totalcountCouWars": 35
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

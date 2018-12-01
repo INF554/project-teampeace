@@ -1,0 +1,82 @@
+[
+  {
+    "country": "Japan",
+    "expend": 45.4,
+    "coordinates": [
+      36.2048,
+      138.2529
+  ]
+  },
+  {
+    "country": "Austraila",
+    "expend": 27.5,
+    "coordinates": [
+      -25.734968,
+      134.489563
+  ]
+  },
+  {
+    "country": "Canada",
+    "expend": 20.6,
+    "coordinates": [
+      55.585901,
+      -105.750596
+  ]
+  },
+  {
+    "country": "Italy",
+    "expend": 29.2,
+    "coordinates": [
+      42.504154,
+      12.646361
+  ]
+  },
+  {
+    "country": "China",
+    "expend": 228,
+    "coordinates": [
+      35.0000,
+      105.0000
+  ]
+  },
+  {
+    "country": "France",
+    "expend": 57.8,
+    "coordinates": [
+      46.2276,
+      2.2137
+  ]
+  },
+  {
+    "country": "India",
+    "expend": 63.9,
+    "coordinates": [
+      20.5937,
+      78.9629
+  ]
+  },
+  {
+    "country": "Germany",
+    "expend": 44,
+    "coordinates": [
+      51.1657,
+      10.4515
+  ]
+  },
+  {
+    "country": "Russia",
+    "expend": 66.3,
+    "coordinates": [
+      61.5240,
+      105.3188
+  ]
+  },
+  {
+    "country": "U.S.A",
+    "expend": 610,
+    "coordinates": [
+      38.0000,
+      -97.0000
+  ]
+  }
+]

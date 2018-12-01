@@ -1,0 +1,15 @@
+data = {
+  const imports = await d3.json("https://gist.githubusercontent.com"
+      + "/mbostock/1044242"
+      + "/raw/3ebc0fde3887e288b4a9979dad446eb434c54d08"
+      + "/flare.json");
+
+  const indexByName = new Map;
+  const nameByIndex = new Map;
+  const matrix = [];
+  let n = 0;
+
+  // Returns the Flare package name for the given class name.
+  function name(name) {
+    return name.substring(0, name.lastIndexOf(".")).substring(6);
+  }

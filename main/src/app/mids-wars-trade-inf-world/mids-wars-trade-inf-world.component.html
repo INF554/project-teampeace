@@ -1,0 +1,166 @@
+<!-- worldMidble clude -->
+<div id="worldMidContainer" class="container">
+    <div id="worldMidRow" class="row">
+        <div id="worldMidCol-sm-8" class="col-sm-8">
+            <!-- <div class="und-col "style="min-height: 600px !important;"> -->
+            <div id="worldMid-und-col" class="und-col">
+                <h3 id="worldMidChartHead">The Militarized Interstate Disputes</h3>
+                <!-- <br id="tempBlank1"> -->
+                <h5 id="worldMidChartHiHead" style="color:white">year</h5>
+
+
+                <!-- <svg id="pieChart1" width=500 height=500> -->
+                <!-- <foreignObject width="400" height="100" vrequiredExtensions="http://example.com/SVGExtensions/EmbeddedXHTML"> -->
+                <!-- <foreignObject width="1300" height="1000" vrequiredExtensions="http://example.com/SVGExtensions/EmbeddedXHTML"> -->
+
+
+                <!-- <button class="btn btn-default" id="midsButton">MIDs</button>
+                <button class="btn btn-default" id="warsButton">Wars</button>
+                <button class="btn btn-default" id="warbot">PlusYearWars</button>
+                <button class="btn btn-default" id="warres">PlusYearMIDs</button> -->
+
+                <!-- <button class="btn btn-default" id="tradeButton">Trade</button> -->
+
+
+
+                <!-- <button class="btn btn-default" id="midsButton">MIDs</button> -->
+                <!-- <button class="btn btn-default" id="warsButton">Wars</button> -->
+                <!-- <button class="btn btn-default" id="tradeButton">Trade</button> -->
+
+
+                <!-- <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item">
+                      <a class="nav-link active" id="mids-tab" data-toggle="tab" href="#mids" role="tab" aria-controls="mids" aria-selected="true">MIDs</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" id="wars-tab" data-toggle="tab" href="#wars" role="tab" aria-controls="wars" aria-selected="false">Wars</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" id="trade-tab" data-toggle="tab" href="#trade" role="tab" aria-controls="trade" aria-selected="false">Trade</a>
+                    </li>
+                  </ul>
+                  <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="mids" role="tabpanel" aria-labelledby="mids-tab">
+                        <div id="barchartMIDs"></div>
+
+                    </div>
+
+                    <div class="tab-pane fade" id="wars" role="tabpanel" aria-labelledby="wars-tab">
+                        <div id="barchartWars"></div>
+
+                    </div>
+
+                    <div class="tab-pane fade" id="trade" role="tabpanel" aria-labelledby="trade-tab">
+                        
+
+                    </div>
+                  </div> -->
+
+                <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-mids-tab" data-toggle="pill" href="#pills-mids" role="tab"
+                            aria-controls="pills-mids" aria-selected="true">MIDs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-wars-tab" data-toggle="pill" href="#pills-wars" role="tab"
+                            aria-controls="pills-wars" aria-selected="false">Wars</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-trade-tab" data-toggle="pill" href="#pills-trade" role="tab"
+                            aria-controls="pills-trade" aria-selected="false">Trade</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <a class="nav-link" id="pills-temp-tab" data-toggle="pill" href="#pills-temp" role="tab" aria-controls="pills-temp" aria-selected="false">temp</a>
+                    </li> -->
+                    <!-- <button class="btn btn-default" id="pills-temp-tab">Reset Map</button> -->
+                    <button class="btn btn-default pull-right btn-sm RbtnMargin" id="pills-temp-tab" type="button">Reset Map</button>
+                </ul>
+                <div class="tab-content" id="pills-tabContent">
+                    <div class="tab-pane fade show active" id="pills-mids" role="tabpanel" aria-labelledby="pills-mids-tab">
+                        <div id="barchartMIDs"></div>
+                        <!-- <div id="barchartWars"></div> -->
+                    </div>
+                    <div class="tab-pane fade" id="pills-wars" role="tabpanel" aria-labelledby="pills-wars-tab">
+                        <div id="barchartWars"></div>
+                    </div>
+                    <div class="tab-pane fade" id="pills-trade" role="tabpanel" aria-labelledby="pills-trade-tab">
+                        <div id="barchartTrades"></div>
+                    </div>
+                    <!-- <div class="tab-pane fade" id="pills-temp" role="tabpanel" aria-labelledby="pills-temp-tab">
+                        <div id="barchartMIDs"></div>
+                    </div> -->
+
+                </div>
+                <!-- <button class="btn btn-default" id="pills-temp-tab">Reset Map</button> -->
+
+
+                <div id="worldMidInnerContainer" class="container">
+                    
+                    <!-- <h3 id="worldMidChartHead">Militarized Interstate Disputes from #### to ####</h3> -->
+                    <!-- <h4>  In 2017</h4> -->
+                    <!-- <div id="barchartMIDs"></div> -->
+                    <!-- <button class="btn btn-default" id="warsButton">Wars</button> -->
+                    <!-- <div id="barchartWars"></div> -->
+                    <br>
+                    <svg id="worldMid" width="1100" height="500" style="background-color: white"></svg>
+                    <!-- <svg id="worldMid" width="900" height="400" style="background-color: white"></svg> -->
+
+
+
+                </div>
+
+                <!-- <div id="worldMidbleChart1Div"></div> -->
+
+                <!-- </foreignObject> -->
+                <!-- </svg> -->
+                <!-- <svg id="pieChart1" width="1300" height="600"></svg> -->
+
+            </div>
+            <div id="tooltip-mid" class="hidden-mid">
+                <p id="country-info-mid">Hello</p>
+            </div>
+
+            <div id="tooltip-midInfor" class="hidden-mid">
+                <p id="info-mid">HelloQ</p>
+            </div>
+            <!-- <div id="tooltip-line1" class="hidden-line1">
+                <p id="planet-info-line1">Planet Info</p>
+            </div> -->
+        </div>
+
+        <!-- <div>
+            <div id="worldMidCol-sm-4" class="col-sm-4">
+                <div class="card" style="width: 18rem;">
+                <div id="worldMidCard" class="card">
+                    <div id="worldMidCardBody" class="card-body">
+                        
+
+                        <h4 id="card-name-MWT" class="card-title">Generic Information</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Data</h6>
+                        <h6 id="card-subtitle1-MWT" class="card-subtitle mb-2 text-muted">Data</h6>
+                        <p id="card-desc-MNT" class="card-text">
+                            This data is about MIDs, Wars, and World Trade.
+
+
+                        </p>
+                        <h6 id="card-subtitle2-MNT" class="card-subtitle mb-2 text-muted">How to use this bar chart and map</h6>
+                        <p id="card-desc2-MNT" class="card-text">
+                            By using this map and bar charts on MIDs, Wars, and Trade, one can understand how they have
+                            changed, which areas have been major wars and mids places, and how many countries take part
+                            in international trades.
+                        </p>
+
+                        <h6 id="card-subtitle3-MNT" class="card-subtitle mb-2 text-muted">Summary on MIDs, Wars, and Trade</h6>
+                        <p id="card-desc3-MNT" class="card-text">
+                            During world war 1 and 2, the number of mids and the number of countries at wars peaked. After the events, the figures have fluctuated but entire trend shows that they have decreased.
+
+                            Except the perieods, which are world war 1 and world war 2, the number of countries which take part in international trade has increased.
+                        
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+    </div>
+</div>
