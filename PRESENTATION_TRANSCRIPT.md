@@ -2,6 +2,7 @@
 
 ```md
 ## PROJECT SUMMARY
+This project is about Militarized interstate disputes, wars, and trade. By giving public this information, we want to make people interested in these problems.   
 
 ### PROJECT INFORMATION
 
@@ -12,9 +13,9 @@
 ### PROJECT ARTIFACTS
 
 - [Demonstration URL](http://www-scf.usc.edu/~choi797/teampeace/index.html)
-- [Presentation PDF](<presentation-pdf-url>) and [transcript](<presentation-transcript-md-url>)
-- [Article](<article-pdf-url>) and [Overleaf URL](<overleaf-article-url>)
-- [YouTube video](<youtube-video-url>)
+- [Presentation PDF](<presentation-pdf-url>) and [transcript](https://github.com/INF554Fall18/project-teampeace/blob/master/PRESENTATION_TRANSCRIPT.md)
+- [Article](https://github.com/INF554Fall18/project-teampeace/blob/master/INF_554_Paper.pdf) and [Overleaf URL](https://www.overleaf.com/3973524717hnmhykxfhjxr)
+- [YouTube video](https://youtu.be/xN3dxU9UH3k)
 ```
 ## Slide 0
 We introduce our team name, names, and email addresses. 
