@@ -6,11 +6,23 @@
   <title>Scatter Plots</title>
   <link rel="stylesheet" type="text/css" href="style.css">
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="d3.slopegraph.js"></script>
 
 </head>
 
 
 <body>
+
+<style>
+.lines path {
+fill: none;
+stroke: purple;
+stroke-width: 1.1;
+}
+</style>
+
+
+
 
 <div id="section1">
   <h2>Scatter Plot for Conflict Data</h2>
@@ -27,11 +39,20 @@
     <svg id="chart3" style="background-color: white; width:1400px;height:700px; "></svg>
 
 
+    <div id="section">
+    <h2>Slope Graph showing Military Expenditure in 2007 and 2016</h2>
+    <p>The slope graph below shows military expenditures (% of GDP)  for 10 countries in 2007 and 2016.
+        The story here is that relative rank or countries according to miliatry expenditures as a percentage of GDP
+        is relatively the same in 2016 compared to 2007. While the U.S. remains the top spender, it has expereinced
+        the greatest decline between 2007 and 2016, while Iran has experienced the greatest increase in the same period.
+    </p>
+    <div id="svg_slopegraph"></div>
+    </div>
 
 <script src="conflict.js"></script>
 <script src="war.js"></script>
 <script src="trade.js"></script>
-
+<script src="slopegraph.js"></script>
 </body>
 
 </html>
