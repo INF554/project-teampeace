@@ -604,7 +604,7 @@ svg.append("text")
 #### ![alt text](13-3.PNG) 
 
 
-#### Draw Corresponding countries Color On Trade.
+#### Draw Corresponding countries Color On Trade
     By using the json file about military expenditure, we draw the centroid. But when we draw it, we must need to project the longitude and latitude. 
 #### ![alt text](13-3.PNG)  -->
 
