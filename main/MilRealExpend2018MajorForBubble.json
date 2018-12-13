@@ -1,0 +1,73 @@
+{
+    "name": "countries",
+    "children": [
+        {
+            "name": "western",
+            "children": [
+                {
+                    "name": "AmeriAndEuro",
+                    "children": [
+                        {
+                            "name": "U.S.A",
+                            "expenditure": 610
+                        },
+                        {
+                            "name": "Italy",
+                            "expenditure": 29.2
+                        },
+                        {
+                            "name": "France",
+                            "expenditure": 57.8
+                        },
+                        {
+                            
+                            "name": "Germany",
+                            "expenditure": 44.3
+                        },
+                        {
+                            "name": "Australia",
+                            "expenditure":27.5
+                            
+                        },
+                        {
+                            "name": "Canada",
+                            "expenditure": 20.6
+                        }
+                    ]
+                },
+                {
+                    "name": "nonAmeriAndEuro",
+                    "children":[
+                        
+                        {
+                            "name": "India",
+                            "expenditure": 63.9
+                        },
+                        {
+                            "name": "Japan",
+                            "expenditure": 45.4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "nonwestern",
+            "children": [
+                {
+                    "name": "asia",
+                    "children": [
+                        {
+                            "name": "China",
+                            "expenditure": 228
+                        },
+                        {
+                            "name": "Russia",
+                            "expenditure":66
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

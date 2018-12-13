@@ -1,0 +1,19 @@
+[
+    {
+      "category": "Less than 0.1",
+      "catAlp":"A",
+      "value": 227,
+      "per":0.97,
+      "total":234
+      
+    }
+    ,
+    {
+      "category": "greater than or equal to 0.1",
+      "catAlp":"B",
+      "value": 7,
+      "per":0.03,
+      "total":234
+  
+    }
+  ]

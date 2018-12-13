@@ -1,0 +1,73 @@
+{
+    "name": "countries",
+    "children": [
+        {
+            "name": "western",
+            "children": [
+                {
+                    "name": "AmeriAndEuro",
+                    "children": [
+                        {
+                            "name": "U.S.A",
+                            "expenditure": 3.28
+                        },
+                        {
+                            "name": "Italy",
+                            "expenditure": 1.5
+                        },
+                        {
+                            "name": "France",
+                            "expenditure": 2.26
+                        },
+                        {
+                            
+                            "name": "Germany",
+                            "expenditure": 1.18
+                        },
+                        {
+                            "name": "Australia",
+                            "expenditure": 2
+                            
+                        },
+                        {
+                            "name": "Canada",
+                            "expenditure": 0.99
+                        }
+                    ]
+                },
+                {
+                    "name": "nonAmeriAndEuro",
+                    "children":[
+                        
+                        {
+                            "name": "India",
+                            "expenditure": 2.47
+                        },
+                        {
+                            "name": "Japan",
+                            "expenditure": 0.93
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "nonwestern",
+            "children": [
+                {
+                    "name": "asia",
+                    "children": [
+                        {
+                            "name": "China",
+                            "expenditure": 1.92
+                        },
+                        {
+                            "name": "Iran",
+                            "expenditure": 2.97
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

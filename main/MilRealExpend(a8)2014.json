@@ -1,0 +1,25 @@
+[
+    {
+      "country": "China",
+      "value": 129.4
+      
+    },
+    {
+      "country": "France",
+      "value": 53.1
+  
+    },
+    {
+      "country": "India",
+      "value": 45.2
+    },
+    {
+      "country": "Germany",
+      "value": 43.9
+      
+    },
+    {
+      "country": "U.S.A",
+      "value": 581
+    }
+  ]

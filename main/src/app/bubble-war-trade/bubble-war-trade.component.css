@@ -1,0 +1,144 @@
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: Consolas;
+    font-size: 10px;
+}
+
+
+/* .bar:hover {
+    fill: rgb(196, 50, 50);
+} */
+
+/* .arc:hover {
+    fill:rgb(214, 214, 29);
+} */
+
+/* path.pathLine:hover {
+    fill: #4d4dc7;
+} */
+
+
+
+/* path.bub1:hover{
+    fill:green;
+    stroke:black;
+    stroke-dasharray:5,5;
+    stroke-width: 10px;
+} */
+
+/* circle#dot1:hover{
+    fill:green;
+}  */
+
+text.name,
+#tooltip {
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+}
+
+#tooltip.hidden {
+    display: none;
+}
+
+
+
+
+#graph {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+
+
+
+
+.bar {
+    fill: rgb(2, 82, 109);
+}
+
+text.xlabel {
+    font-family: Courier;
+    font-size: 12px;
+    font-weight: bold;
+    text-anchor: middle;
+}
+
+text.ylabel {
+    font-family: Courier;
+    font-size: 24px;
+    text-anchor: middle;
+    alignment-baseline: central;
+}
+
+text.name {
+    font-family: Courier;
+    font-weight: bold;
+    font-size: 14px;
+    fill: red;
+    text-anchor: middle;
+    alignment-baseline: central;
+}
+
+
+
+
+.card{
+    width: 20rem;
+}
+
+
+
+.und-col{
+    min-height: 600px !important;
+}
+                    
+#tooltip-bubwt1 {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+}
+
+#tooltip-bubwt1.hidden {
+    display: none;
+}
+
+
+.card-bub1{
+    width: 18rem;
+}
+
+
+
+
+
+
+
+
+

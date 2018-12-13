@@ -1,0 +1,42 @@
+[
+    {
+      "value": 2,
+      "country": "Australia"
+    },
+    {
+      "value": 0.99,
+      "country": "Canada"
+    },
+    {
+      "value": 1.92,
+      "country": "China"
+    },
+    {
+      "value": 2.26,
+      "country": "France"
+    },
+    {
+      "value": 1.18,
+      "country": "Germany"
+    },
+    {
+      "value": 2.47,
+      "country": "India"
+    },
+    {
+      "value": 0.93,
+      "country": "Japan"
+    },
+    {
+      "value": 2.97,
+      "country": "Iran"
+    },
+    {
+      "value": 1.5,
+      "country": "Italy"
+    },
+    {
+      "value": 3.28,
+      "country": "U.S.A"
+    }
+  ]

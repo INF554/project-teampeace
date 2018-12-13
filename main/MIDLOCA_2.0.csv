@@ -1,0 +1,2212 @@
+year,dispnum,midloc2_location,midloc2_measuringpoint,midloc2_xlongitude,midloc2_ylatitude
+1816,3239,United States (Florida [ADM1]),Centroid of ADM1,-82.4849,28.6407
+1817,3321,Bulgaria-Romania Border,Midpoint of shared (national) border,25.4793,43.6402
+1818,1567,United States (Florida [ADM1]),Centroid of ADM1,-82.4849,28.6407
+1821,142,"Galati, Romania","Galati, Romania",28.008,45.4353
+1821,147,"Rieti, Italy","Rieti, Italy",12.8567,42.4045
+1821,167,Italy (Piedmont [ADM1]),Centroid of ADM1,7.92682,45.061
+1821,366,France-Spain Border,Midpoint of shared (national) border,0.514845,42.6924
+1822,89,France-Spain Border,Midpoint of shared (national) border,0.514845,42.6924
+1825,1735,"Tripoli, Libya","Tripoli, Libya",13.1913,32.8872
+1826,64,"Galati, Romania","Galati, Romania",28.008,45.4353
+1826,1622,Brazil Territorial Waters,Centroid of territorial waters,-39.2861,-18.0191
+1826,1752,Brazil Territorial Waters,Centroid of territorial waters,-39.2861,-18.0191
+1827,146,Ottoman Empire,Midpoint of coastline,27.06,38.39
+1827,189,"Galati, Romania","Galati, Romania",28.008,45.4353
+1828,367,Egypt,Centroid of ADM0,29.872,26.4943
+1829,1579,"Petra, Greece","Petra, Greece",26.1753,39.3278
+1830,370,France-Germany Border,Midpoint of shared (national) border,7.81941,49.0463
+1831,25,Belgium-Netherlands Border,Midpoint of shared (national) border,5.7297,51.193
+1831,137,"Porto, Portugal","Porto, Portugal",-8.6291,41.1579
+1831,501,"Brussels, Belgium","Brussels, Belgium",4.35172,50.8503
+1831,3138,"Al-Qurnah, Iraq","Al-Qurnah, Iraq",47.4245,31.0175
+1832,368,Belgium-Germany Border,Midpoint of shared (national) border,6.22042,50.6376
+1833,153,Dardanelles Strait,Dardanelles Strait,26.3013,40.0482
+1833,1753,"Cartagena, Colombia","Cartagena, Colombia",-75.4794,10.391
+1834,1524,Colombia Territorial Waters (Caribbean Mainland),Centroid of territorial waters,-74.1421,11.4789
+1835,301,Caribbean Sea,Caribbean Sea,-74.9676,14.5401
+1836,1554,Argentina (Santa Cruz [ADM1]),Centroid of ADM1,-69.9414,-48.8127
+1836,1555,United States (Texas [ADM1]),Centroid of ADM1,-99.358,31.4911
+1836,1623,"Panama City, Panama","Panama City, Panama",-79.5199,8.98238
+1837,38,"Navy Island, Niagara","Navy Island, Niagara",-79.0108,43.0578
+1838,160,"Veracruz, Mexico","Veracruz, Mexico",-96.1342,19.1738
+1838,1553,Gulf of Mexico,Gulf of Mexico,-90.0659,25.3043
+1838,2013,"Pirara, Brazil","Pirara, Brazil",-61.15,3.05
+1839,15,Canada (New Brunswick [ADM1])-United States (Maine [ADM1]) Border,Midpoint of shared (subnational) border,-67.7833,46.4598
+1839,1556,Gulf of Mexico,Gulf of Mexico,-90.0659,25.3043
+1839,1740,"Pirara, Brazil","Pirara, Brazil",-61.15,3.05
+1840,1540,Douro River,Midpoint of river,-7.28269,41.1604
+1842,2116,"Monterey, USA","Monterey, USA",-121.895,36.6002
+1843,1507,Magellan Straits,Magellan Straits,-70.8288,-53.7302
+1843,1552,United States (Texas [ADM1]),Centroid of ADM1,-99.358,31.4911
+1845,123,Argentina,Midpoint of coastline,-63.6589,-42.2343
+1845,1625,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1846,373,United States (Oregon [ADM1]),Midpoint of coastline,-124.076,44.7716
+1846,1586,"Corrientes, Argentina","Corrientes, Argentina",-58.8306,-27.4692
+1847,78,"Ferrara, Italy","Ferrara, Italy",11.6198,44.8381
+1848,19,AUH-Venetian Border,Midpoint of shared (national) border,11.97,46.83
+1848,198,Italy (Sicily [ADM1]),Centroid of ADM1,14.1467,37.5884
+1848,374,"Rome, Italy","Rome, Italy",12.4964,41.9028
+1848,375,Germany-Denmark Border,Midpoint of shared (national) border,8.98718,54.8973
+1849,175,"Rome, Italy","Rome, Italy",12.4964,41.9028
+1849,231,"Livorno, Italy","Livorno, Italy",43.5485,10.3106
+1849,236,USR-Ottoman Border,Midpoint of shared (national) border,29.65,46.87
+1849,1493,Venezuela,Midpoint of coastline,-63.8722,10.6422
+1849,1627,Brazil Territorial Waters,Centroid of territorial waters,-39.2861,-18.0191
+1850,71,"Piraeus, Greece","Piraeus, Greece",23.647,37.943
+1850,154,AUH-Germany Border,Midpoint of shared (national) border,49.12,49.12
+1850,1551,Mexico (Yucatan [ADM1]),Centroid of ADM1,-88.9256,20.7803
+1850,1566,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1850,1587,Rio Paraguay,"Asuncion, Paraguay",-57.5759,-25.2637
+1850,2012,Parana River,Midpoint of river,-53.8819,-23.4585
+1851,1528,"Montevideo, Uruguay","Montevideo, Uruguay",-56.1645,-34.9011
+1852,377,Dardanelles Strait,Dardanelles Strait,26.3013,40.0482
+1852,1523,Colombia-Peru Border,Midpoint of shared (national) border,-72.2277,-2.49887
+1852,1755,"Lobos Island, Peru","Lobos Island, Peru",-80.8599,-6.43756
+1853,57,Ottoman-Russia Border,Midpoint of shared (national) border,28.93,47.88
+1853,121,Dardanelles Strait,Dardanelles Strait,26.3013,40.0482
+1853,126,AUH-Ottoman Border,Midpoint of shared (national) border,22.63,45.39
+1853,3326,"Milan, Italy","Milan, Italy",9.18592,45.4654
+1854,144,"Greytown, Nicaragua","Greytown, Nicaragua",-83.7345,10.9462
+1854,304,"Sambir, Ukraine","Sambir, Ukraine",23.2066,49.5207
+1854,1494,"Aves Island, Venezuela","Aves Island, Venezuela",-63.618,15.6684
+1854,1565,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1854,2367,Cyprus,Centroid of ADM0,33.2218,35.0459
+1855,1550,Mexico-United States (Texas [ADM1]) Border,Midpoint of shared (subnational) border,-101.37,29.6701
+1855,1564,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1855,1588,Rio Paraguay,"Asuncion, Paraguay",-57.5759,-25.2637
+1856,8,"Tehran, Iran","Tehran, Iran",51.389,35.6892
+1856,149,"Neuchatel, Switzerland","Neuchatel, Switzerland",6.92927,46.99
+1856,380,Gulf of Mexico,Gulf of Mexico,-90.0659,25.3043
+1856,1495,"Aves Island, Venezuela","Aves Island, Venezuela",-63.618,15.6684
+1856,1522,"Panama City, Panama","Panama City, Panama",-79.5199,8.98238
+1856,1757,Colombia Territorial Waters (Caribbean Mainland),Centroid of territorial waters,-74.1421,11.4789
+1856,2236,Rio Paraguay,"Asuncion, Paraguay",-57.5759,-25.2637
+1857,1500,Bolivia-Chile Border,Midpoint of shared (national) border,-68.7092,-20.3063
+1857,1521,Aguarico River,Aguarico River,-76.3582,-0.393123
+1857,1743,Mozambique Channel,Mozambique Channel,41.2809,-18.6159
+1858,207,Gulf of Mexico,Gulf of Mexico,-90.0659,25.3043
+1858,1593,Gulf of Guayaquil,Gulf of Guayaquil,-80.5,-3
+1858,1628,Venezuela,Midpoint of coastline,-63.8722,10.6422
+1858,2322,Chincha Islands,Chincha Islands,-76.3912,-13.6303
+1859,115,AUH-Venetian Border,Midpoint of shared (national) border,11.97,46.83
+1859,1548,Rio Grande,Midpoint of river,-47.3801,-20.0754
+1859,1580,Morocco (Northern [> ADM 1]),Centroid of > ADM1,-5.2002,32.9735
+1859,1594,"Guayaquil, Ecuador","Guayaquil, Ecuador",-79.9224,-2.171
+1859,1629,"Buenos Aires, Argentina","Buenos Aires, Argentina",-58.3816,-34.6037
+1859,1630,"Patos Island, Venezuela","Patos Island, Venezuela",-61.8636,10.6401
+1860,112,Papal States,Midpoint of Papal States,43.18,13.08
+1860,113,Kingdom of Two Sicilies,Midpoint of Kingdom of Two Sicilies,40.34,15.94
+1860,306,"Rome, Italy","Rome, Italy",12.4964,41.9028
+1860,1549,"Veracruz, Mexico","Veracruz, Mexico",-96.1342,19.1738
+1860,2242,"Quito, Ecuador","Quito, Ecuador",-78.4678,-0.180653
+1861,135,"Veracruz, Mexico","Veracruz, Mexico",-96.1342,19.1738
+1861,225,Bahama Channel,Bahama Channel,-78.4003,22.7672
+1861,227,Japan-Russia Border (Territorial Waters),Midpoint of shared (territorial water) border,142.007,45.7095
+1861,1501,"Cobija, Bolivia","Cobija, Bolivia",-68.7811,-11.0344
+1862,1520,"Ibarra, Ecuador","Ibarra, Ecuador",-78.1222,0.339176
+1862,1589,"Humaita, Paraguay","Humaita, Paraguay",-58.5058,-27.0669
+1862,1762,"Rio de Janeiro, Brazil","Rio de Janeiro, Brazil",-43.1729,-22.9068
+1862,3245,China (Illi Kazakh Autonomous Prefecture [ADM2]),Centroid of ADM2,82.0989,43.4509
+1863,13,Japan Territorial Waters,Southernmost point of territorial waters,135.592,34.0405
+1863,194,Denmark-Germany Border,Midpoint of shared (national) border,8.98718,54.8973
+1863,1502,"Mejillones, Chile","Mejillones, Chile",-70.4455,-23.0985
+1863,1519,Colombia-Ecuador Border,Midpoint of shared (national) border,-77.1538,0.343266
+1863,1590,Brazil-Paraguay Border,Midpoint of shared (national) border,-55.7422,-22.4135
+1864,381,Germany (Schleswing-Holstein [ADM1]),Centroid of ADM1,9.81008,54.1829
+1864,502,Germany-Hanover Border,Midpoint of shared (national) border,52.466,10.753
+1864,1563,Peru,Centroid of ADM0,-74.3756,-9.16376
+1864,2014,Chincha Islands,Chincha Islands,-76.3912,-13.6303
+1865,224,Japan,Centroid of Japan,139.272,36.6507
+1865,261,AUH-Germany Border,Midpoint of shared (national) border,50.449,12.907
+1865,1482,Chile,Centroid of ADM0,-71.374,-37.8525
+1865,1800,"Mexico City, Mexico","Mexico City, Mexico",-99.1332,19.4326
+1866,509,"Strasbourg, France","Strasbourg, France",7.75211,48.5734
+1866,1576,Greece (Thessaly [ADM1]),Centroid of ADM1,22.5402,39.0728
+1866,1600,Argentina-Bolivia Border,Midpoint of shared (national) border,-64.6961,-22.178
+1866,1714,"Valaparaiso, Chile","Valaparaiso, Chile",-71.6127,-33.0472
+1866,2043,"Curupayty, Paraguay","Curupayty, Paraguay",-54.65,-25.3667
+1868,1575,"Iraklion, Greece","Iraklion, Greece",25.1442,35.3387
+1869,1497,Venezuela,Midpoint of coastline,-63.8722,10.6422
+1869,1532,"Puerto Plata, Dominican Republic","Puerto Plata, Dominican Republic",-70.6871,19.7808
+1870,88,France-Germany Border,Midpoint of shared (national) border,7.81941,49.0463
+1870,220,"Tianjin, China","Tianjin, China",117.362,39.3434
+1870,2117,"Teacapan, Mexico","Teacapan, Mexico",-105.737,22.5401
+1870,3642,China (Illi Kazakh Autonomous Prefecture [ADM2]),Centroid of ADM2,82.0989,43.4509
+1871,2168,"Paris, France","Paris, France",2.35222,48.8566
+1871,2169,"Paris, France","Paris, France",2.35222,48.8566
+1871,2721,Sakhalin Island,Sakhalin Island,142.951,50.691
+1871,3247,China (Illi Kazakh Autonomous Prefecture [ADM2]),Centroid of ADM2,82.0989,43.4509
+1872,1503,"Antofagasta, Chile","Antofagasta, Chile",-70.3975,-23.6509
+1872,1527,"Asuncion, Paraguay","Asuncion, Paraguay",-57.5759,-25.2637
+1872,1632,"Port Au Prince, Haiti","Port Au Prince, Haiti",-72.3074,18.5944
+1873,256,"Guantanamo Bay, Cuba","Guantanamo Bay, Cuba",-75.1216,20.0117
+1873,1508,Argentina (Santa Cruz [ADM1]),Centroid of ADM1,-69.9414,-48.8127
+1873,1547,"El Remolino, Coah., Mexico","El Remolino, Coah., Mexico",-101.082,28.7566
+1873,2199,Taiwan,Centroid of ADM0,120.962,23.7511
+1874,1489,Taiwan,Centroid of ADM0,120.962,23.7511
+1874,1526,Chaco Boreal,Chaco Boreal,-60,-23
+1875,1545,"Las Cuevas, Trinidad and Tobago","Las Cuevas, Trinidad and Tobago",-61.3888,10.7838
+1875,2044,Chaco Boreal,Chaco Boreal,-60,-23
+1875,2200,"Ryukyu Islands, Japan","Ryukyu Islands, Japan",128,26.5
+1875,2320,Peru (Yunguyo [ADM2]),Centroid of ADM2,-69.0746,-16.2952
+1876,187,Balkan Peninsula,Balkan Peninsula,21.0937,41.8101
+1876,1533,El Salvador-Guatemala Border,Midpoint of shared (national) border,-89.709,14.1462
+1876,1544,Mexico-United States (Texas [ADM1]) Border,Midpoint of shared (subnational) border,-101.37,29.6701
+1876,1633,"Rio Negro, Chile","Rio Negro, Chile",-73.2333,-40.7833
+1876,1750,"Besika Bay, Turkey","Besika Bay, Turkey",26.4,40.2
+1876,2045,El Salvador Territorial Waters,Centroid of territorial waters,-88.9364,13.2651
+1876,3322,Western Black Sea,Western Black Sea,28.78,43.17
+1876,3323,"Besika Bay, Turkey","Besika Bay, Turkey",26.4,40.2
+1877,307,"Valetta, Malta","Valetta, Malta",14.5146,35.8989
+1877,1574,Greece (Thessaly [ADM1]),Centroid of ADM1,22.5402,39.0728
+1877,1635,Austria-Italy Border,Midpoint of shared (national) border,12.215,47.0873
+1878,1510,Santa Cruz River,Midpoint of river,-70.4387,-50.2216
+1878,1518,Bolivia-Chile Border,Midpoint of shared (national) border,-68.7092,-20.3063
+1878,1573,Greece (Thessaly [ADM1]),Centroid of ADM1,22.5402,39.0728
+1878,2835,Greece (Thessaly [ADM1]),Centroid of ADM1,22.5402,39.0728
+1879,1511,"Rio Gallegos, Argentina","Rio Gallegos, Argentina",-69.2168,-51.6231
+1879,2201,"Ryukyu Islands, Japan","Ryukyu Islands, Japan",128,26.5
+1880,104,China (Illi Kazakh Autonomous Prefecture [ADM2]),Centroid of ADM2,82.0989,43.4509
+1880,141,"Dubrovnik, Croatia","Dubrovnik, Croatia",18.0944,42.6507
+1880,1543,Rio Grande,Midpoint of river,-63.3188,-18.8199
+1880,1763,Argentina-Uruguay Border (Rio de la Plata [Territorial Waters]),Midpoint of shared (territorial water) border,-55.7852,-35.7084
+1881,228,"Tunis, Tunisia","Tunis, Tunisia",10.1815,36.8065
+1881,506,Vietnam,Centroid of ADM0,106.68,16.4667
+1881,1637,Venezuela,Midpoint of coastline,-63.8722,10.6422
+1882,507,"Hanoi, Vietnam","Hanoi, Vietnam",105.834,21.0278
+1882,1531,"Port Au Prince, Haiti","Port Au Prince, Haiti",-72.3074,18.5944
+1882,1571,"Karalli, Turkey","Karalli, Turkey",33.8694,40.2848
+1882,2202,"Seoul, South Korea","Seoul, South Korea",126.978,37.5665
+1882,3725,Egypt,Centroid of ADM0,29.872,26.4943
+1883,65,Danube River,Midpoint of river,22.3676,44.6953
+1883,202,"Beijing, China","Beijing, China",116.407,39.9042
+1883,1683,"Ile de la Tortue, Haiti","Ile de la Tortue, Haiti",-72.7925,20.0549
+1884,1486,"Seoul, South Korea","Seoul, South Korea",126.978,37.5665
+1884,1515,Chile-Peru Border,Midpoint of shared (national) border,-69.7861,-18.0145
+1884,1516,Bolivia-Peru Border,Midpoint of shared (national) border,-69.1355,-14.5016
+1885,119,"Panjdeh, Afghanistan","Panjdeh, Afghanistan",61.5667,31.7333
+1885,1488,Korea,Centroid of ADM0,127.463,38.5208
+1885,1535,El Salvador-Guatemala Border,Midpoint of shared (national) border,-89.709,14.1462
+1885,1764,"Buenaventura, Colombia","Buenaventura, Colombia",-77.0197,3.88305
+1885,2170,Benin-Togo Border,Midpoint of shared (national) border,1.62585,8.67489
+1885,2836,Greece (Epirus [ADM1]),Centroid of ADM1,21.1384,39.9875
+1886,96,Rio-Antirio Bridge,Rio-Antirio Bridge,21.7737,38.3206
+1886,1542,"Tampico, Mexico","Tampico, Mexico",-97.8611,22.2331
+1886,1639,Guyana-Venezuela Border,Midpoint of shared (national) border,-60.4302,6.93136
+1886,2128,Rio Paraguay,"Asuncion, Paraguay",-57.5759,-25.2637
+1887,91,"Ankara, Turkey","Ankara, Turkey",32.8597,39.9334
+1887,1601,Rio Paraguay,"Asuncion, Paraguay",-57.5759,-25.2637
+1887,2369,France-Germany Border,Midpoint of shared (national) border,7.81941,49.0463
+1887,3136,Haiti Territorial Waters,Centroid of territorial waters,-73.2248,18.1112
+1888,1530,Haiti (Artibonite [ADM1] and Ouest [ADM1]),Centroid of > ADM1,-35.7504,23.9482
+1888,1739,Greece (Thessaly [ADM1]),Centroid of ADM1,22.5402,39.0728
+1889,9,Mozambique Territorial Waters,Centroid of territorial waters,36.9704,-18.1918
+1889,1599,Haiti,Centroid of ADM0,-72.6795,18.9416
+1890,1534,El Salvador-Guatemala Border,Midpoint of shared (national) border,-89.709,14.1462
+1890,1642,Eritrea-Sudan Border,Midpoint of shared (national) border,36.9388,16.677
+1890,2046,Guatemala,Centroid of ADM0,-90.3562,15.7021
+1891,1512,"Valaparaiso, Chile","Valaparaiso, Chile",-71.6127,-33.0472
+1891,1529,"Port-au-Prince, Haiti","Port-au-Prince, Haiti",-72.3074,18.5944
+1891,1643,Chile,Centroid of ADM0,-71.374,-37.8525
+1891,2127,"Oriente Forest, Ecuador","Oriente Forest, Ecuador",-77.0104,-0.734
+1891,3249,China (Kashgar [ADM2]),Centroid of ADM2,77.2248,38.187
+1893,196,"Bangkok, Thailand","Bangkok, Thailand",100.502,13.7563
+1893,1541,Mexico-United States (Texas [ADM1]) Border,Midpoint of shared (subnational) border,-101.37,29.6701
+1893,1581,"Melilla, Spain","Melilla, Spain",-2.9381,35.2923
+1893,1596,"Oriente, Ecuador","Oriente, Ecuador",-77,-2
+1893,2300,"Waima, Sierra Leone","Waima, Sierra Leone",-10.7824,8.63737
+1894,1490,Peru,Centroid of ADM0,-74.3756,-9.16376
+1895,14,Constantinople,"Istanbul, Turkey",28.9784,41.0082
+1895,106,Japan (Hokkaido)-Russia (Sakhalin) Border (Territorial Waters),Midpoint of shared (territorial water) border,142.007,45.7095
+1895,1644,Dominican Republic,Midpoint of coastline,-68.5066,18.7553
+1895,1645,Ilhe de Trindade,Ilhe de Trindade,-29.3308,-20.5081
+1895,1646,Brazil (Amapa [ADM1]),Centroid of ADM1,-51.961,1.44004
+1895,3232,Caribbean Sea,Caribbean Sea,-74.9676,14.5401
+1896,152,Benin-Nigeria Border,Midpoint of shared (national) border,3.13833,9.21593
+1896,1569,"Iraklion, Greece","Iraklion, Greece",25.1442,35.3387
+1896,1647,Brazil (Amapa [ADM1]),Centroid of ADM1,-51.961,1.44004
+1896,1648,"Port Au Prince, Haiti","Port Au Prince, Haiti",-72.3074,18.5944
+1896,2343,"Puerto Cabello, Venezuela","Puerto Cabello, Venezuela",-68.0299,10.4698
+1896,2837,Greece,Midpoint of coastline,23.1314,37.79
+1897,16,Japan-South Korea Border (Territorial Waters),Midpoint of shared (territorial water) border,129.143,34.7672
+1897,43,"Jiaozhou, China","Jiaozhou, China",120.006,36.2859
+1897,56,Aegean Sea,Aegean Sea,25.2686,39.0192
+1897,1513,"Puna de Atacama, Argentina","Puna de Atacama, Argentina",-67,-25
+1897,1649,"Lourenco Marques, Mozambique","Lourenco Marques, Mozambique",32.6051,-25.892
+1898,77,"Kodok, Sudan","Kodok, Sudan",32.1093,9.89407
+1898,309,China Territorial Waters,Centroid of territorial waters,120.175,25.5996
+1898,378,China (Illi Kazakh Autonomous Prefecture [ADM2]),Centroid of ADM2,82.0989,43.4509
+1898,379,"Kwangchow Wan, China","Kwangchow Wan, China",113.245,23.1448
+1898,1557,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1899,131,North Korea-Russia Border (Territorial Waters),Midpoint of shared (territorial water) border,130.792,42.2199
+1899,237,Delagoa Bay,Delagoa Bay,32.7633,-26.0828
+1899,511,China (Zhejiang [ADM1]),Centroid of ADM1,120.089,29.1795
+1899,1597,"Amazon Basin, Brazil","Amazon Basin, Brazil",-61.6784,-1.6566
+1900,31,Manuchurian Empire,Centroid of ADM0,105.7,37.33
+1900,68,Dominican Republic,Midpoint of coastline,-68.5066,18.7553
+1900,1093,Sena Ultima Esperanza,Sena Ultima Esperanza,-73.103,-51.475
+1900,1174,Colombia-Venezuela Border,Midpoint of shared (national) border,-69.9777,6.80034
+1900,3250,"Harbin, China","Harbin, China",126.535,45.8038
+1901,1120,"Rio Bachelor, Chile","Rio Bachelor, Chile",-72.3097,-53.5603
+1901,1145,"Oriente, Peru","Oriente, Peru",-80.6808,-4.87778
+1901,2338,"Caracas, Venezuela","Caracas, Venezuela",-66.9036,10.4806
+1902,2,Canada-United States (Alaska [ADM1]) Border,Midpoint of shared (subnational) border,-138.67,59.8283
+1902,254,Venezuela,Midpoint of coastline,-63.8722,10.6422
+1902,1163,Purus River,Midpoint of river,-65.9797,-7.68151
+1902,1178,Brazil (Acre [ADM1]),Centroid of ADM1,-70.4467,-9.30992
+1902,2342,Colombia-Venezuela Border,Midpoint of shared (national) border,-69.9777,6.80034
+1902,3325,Dardanelles Strait,Dardanelles Strait,26.3013,40.0482
+1903,159,"Panama City, Panama","Panama City, Panama",-79.5199,8.98238
+1903,180,"Lvshunkou, China","Lvshunkou, China",121.262,38.8517
+1903,2005,Brazil (Acre [ADM1]),Centroid of ADM1,-70.4467,-9.30992
+1903,3301,Canada-United States (Alaska [ADM1]) Border,Midpoint of shared (subnational) border,-138.67,59.8283
+1903,3645,"Harbin, China","Harbin, China",126.535,45.8038
+1904,109,Austria-Italy Border,Midpoint of shared (national) border,12.215,47.0873
+1904,164,Morocco,Midpoint of coastline,-8.34876,33.3276
+1904,242,Dogger Bank,Dogger Bank,3,55
+1905,128,Ottoman Empire,Midpoint of coastline,27.06,38.39
+1905,247,Dominican Republic Territorial Waters,Centroid of territorial waters,-70.0869,18.1209
+1905,310,Caribbean Sea,Caribbean Sea,-74.9676,14.5401
+1905,1650,China Territorial Waters,Centroid of territorial waters,120.175,25.5996
+1905,2077,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1906,156,"Taba, Egypt","Taba, Egypt",34.8969,29.4925
+1906,1179,Pilcomayo River,Midpoint of river,-62.6244,-22.2771
+1906,1205,El Salvador-Guatemala Border,Midpoint of shared (national) border,-89.709,14.1462
+1906,2321,"Puerto Heath, Bolivia","Puerto Heath, Bolivia",-68.6384,-12.5071
+1907,86,Morocco,Midpoint of coastline,-8.34876,33.3276
+1907,1094,"Isla de Martin Garcia, Argentina","Isla de Martin Garcia, Argentina",-58.2491,-34.1825
+1907,1160,Rio Putumayo,Midpoint of river,-72.9506,-2.40738
+1907,1202,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1907,2203,"Harbin, China","Harbin, China",126.535,45.8038
+1907,3132,Iran (Northwest [> ADM1]),Centroid of > ADM1,46.879,35.8777
+1908,30,"Sarajevo, Bosnia","Sarajevo, Bosnia",18.4131,43.8563
+1908,166,Iran (Northern [> ADM1]),Centroid of > ADM1,52.376,36.1117
+1908,311,"Tripoli, Libya","Tripoli, Libya",13.1913,32.8872
+1908,1063,Curacao,Curacao,-68.99,12.1696
+1908,1274,"Sofia, Bulgaria","Sofia, Bulgaria",23.3219,42.6977
+1909,95,"Port-au-Prince, Haiti","Port-au-Prince, Haiti",-72.3074,18.5944
+1909,1086,Morocco (Northern [> ADM 1]),Centroid of > ADM1,-5.2002,32.9735
+1909,1249,Karpathios and Crete Islands,Midpoint of shortest distance between islands,26.7164,35.3578
+1909,2078,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1909,2204,China (Jilin [ADM1]),Centroid of ADM1,126.194,43.6644
+1909,3133,Iran (Northern [> ADM1]),Centroid of > ADM1,52.376,36.1117
+1910,249,Nicaragua (eastern) Territorial Waters,Centroid of territorial waters,-83.0714,11.8735
+1910,312,"Tripoli, Libya","Tripoli, Libya",13.1913,32.8872
+1910,313,Iran (Southern [> ADM1]),Centroid of > ADM1,57.0465,28.6641
+1910,1147,"Oriente Forest, Ecuador","Oriente Forest, Ecuador",-77.0104,-0.734
+1910,1180,Bolivia (Manuripi [ADM2]),Centroid of ADM2,-68.0045,-11.5389
+1911,114,"Tripoli, Libya","Tripoli, Libya",13.1913,32.8872
+1911,165,Iran (Northern [> ADM1]),Centroid of > ADM1,52.376,36.1117
+1911,314,Albania Territorial Waters,Centroid of territorial waters,19.34,40.8251
+1911,315,France-Germany Border,Midpoint of shared (national) border,7.81941,49.0463
+1911,1087,Morocco (Northern [> ADM 1]),Centroid of > ADM1,-5.2002,32.9735
+1911,1161,Cagueta/Yapura River,Midpoint of river,-70.698,-1.37853
+1911,1181,Chile-Peru Border,Midpoint of shared (national) border,-69.7861,-18.0145
+1911,1653,Mexico-United States Border,Midpoint of shared (national) border,-105.809,31.2332
+1911,1734,Guatemala,Centroid of ADM0,-90.3562,15.7021
+1911,1771,"Oslo, Norway","Oslo, Norway",10.7522,59.9139
+1911,1772,Red Sea,Red Sea,38.5126,20.2802
+1911,2047,Argentina-Paraguay Border,Midpoint of shared (national) border,-58.0107,-26.1068
+1911,2126,"Pocitas, Peru","Pocitas, Peru",-81.0726,-4.11128
+1911,2234,Haiti,Centroid of ADM0,-72.6795,18.9416
+1911,3139,"Rabat, Morocco","Rabat, Morocco",-6.84981,33.9716
+1911,3330,Morocco Territorial Waters,Centroid of Mediterranean territorial waters,-3.71275,35.3937
+1912,21,AUH-Serbia Border,Midpoint of shared (national) border,19,45.89
+1912,316,"Tunis, Tunisia","Tunis, Tunisia",10.1815,36.8065
+1912,317,Bulgaria,Centroid of ADM0,25.2315,42.7614
+1912,1095,Rio Paraguay,"Asuncion, Paraguay",-57.5759,-25.2637
+1912,1148,"Oriente, Ecuador","Oriente, Ecuador",-77,-2
+1912,1207,Dominican Republic-Haiti Border,Midpoint of shared (national) border,-71.7183,18.7414
+1912,1250,Bulgaria-Turkey Border,Midpoint of shared (national) border,27.1055,42.0943
+1912,1598,"Puerto Pizarro, Peru","Puerto Pizarro, Peru",-80.3909,-3.50371
+1912,3254,"Manzhouli, China","Manzhouli, China",117.379,49.5978
+1912,3255,China (Illi Kazakh Autonomous Prefecture [ADM2]),Centroid of ADM2,82.0989,43.4509
+1913,3,Austria-Yugoslavia Border,Midpoint of shared (national) border,14.911,46.6223
+1913,136,"Veracruz, Mexico","Veracruz, Mexico",-96.1342,19.1738
+1913,238,"Puerto Barrios, Guatemala","Puerto Barrios, Guatemala",-88.5855,15.6954
+1913,1196,"Isla de Providencia, Colombia","Isla de Providencia, Colombia",-81.3729,13.3388
+1913,1251,Bulgaria-Yugoslavia Border,Midpoint of shared (national) border,22.5318,42.8794
+1913,2311,"Belize City, Belize","Belize City, Belize",-88.1962,17.5046
+1913,2312,"Veracruz, Mexico","Veracruz, Mexico",-96.1342,19.1738
+1913,2313,"Veracruz, Mexico","Veracruz, Mexico",-96.1342,19.1738
+1914,69,"Puerto Plata, Dominican Republic","Puerto Plata, Dominican Republic",-70.6871,19.7808
+1914,100,"Port-au-Prince, Haiti","Port-au-Prince, Haiti",-72.3074,18.5944
+1914,257,AUH-Serbia Border,Midpoint of shared (national) border,19.54,46.08
+1914,260,China (Shandong [ADM1]),Centroid of ADM1,118.151,36.352
+1914,320,"Leuven, Belgium","Leuven, Belgium",4.70052,50.8798
+1914,394,"Tirana, Albania","Tirana, Albania",19.8187,41.3275
+1914,397,Bulgaria-Yugoslavia Border,Midpoint of shared (national) border,22.5318,42.8794
+1914,1131,Iran (Northwest [> ADM1]),Centroid of > ADM1,46.879,35.8777
+1914,1654,North Sea,North Sea,3.51563,56.511
+1914,1661,North Sea,North Sea,3.51563,56.511
+1914,1725,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1914,1773,"Luanda, Angola","Luanda, Angola",13.2894,-8.83999
+1914,1774,Germany coastline (Eastern),Midpoint of coastline,12.1614,54.2144
+1914,3258,Russia (Tuva [ADM1]),Centroid of ADM1,94.793,51.5914
+1914,3341,Bodensee Obersee,Bodensee Obersee,9.42491,47.5937
+1914,3343,Bulgaria-Greece Border,Midpoint of shared (national) border,24.8234,41.4042
+1914,3344,Greece-Turkey Border,Midpoint of shared (national) border,26.3871,41.2561
+1915,324,Greece (Crete [ADM1]),Centroid of ADM1,24.8447,35.2293
+1915,398,North Sea,North Sea,3.51563,56.511
+1915,1656,North Sea,North Sea,3.51563,56.511
+1915,1732,North Sea,North Sea,3.51563,56.511
+1915,1775,Mexico-United States Border,Midpoint of shared (national) border,-105.809,31.2332
+1915,2645,North Sea,North Sea,3.51563,56.511
+1915,3349,Spain Territorial Waters (Northern),Centroid of territorial waters,-5.67425,43.7252
+1915,3352,Maritza River,Midpoint of river,25.8939,42.0029
+1916,321,Mexico-United States Border,Midpoint of shared (national) border,-105.809,31.2332
+1916,322,"Santo Domingo, Dominican Republic","Santo Domingo, Dominican Republic",-69.9312,18.4861
+1916,323,Greece,Midpoint of coastline,23.1314,37.79
+1916,395,Portugal,Centroid of ADM0,-8.56274,39.601
+1916,396,Hungary-Romania Border,Midpoint of shared (national) border,21.6287,46.9048
+1916,399,Between Atlantic Ocean and North Sea,Dividing Line,4,61.0283
+1916,1726,"Cardiff, United Kingdom","Cardiff, United Kingdom",-3.17909,51.4816
+1916,2205,"Zhengjiatun, Liaoning, China","Zhengjiatun, Liaoning, China",123.713,41.2889
+1916,2310,"Veracruz, Mexico","Veracruz, Mexico",-96.1342,19.1738
+1916,2648,"Corfu, Greece","Corfu, Greece",19.9217,39.6243
+1917,197,"Vladivostok, Russia","Vladivostok, Russia",131.887,43.1198
+1917,400,Brazil,Midpoint of coastline,-37.9329,-4.30799
+1917,632,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1917,1142,"Harbin, China","Harbin, China",126.535,45.8038
+1917,1175,Motagua River,Midpoint of river,-89.4986,15.0868
+1917,1660,Sweden,Midpoint of coastline,17.7342,59.4494
+1917,1724,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1918,1132,"Tehran, Iran","Tehran, Iran",51.389,35.6892
+1918,1182,Chaco Boreal,Chaco Boreal,-60,-23
+1918,1195,Honduras-Nicaragua Border,Midpoint of shared (subnational) border,-85.4934,14.082
+1918,1257,"Bessarabia, Moldova","Bessarabia, Moldova",28.6959,48.0285
+1918,1262,Albania,Centroid of ADM0,20.0684,41.1423
+1918,1263,Romania-Yugoslavia Border,Midpoint of shared (national) border,21.3655,44.8442
+1918,1477,Finland (Aland Islands [ADM1]),Centroid of ADM1,20.1648,60.2019
+1918,1777,"Harbin, China","Harbin, China",126.535,45.8038
+1918,2184,Mexico-United States Border,Midpoint of shared (national) border,-105.809,31.2332
+1918,2363,"Yerevan, Armenia","Yerevan, Armenia",44.4991,40.1792
+1918,2603,Belarus-Lithuania Border,Midpoint of shared (national) border,25.7994,54.2536
+1918,2605,Estonia-Russia Border,Midpoint of shared (national) border,27.508,58.5314
+1918,3345,Turkey (Rize [ADM1] and Trabzon [ADM1]),Centroid of > ADM1,40.259,40.853
+1918,3346,Kaliningrad,Kaliningrad,20.4522,54.7104
+1919,230,Turkey (Antalya [ADM1]),Centroid of ADM1,30.9203,36.7984
+1919,1219,Poland-Russia Border,Midpoint of shared (national) border,23.4462,52.5394
+1919,1265,Hungary,Centroid of ADM0,19.4134,47.1665
+1919,1268,"Teschen, Poland","Teschen, Poland",18.6355,49.7498
+1919,1269,Latvia,Centroid of ADM0,24.9294,56.8575
+1919,1270,Turkey (Western [> ADM1]),Centroid of > ADM1,29.2699,39.0793
+1919,1272,"Vilnius, Lithuania","Vilnius, Lithuania",25.2797,54.6872
+1919,1723,Russia (Karelia [ADM1]),Centroid of ADM1,33.148,63.5415
+1919,1810,"Fuzhou, China","Fuzhou, China",119.296,26.0745
+1919,2185,Mexico-United States (Texas [ADM1]) Border,Midpoint of shared (subnational) border,-101.37,29.6701
+1919,2604,Latvia-Russia Border,Midpoint of shared (national) border,27.7032,56.9124
+1919,2700,Amur River,Midpoint of river,132.169,47.6919
+1919,2701,Amur River,Midpoint of river,132.169,47.6919
+1919,2702,Amur River,Midpoint of river,132.169,47.6919
+1919,3134,Cilicia,Cilicia,36,37
+1919,3340,"Ferrol, Spain","Ferrol, Spain",-8.21935,43.4896
+1919,3599,Austria (Carinthia [ADM1]),Centroid of ADM1,13.915,46.7736
+1920,186,"Warsaw, Poland","Warsaw, Poland",21.0122,52.2297
+1920,211,France-Germany Border,Midpoint of shared (national) border,7.81941,49.0463
+1920,327,"Istanbul, Turkey","Istanbul, Turkey",28.9784,41.0082
+1920,510,"Vladivostok, Russia","Vladivostok, Russia",131.887,43.1198
+1920,1133,Iranian Coastline (Caspian),Midpoint of coastline,51.6802,36.6202
+1920,1184,Bolivia-Chile Border,Midpoint of shared (national) border,-68.7092,-20.3063
+1920,1778,"Tirana, Albania","Tirana, Albania",19.8187,41.3275
+1920,2040,El Salvador-Honduras Border,Midpoint of shared (national) border,-88.3707,13.8792
+1920,2206,China (Jilin [ADM1]),Centroid of ADM1,126.194,43.6644
+1920,2364,"Sevastopol, Ukraine","Sevastopol, Ukraine",33.5254,44.6166
+1920,2722,Sakhalin Island,Sakhalin Island,142.951,50.691
+1921,127,"Belgium, France, Germany Border",Point along shared noncontiguous border nearest midpoint of contiguous border including neighbors,6.79061,49.1655
+1921,158,Costa Rica-Panama Border,Midpoint of shared (national) border,-82.7141,8.92902
+1921,612,"Batum, Georgia","Batum, Georgia",41.6367,41.6168
+1921,1233,Austria (Burgenland [ADM1]),Centroid of ADM1,16.5202,47.5415
+1921,1235,Albania (Northern [> ADM1]),Centroid of > ADM1,19.9127,42.1004
+1921,1273,"Upper Silesia, Poland","Upper Silesia, Poland",19.322,50.5717
+1921,1665,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1921,1666,"Amapala, Honduras","Amapala, Honduras",-87.6519,13.2917
+1921,2129,Pilcomayo River,Midpoint of river,-62.6244,-22.2771
+1921,3257,"Ulaanbaatar, Mongolia","Ulaanbaatar, Mongolia",106.906,47.8864
+1921,3259,Russia (Tuva [ADM1]),Centroid of ADM1,94.793,51.5914
+1922,177,France-Germany Border,Midpoint of shared (national) border,7.81941,49.0463
+1922,328,"Istanbul, Turkey","Istanbul, Turkey",28.9784,41.0082
+1922,1168,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1922,1668,"Vladivostok, Russia","Vladivostok, Russia",131.887,43.1198
+1922,1779,Afghanistan-Russia Border,Midpoint of shared (national) border,68.8599,37.3324
+1922,3181,"Austria, Italy, Yugoslavia Border",Intersection of multiple borders,13.7187,46.5266
+1922,3182,"Hungary, Romania, Yugoslavia Border",Intersection of multiple borders,20.261,46.1149
+1923,55,"Corfu, Greece","Corfu, Greece",19.9217,39.6243
+1923,133,"Memel, Lithuania","Memel, Lithuania",21.1443,55.7033
+1923,241,Artic Ocean near Murmansk,"Murmansk, Russia",33.0827,68.9585
+1923,1240,Bulgaria-Yugoslavia Border,Midpoint of shared (national) border,22.5318,42.8794
+1923,1669,"Addis Ababa, Ethiopia","Addis Ababa, Ethiopia",38.7578,8.9806
+1923,1780,"Encoro do Eume, Spain","Encoro do Eume, Spain",-7.99062,43.3764
+1923,2130,Chaco Boreal,Chaco Boreal,-60,-23
+1924,1736,Ionian Sea,Ionian Sea,37.7885,18.8076
+1924,2131,Chaco Boreal,Chaco Boreal,-60,-23
+1925,1241,Bulgaria-Greece Border,Midpoint of shared (national) border,24.8234,41.4042
+1925,1670,"Tripoli, Libya","Tripoli, Libya",13.1913,32.8872
+1925,1781,Urta Toghai Island,Urta Toghai Island,69.5014,37.4986
+1925,2207,"Mukden, China","Mukden, China",123.431,41.8057
+1925,3183,Greece-Turkey Border,Midpoint of shared (national) border,26.3871,41.2561
+1926,151,"Bluefields, Nicaragua","Bluefields, Nicaragua",-83.7704,12.0111
+1926,1671,France-Italy Border,Midpoint of shared (national) border,6.94729,44.8695
+1926,3184,Bulgaria-Romania Border,Midpoint of shared (national) border,25.4793,43.6402
+1926,3260,Manchuria,Manchuria,125.82,46.54
+1926,3362,"Radeke, Croatia","Radeke, Croatia",15.6883,44.1108
+1927,145,"Shanghai, China","Shanghai, China",121.474,31.2304
+1927,1025,Chaco Boreal,Chaco Boreal,-60,-23
+1927,1169,Guatemala-Honduras Border,Midpoint of shared (national) border,-88.9898,15.1322
+1927,1674,Manchuria,Manchuria,125.82,46.54
+1927,2132,Chaco Boreal,Chaco Boreal,-60,-23
+1927,2209,"Wuhan, China","Wuhan, China",114.306,30.5928
+1928,40,China (Shandong [ADM1]),Centroid of ADM1,118.151,36.352
+1928,1026,Chaco Boreal,Chaco Boreal,-60,-23
+1928,3187,Bulgaria-Greece Border,Midpoint of shared (national) border,24.8234,41.4042
+1929,41,"Harbin, China","Harbin, China",126.535,45.8038
+1929,1170,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1929,2316,"Isla Margarita, Paraguay","Isla Margarita, Paraguay",-57.8897,-21.695
+1929,3188,Bulgaria-Yugoslavia Border,Midpoint of shared (national) border,22.5318,42.8794
+1930,2133,Rio Paraguay,"Asuncion, Paraguay",-57.5759,-25.2637
+1931,129,"Harbin, China","Harbin, China",126.535,45.8038
+1931,407,"Wal Wal, Chad","Wal Wal, Chad",14.1,14.36
+1931,1027,Chaco Boreal,Chaco Boreal,-60,-23
+1931,1127,Saudi Arabia-Yemen Border,Midpoint of shared (national) border,44.5422,17.3755
+1931,1128,"Najran, Saudi Arabia","Najran, Saudi Arabia",44.2289,17.5656
+1931,3186,Bulgaria-Greece Border,Midpoint of shared (national) border,24.8234,41.4042
+1932,178,"Harbin, China","Harbin, China",126.535,45.8038
+1932,248,Manchuria,Manchuria,125.82,46.54
+1932,1139,"Leticia, Colombia","Leticia, Colombia",-69.9359,-4.20317
+1932,1151,Rio Zarumilla,Rio Zarumilla,-80.2307,-3.49514
+1932,1733,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1932,2050,Brazil-Colombia-Peru Border,Intersection of shared (national) border,-69.9569,-4.23687
+1933,1129,Saudi Arabia-Yemen Border,Midpoint of shared (national) border,44.5422,17.3755
+1933,1677,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1933,2211,China (Inner Mongolia Autonomous Region [ADM1]),Centroid of ADM1,113.914,44.0864
+1933,3160,Gengan River,Gengan River,59.2167,28.75
+1933,3655,China (Xinjiang [ADM1]),Centroid of ADM1,85.2036,41.112
+1934,67,Czechoslovakia-Germany Border,Midpoint of shared (national) border,12.6784,50.4139
+1934,111,"Walwal, Abys","Walwal, Abys",45.4,7.05
+1934,139,"China (Hebei [ADM1], Inner Mongolia Autonomous Prefecture [ADM1], and Liaoning [ADM1])",Centroid of > ADM1,115.008,43.2777
+1934,1141,Peru (Mariscal Ramon Castilla [ADM2]),Centroid of ADM2,-71.7389,-3.88895
+1934,1152,Rio Zarumilla,Rio Zarumilla,-80.2307,-3.49514
+1934,2103,Iran-Iraq Border,Midpoint of shared (national) border,45.6418,33.7638
+1934,2995,"Vladivostok, Russia","Vladivostok, Russia",131.887,43.1198
+1934,3157,Turkey Territorial Waters (Mediterranean),Centroid of territorial waters,32.8805,35.9495
+1934,3159,Afghanistan-Iran Border,Midpoint of shared (national) border,60.7024,32.6938
+1935,182,"Khalkhgol, Mongolia","Khalkhgol, Mongolia",118.622,47.627
+1935,616,"Beijing, China","Beijing, China",116.407,39.9042
+1935,1171,El Salvador-Guatemala Border,Midpoint of shared (national) border,-89.709,14.1462
+1935,2212,China (Hebei [ADM1]),Centroid of ADM1,116.13,39.5457
+1935,3158,Bulgaria-Turkey Border,Midpoint of shared (national) border,27.1055,42.0943
+1936,174,"Belgium, France, Germany Border",Point along shared noncontiguous border nearest midpoint of contiguous border including neighbors,6.79061,49.1655
+1936,210,"Guadalajara, Spain","Guadalajara, Spain",-3.16017,40.6325
+1936,1028,Chaco Boreal,Chaco Boreal,-60,-23
+1936,2056,"Madrid, Spain","Madrid, Spain",-3.70379,40.4168
+1936,2214,China (Hebei [ADM1]),Centroid of ADM1,116.13,39.5457
+1936,2724,Amur River,Midpoint of river,132.169,47.6919
+1937,157,"Beijing, China","Beijing, China",116.407,39.9042
+1937,336,Algeria Territorial Waters,Centroid of territorial waters,3.21438,36.9211
+1937,409,Amur River,Midpoint of river,132.169,47.6919
+1937,2125,Rio Zarumilla,Rio Zarumilla,-80.2307,-3.49514
+1937,2303,Cape Bizerte,Cape Bizerte,9.86389,37.3333
+1937,2304,Gibraltar Territorial Waters,Centroid of territorial waters,-5.2458,36.089
+1937,2306,"Tunis, Tunisia","Tunis, Tunisia",10.1815,36.8065
+1937,2307,"Barcelona, Spain","Barcelona, Spain",2.1734,41.3851
+1937,3189,"Iskenderun, Turkey","Iskenderun, Turkey",36.1756,36.5847
+1937,3656,China (Xinjiang [ADM1]),Centroid of ADM1,85.2036,41.112
+1938,11,Austria-Germany Border,Midpoint of shared (national) border,9.59932,47.5319
+1938,12,Czechoslovakia-Germany Border,Midpoint of shared (national) border,12.6784,50.4139
+1938,184,Tumen River,Midpoint of river,129.731,42.494
+1938,410,Poland-Russia Border,Midpoint of shared (national) border,23.4462,52.5394
+1938,1029,Chaco Boreal,Chaco Boreal,-60,-23
+1938,1153,"Oriente Forest, Ecuador","Oriente Forest, Ecuador",-77.0104,-0.734
+1938,1243,"Vilnius, Lithuania","Vilnius, Lithuania",25.2797,54.6872
+1938,1244,Poland (Cieszyn [ADM2]),Centroid of ADM2,18.8111,49.7317
+1938,1245,Hungary-Yugoslavia Border,Midpoint of shared (national) border,18.0074,45.7869
+1938,1246,"Bratislava, Slovakia","Bratislava, Slovakia",17.1077,48.1486
+1938,3190,"Iskenderun, Turkey","Iskenderun, Turkey",36.1756,36.5847
+1939,23,Estonia-Russia Border,Midpoint of shared (national) border,27.508,58.5314
+1939,108,"Tirana, Albania","Tirana, Albania",19.8187,41.3275
+1939,134,Memel,"Memel, Lithuania",21.1443,55.7033
+1939,169,"Warsaw, Poland","Warsaw, Poland",21.0122,52.2297
+1939,179,"Helsinki, Finland","Helsinki, Finland",24.9384,60.1699
+1939,183,"Khalkhin Gol, Russia","Khalkhin Gol, Russia",44.2097,46.3164
+1939,258,East Prussia-Poland Border,Midpoint of shared (national) border,21.627,54.398
+1939,503,Latvia-Russia Border,Midpoint of shared (national) border,27.7032,56.9124
+1939,1154,"Oriente Forest, Ecuador","Oriente Forest, Ecuador",-77.0104,-0.734
+1939,1247,"Khust, Ukraine","Khust, Ukraine",23.2972,48.1735
+1939,1684,"Brenner Pass, Italy","Brenner Pass, Italy",11.5061,47.0018
+1939,1685,Poland (Eastern [> ADM1]),Centroid of > ADM1,21.6259,51.9092
+1939,1686,Germany-Switzerland Border,Midpoint of shared (national) border,9.52686,47.5564
+1939,2302,"Prague, Czech Republic","Prague, Czech Republic",14.4378,50.0755
+1939,3191,Afghanistan-Russia Border,Midpoint of shared (national) border,68.8599,37.3324
+1939,3364,"Khust, Ukraine","Khust, Ukraine",23.2972,48.1735
+1939,3700,North Sea,North Sea,3.51563,56.511
+1939,3701,Germany-Netherlands Border,Midpoint of shared (national) border,6.75484,52.0252
+1939,3703,Germany-Luxembourg Border,Midpoint of shared (national) border,6.49409,49.7018
+1939,3705,"Bergen, Norway","Bergen, Norway",5.32205,60.3913
+1939,3708,Baltic Sea,Baltic Sea,19.8633,58.488
+1939,3709,North Sea,North Sea,3.51563,56.511
+1939,3719,Baltic Sea,Baltic Sea,19.8633,58.488
+1939,3723,Baltic Sea,Baltic Sea,19.8633,58.488
+1939,3724,Mediterranean Sea,Mediterranean Sea,18.048,34.5531
+1939,3804,"Gotland, Sweden","Gotland, Sweden",18.4867,57.4684
+1939,3809,Baltic Sea,Baltic Sea,19.8633,58.488
+1939,3833,Argentina-Uruguay Border (Rio de la Plata [Territorial Waters]),Midpoint of shared (territorial water) border,-56.7412,-35.1945
+1939,3834,Argentina-Uruguay Border (Rio de la Plata [Territorial Waters]),Midpoint of shared (territorial water) border,-56.7412,-35.1945
+1940,22,"Riga, Latvia","Riga, Latvia",24.1052,56.9496
+1940,235,"Mers-el-Kebir, Algeria","Mers-el-Kebir, Algeria",-0.710527,35.7222
+1940,339,Pacific Ocean,Pacific Ocean,-124.509,-8.78319
+1940,418,Albania-Greece Border,Midpoint of shared (national) border,20.5887,40.0717
+1940,504,Lithuania-Russia Border,Midpoint of shared (national) border,23.8981,55.3357
+1940,505,Estonia-Russia Border,Midpoint of shared (national) border,27.508,58.5314
+1940,613,"Khemmarat, Thailand","Khemmarat, Thailand",105.149,15.9672
+1940,1749,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1940,1783,Germany-Switzerland Border,Midpoint of shared (national) border,9.52686,47.5564
+1940,3704,"Josing Fjord, Norway","Josing Fjord, Norway",6.33467,58.3146
+1940,3706,Baltic Sea,Baltic Sea,19.8633,58.488
+1940,3707,"Roem Island, Denmark","Roem Island, Denmark",8.51387,55.1389
+1940,3713,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1940,3718,"Bidasoa, Cuba","Bidasoa, Cuba",-80.6833,22.3167
+1940,3720,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1940,3800,Switzerland (Geneva [ADM1] and Vaud [ADM1]),Centroid of > ADM1,6.61631,46.5432
+1940,3801,Norway-Sweden Border,Midpoint of shared (national) border,14.1403,64.9831
+1940,3802,"Bjoernfjell, Norway","Bjoernfjell, Norway",18.0894,68.4472
+1940,3807,"Port Said, Egypt","Port Said, Egypt",32.3019,31.2653
+1940,3810,Gibraltar,Gibraltar,-5.35358,36.1408
+1940,3812,Adriatic Sea,Adriatic Sea,17.2903,41.8551
+1940,3814,Italy (Trieste [ADM2])-Yugoslavia,Midpoint of shared (subnational) border,13.8608,45.6897
+1940,3820,French Alps,French Alps,6.85275,45.8326
+1940,3821,"Bessarabia, Moldova","Bessarabia, Moldova",28.6959,48.0285
+1940,3822,Poland (Southeastern [> ADM1]),Centroid of > ADM1,21.8135,50.5308
+1940,3823,"Transylvania, Romania","Transylvania, Romania",25.2224,46.1841
+1940,3824,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1940,3825,"Bucharest, Romania","Bucharest, Romania",26.1025,44.4268
+1940,3835,Spain Territorial Waters (Northern),Centroid of territorial waters,-5.67425,43.7252
+1940,3836,Gibraltar,Gibraltar,-5.35358,36.1408
+1940,3851,Sea of Marmara,Sea of Marmara,28.1123,40.6681
+1940,3852,"Haifa, Israel","Haifa, Israel",34.9896,32.794
+1940,3853,"Cairo, Egypt","Cairo, Egypt",31.2357,30.0444
+1940,3854,"Haifa, Israel","Haifa, Israel",34.9896,32.794
+1940,3855,Atlantic Ocean near W Africa and Spain,Atlantic Ocean near W Africa and Spain,-8,36
+1940,3856,Bulgaria-Greece Border,Midpoint of shared (national) border,24.8234,41.4042
+1940,3860,Hong Kong Island,Hong Kong Island,114.191,22.2588
+1940,3861,Czechoslovakia-Hungary Border,Midpoint of shared (national) border,19.5775,48.2207
+1940,3862,Mediterranean Sea,Mediterranean Sea,18.048,34.5531
+1940,3863,Celtic Sea,Celtic Sea,-8.25025,49.0705
+1940,3864,Gibraltar,Gibraltar,-5.35358,36.1408
+1941,414,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1941,420,"Basra, Iraq","Basra, Iraq",47.7835,30.5081
+1941,421,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1941,523,"Tehran, Iran","Tehran, Iran",51.389,35.6892
+1941,1066,Indian Ocean,Indian Ocean,81.8262,-33.1376
+1941,1785,"Bangkok, Thailand","Bangkok, Thailand",100.502,13.7563
+1941,3805,Baltic Sea,Baltic Sea,19.8633,58.488
+1941,3867,Falkland Islands,Falkland Islands,-59.5236,-51.7963
+1941,3868,"Sofia, Bulgaria","Sofia, Bulgaria",23.3219,42.6977
+1941,3869,Bulgaria,Centroid of ADM0,25.2315,42.7614
+1941,3871,"Sofia, Bulgaria","Sofia, Bulgaria",23.3219,42.6977
+1941,3872,Black Sea,Black Sea,34.2993,43.413
+1941,3873,South Africa Territorial Waters,Centroid of territorial waters,24.7126,-34.3054
+1942,617,"Cairo, Egypt","Cairo, Egypt",31.2357,30.0444
+1942,1693,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1942,1694,Thailand,Centroid of ADM0,101.017,15.127
+1942,2124,"Isla Jambeli, Ecuador","Isla Jambeli, Ecuador",-80.0367,-3.25393
+1942,3721,Mediterranean Sea,Mediterranean Sea,18.048,34.5531
+1942,3806,Baltic Sea,Baltic Sea,19.8633,58.488
+1942,3875,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1942,3876,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1942,3878,"Bucharest, Romania","Bucharest, Romania",26.1025,44.4268
+1942,3881,Caribbean Sea,Caribbean Sea,-74.9676,14.5401
+1942,3882,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1942,3883,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1943,1058,"Bangkok, Thailand","Bangkok, Thailand",100.502,13.7563
+1943,1197,China-Mongolia Border,Midpoint of shared (national) border,106.683,42.263
+1943,1788,Germany-Switzerland Border,Midpoint of shared (national) border,9.52686,47.5564
+1943,1789,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1943,2123,"Cerro Verde, Ecuador","Cerro Verde, Ecuador",-80.2011,-4.12459
+1943,3263,China (Xinjiang [ADM1]),Centroid of ADM1,85.2036,41.112
+1943,3515,"Tehran, Iran","Tehran, Iran",51.389,35.6892
+1943,3517,"Bogota, Colombia","Bogota, Colombia",-74.0721,4.71099
+1943,3717,Italy (Central [> ADM1]),Centroid of > ADM1,12.3983,42.8294
+1943,3722,"Verkon Island, Sweden","Verkon Island, Sweden",14.3,63.1667
+1943,3884,Spain (Mediterranean) Territorial Waters,Centroid of Mediterranean territorial waters,-0.86883,37.4628
+1943,3885,Atlantic Ocean,Atlantic Ocean,-28.6731,-14.5994
+1943,3887,Caribbean Sea,Caribbean Sea,-74.9676,14.5401
+1944,262,Bulgaria,Centroid of ADM0,25.2315,42.7614
+1944,614,"Ankara, Turkey","Ankara, Turkey",32.8597,39.9334
+1944,1695,"Budapest, Hungary","Budapest, Hungary",19.0402,47.4979
+1944,1790,"Budapest, Hungary","Budapest, Hungary",19.0402,47.4979
+1944,3264,China (Xinjiang [ADM1]),Centroid of ADM1,85.2036,41.112
+1944,3827,"Sofia, Bulgaria","Sofia, Bulgaria",23.3219,42.6977
+1945,20,Iran (Northern [> ADM1]),Centroid of > ADM1,52.376,36.1117
+1945,252,Russia-Turkey Border,Midpoint of shared (national) border,43.5541,41.0004
+1945,2704,"Harbin, China","Harbin, China",126.535,45.8038
+1945,2725,Japan-Russia Border (Territorial Waters),Midpoint of shared (territorial water) border,142.007,45.7095
+1945,3506,"Brasilia, Brazil","Brasilia, Brazil",-47.8825,-15.7942
+1945,3510,"Santiago, Chile","Santiago, Chile",-70.6693,-33.4489
+1945,3512,"Tehran, Iran","Tehran, Iran",51.389,35.6892
+1946,4,Straits of Corfu,Straits of Corfu,19.97,39.77
+1946,603,"Tehran, Iran","Tehran, Iran",51.389,35.6892
+1946,1792,Gulf of Thailand,Gulf of Thailand,101.343,9.71212
+1946,2371,Albania-Greece Border,Midpoint of shared (national) border,20.5887,40.0717
+1946,3192,"Belgrade, Serbia","Belgrade, Serbia",20.4489,44.7866
+1946,3193,"Belgrade, Serbia","Belgrade, Serbia",20.4489,44.7866
+1947,1077,"Junagadh, India","Junagadh, India",70.4579,21.5222
+1947,1238,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1947,3265,Mongolia,Centroid of ADM0,103.083,46.8353
+1948,26,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1948,1042,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1948,1284,Albania-Greece Border,Midpoint of shared (national) border,20.5887,40.0717
+1948,1793,Israel,Centroid of ADM0,34.9659,31.3585
+1948,2020,Nahi Village,"Nahi, Iran",48.55,29.9667
+1948,2339,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1948,2340,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1949,604,Yemen (Aden [ADM1]),Centroid of ADM1,44.8088,12.8313
+1949,633,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1949,634,"Beijing, China","Beijing, China",116.407,39.9042
+1949,1112,Dominican Republic-Haiti Border,Midpoint of shared (national) border,-71.7183,18.7414
+1949,1285,Albania (Southern [> ADM1]),Centroid of > ADM1,20.1449,40.4629
+1949,1286,Romania-Yugoslavia Border,Midpoint of shared (national) border,21.3655,44.8442
+1949,1307,Pakistan (Northwest Frontier Province [ADM1]),Centroid of ADM1,72.0483,34.4208
+1949,1603,Lebanon-Syria Border,Midpoint of shared (national) border,36.3348,33.9818
+1949,2006,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1949,2007,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1949,2021,China (Yunnan [ADM1]),Centroid of ADM1,101.489,24.976
+1949,2186,Ongjin Peninsula,Ongjin Peninsula,125.358,37.936
+1949,2328,Albania-Yugoslavia Border,Midpoint of shared (national) border,20.3865,42.3043
+1949,2625,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1949,3161,Jordan-Syria Border,Midpoint of shared (national) border,37.2119,32.5325
+1949,3229,Israel-Jordan Border,Midpoint of shared (national) border,35.4587,31.1106
+1949,3386,Negev Desert,Negev Desert,34.8757,30.7141
+1949,3445,"Huln, Sweden","Huln, Sweden",14.2833,60.6333
+1950,51,"Kaesong, South Korea","Kaesong, South Korea",126.677,37.9558
+1950,1006,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1950,1306,Pakistan (Northwest Frontier Province [ADM1]),Centroid of ADM1,72.0483,34.4208
+1950,1308,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1950,1374,Burma (Shan State [ADM1]),Centroid of ADM1,98.1269,21.722
+1950,2008,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1950,2009,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1950,2010,North Vietnam,Centroid of ADM0,105.288,20.594
+1950,2088,"Nilang, India","Nilang, India",96.658,28.1761
+1950,2122,Cordillera del Condor,Cordillera del Condor,-78.5,-4
+1950,3196,Russia,Centroid of ADM0,89.9763,59.2324
+1950,3197,Bulgaria-Greece Border,Midpoint of shared (national) border,24.8234,41.4042
+1950,3370,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1950,3400,Israel-Syria Northern Demilitarized Zone,Centroid of Northern DMZ,35.6701,33.2342
+1950,3411,Israel-Syria Southern Demilitarized Zone,Centroid of Southern DMZ,35.6386,32.7364
+1950,3427,Israel-Syria Central Demilitarized Zone,Centroid of Central DMZ,35.6206,33.0035
+1951,7,Suez Canal,Timsah Lake,32.2909,30.5735
+1951,1023,Indonesia (Papua [ADM1] and Irian Jaya Barat [ADM1]),Centroid of > ADM1,137.326,-4.03131
+1951,1079,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1951,1155,Cordillera del Condor,Cordillera del Condor,-78.5,-4
+1951,2052,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1951,2180,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+1951,2991,Nei Lingding Island,Nei Lingding Island,113.812,22.4055
+1951,2992,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1951,3199,Iran-Russia (Turkmenistan [ADM1]) Border,Midpoint of shared (subnational) border,57.9681,37.8529
+1951,3371,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1951,3372,Gaza Strip,Gaza Strip,34.3088,31.3547
+1951,3401,Israel-Syria Northern Demilitarized Zone,Centroid of Northern DMZ,35.6701,33.2342
+1951,3413,Israel-Syria Southern Demilitarized Zone,Centroid of Southern DMZ,35.6386,32.7364
+1952,1097,"Alto Palena, Chile","Palena, Chile",-71.8,-43.6167
+1952,1295,Greece,Centroid of ADM0,22.9597,39.0685
+1952,1701,"Gotland, Sweden","Gotland, Sweden",18.4867,57.4684
+1952,1702,Ecuador Territorial Waters,Centroid of territorial waters,-80.8282,-0.5294
+1952,1703,Hungary-Yugoslavia Border,Midpoint of shared (national) border,18.0074,45.7869
+1952,2022,Gulf of Thailand,Gulf of Thailand,101.343,9.71212
+1952,2372,Albania-Yugoslavia Border,Midpoint of shared (national) border,20.3865,42.3043
+1952,2626,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1952,2989,Lafsami Island,Lafsami Island,113.83,22.1415
+1952,3200,Bulgaria Territorial Waters,Centroid of territorial waters,28.0552,42.644
+1952,3202,"Tirana, Albania","Tirana, Albania",19.8187,41.3275
+1952,3374,Egypt-Israel Border,Midpoint of shared (national) border,34.6071,30.3694
+1952,3414,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1953,50,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1953,208,Czechoslovakia-West Germany Border,Midpoint of shared (national) border,12.7928,49.3429
+1953,1062,"Trieste, Italy","Trieste, Italy",13.7768,45.6495
+1953,1225,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1953,1344,Japan-South Korea Border (Territorial Waters),Midpoint of shared (territorial water) border,129.143,34.7672
+1953,2000,Indonesia (Papua [ADM1] and Irian Jaya Barat [ADM1]),Centroid of > ADM1,137.326,-4.03131
+1953,2001,Burma (Shan State [ADM1]),Centroid of ADM1,98.1269,21.722
+1953,2018,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1953,2035,"Seoul, South Korea","Seoul, South Korea",126.978,37.5665
+1953,2036,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1953,2121,Cordillera del Condor,Cordillera del Condor,-78.5,-4
+1953,2984,"Pearl Estuary, China","Pearl Estuary, China",113.622,22.7694
+1953,2988,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1953,3203,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1953,3207,"Kuril Islands, Russia","Kuril Islands, Russia",150.971,47.1544
+1953,3208,China Territorial Waters,Centroid of territorial waters,120.175,25.5996
+1953,3373,Gaza Strip,Gaza Strip,34.3088,31.3547
+1953,3417,Israel-Syria Southern Demilitarized Zone,Centroid of Southern DMZ,35.6386,32.7364
+1953,3428,Israel-Syria Central Demilitarized Zone,Centroid of Central DMZ,35.6206,33.0035
+1954,1073,India (Goa [ADM1]),Centroid of ADM1,74.0574,15.3597
+1954,1156,Rio Putumayo,Midpoint of river,-72.9506,-2.40738
+1954,1193,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1954,1345,Takeshima Islands,Takeshima Islands,131.868,37.2427
+1954,1448,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1954,2023,Thailand (Tak [ADM1]),Centroid of ADM1,98.7911,16.715
+1954,2033,South China Sea,South China Sea,114.405,15.4881
+1954,2034,South China Sea,South China Sea,114.405,15.4881
+1954,2089,Niti Pass,Niti Pass,79.8756,30.9667
+1954,2244,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1954,2987,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1954,3205,Adriatic Sea,Adriatic Sea,17.2903,41.8551
+1954,3209,"Berne, Switzerland","Berne, Switzerland",7.44745,46.948
+1954,3210,Finland-Russia Border,Midpoint of shared (national) border,30.12,64.7844
+1954,3403,Israel-Syria Northern Demilitarized Zone,Centroid of Northern DMZ,35.6701,33.2342
+1954,3404,Israel-Syria Northern Demilitarized Zone,Centroid of Northern DMZ,35.6701,33.2342
+1954,3415,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1955,200,Egypt-Israel Border,Midpoint of shared (national) border,34.6071,30.3694
+1955,1098,"Alto Palena, Chile","Palena, Chile",-71.8,-43.6167
+1955,1300,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1955,1305,Pakistan (Northwest Frontier Province [ADM1]),Centroid of ADM1,72.0483,34.4208
+1955,1346,Japan-South Korea Border (Territorial Waters),Midpoint of shared (territorial water) border,129.143,34.7672
+1955,2024,Thailand (Tak [ADM1]),Centroid of ADM1,98.7911,16.715
+1955,2032,"Seoul, South Korea","Seoul, South Korea",126.978,37.5665
+1955,2037,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1955,2090,Niti Pass,Niti Pass,79.8756,30.9667
+1955,2847,Japan-Russia Border (Territorial Waters),Midpoint of shared (territorial water) border,142.007,45.7095
+1955,3154,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+1955,3155,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+1955,3211,China Territorial Waters,Centroid of territorial waters,120.175,25.5996
+1955,3213,Yellow Sea,Yellow Sea,123.796,35.4943
+1955,3214,Baltic Sea,Baltic Sea,19.8633,58.488
+1955,3216,Albania Territorial Waters,Centroid of territorial waters,19.34,40.8251
+1955,3218,"Riyadh, Saudi Arabia","Riyadh, Saudi Arabia",46.6753,24.7136
+1955,3219,Bulgaria,Centroid of ADM0,25.2315,42.7614
+1955,3242,Ecuador Territorial Waters,Centroid of territorial waters,-80.8282,-0.5294
+1955,3243,Peru Territorial Waters,Centroid of territorial waters,-78.7418,-9.0983
+1955,3405,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1955,3416,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1955,3418,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1956,53,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1956,185,"Warsaw, Poland","Warsaw, Poland",21.0122,52.2297
+1956,259,Aden-Yemen Border,Midpoint of shared (national) border,45.0333,12.8
+1956,605,Burma (Shan State [ADM1]),Centroid of ADM1,98.1269,21.722
+1956,606,"Budapest, Hungary","Budapest, Hungary",19.0402,47.4979
+1956,1214,Cambodia-South Vietnam Border (Territorial Waters),Midpoint of shared (territorial water) border,103.091,9.52125
+1956,1301,Rann of Kutch,Rann of Kutch,70.1456,24.0454
+1956,2092,Niti Pass,Niti Pass,79.8756,30.9667
+1956,2181,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+1956,2627,India (Punjab [ADM1]),Centroid of ADM1,75.4088,30.8415
+1956,2986,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1956,3221,"Amoy, China","Amoy, China",118.089,24.4798
+1956,3225,Norway Territorial Waters,Centroid of territorial waters,11.0058,65.7203
+1957,607,Jordan-Syria Border,Midpoint of shared (national) border,37.2119,32.5325
+1957,1013,Gulf of Aqaba,Gulf of Aqaba,34.7299,28.6929
+1957,1024,Indonesia (Papua [ADM1] and Irian Jaya Barat [ADM1]),Centroid of > ADM1,137.326,-4.03131
+1957,1117,"Tan Tan, Morocco","Tan Tan, Morocco",-11.0987,28.438
+1957,1173,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1957,1706,Algeria-Tunisia Border,Midpoint of shared (national) border,7.56266,33.6687
+1957,2025,India-Myanmar Border,Midpoint of shared (national) border,94.5781,25.2131
+1957,2042,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1957,2049,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1957,2849,"Prague, Czech Republic","Prague, Czech Republic",14.4378,50.0755
+1957,2850,"New Dheli, India","New Dheli, India",77.209,28.6139
+1957,3230,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1957,3375,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1958,125,Suez Canal,Timsah Lake,32.2909,30.5735
+1958,173,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1958,608,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1958,1091,"Lake Nuba, Sudan","Lake Nuba, Sudan",32.1973,22.7395
+1958,1099,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1958,1124,Mexico-Guatemala Border,Midpoint of shared (national) border,-90.6733,16.6674
+1958,1215,Cambodia (Svay Reing [ADM1]),Centroid of ADM1,105.861,11.1569
+1958,1226,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1958,1302,India (Assam [ADM1]),Centroid of ADM1,92.8295,26.3574
+1958,1347,Japan-South Korea Border (Territorial Waters),Midpoint of shared (territorial water) border,129.143,34.7672
+1958,1350,"Viangchan, Laos","Viangchan, Laos",102.633,17.9757
+1958,1707,Aksai Chin,Aksai Chin,79.1321,35.0314
+1958,2038,Hong Kong Island,Hong Kong Island,114.191,22.2588
+1958,2079,"Alto Palena, Chile","Palena, Chile",-71.8,-43.6167
+1958,2187,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1958,2215,"Yerevan, Armenia","Yerevan, Armenia",44.4991,40.1792
+1958,2216,Baltic Sea,Baltic Sea,19.8633,58.488
+1958,2331,"Basra, Iraq","Basra, Iraq",47.7835,30.5081
+1958,2332,Iraq-Turkey Border,Midpoint of shared (national) border,43.7267,37.2257
+1958,2852,Japan-Russia Border (Territorial Waters),Midpoint of shared (territorial water) border,142.007,45.7095
+1958,2853,China Territorial Waters,Centroid of territorial waters,120.175,25.5996
+1958,2854,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1958,2855,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1958,2857,"Tirana, Albania","Tirana, Albania",19.8187,41.3275
+1958,2858,"Tirana, Albania","Tirana, Albania",19.8187,41.3275
+1958,2865,North Sea,North Sea,3.51563,56.511
+1958,3151,Jordan-Syria Border,Midpoint of shared (national) border,37.2119,32.5325
+1958,3152,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+1958,3419,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1958,3420,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1959,148,China-Nepal Border,Midpoint of shared (national) border,84.5921,28.7093
+1959,203,"Lang-Chiu, India","Lang-Chiu, India",93.55,28.6333
+1959,1100,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1959,1138,Shatt-al-Arab,Midpoint of river,48.0287,30.4622
+1959,1208,Apipe Grande Island,Apipe Grande Island,-56.8536,-27.5075
+1959,1369,Burma-Pakistan Border,Midpoint of shared (national) border,92.5799,21.2779
+1959,1708,China-Myanmar Border,Midpoint of shared (national) border,97.559,23.927
+1959,1709,South Korea Territorial Waters,Centroid of mainland territorial waters,127.333,33.9046
+1959,1796,Algeria-Tunisia Border,Midpoint of shared (national) border,7.56266,33.6687
+1959,2732,Cambodia (Svay Reing [ADM1]),Centroid of ADM1,105.861,11.1569
+1959,2838,Japan-South Korea Border (Territorial Waters),Midpoint of shared (territorial water) border,129.143,34.7672
+1959,2841,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1959,2859,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1959,2860,Brazil Territorial Waters,Centroid of territorial waters,-39.2861,-18.0191
+1959,2861,Kuril Islands,Kuril Islands,150.971,47.1544
+1959,2862,Paracel Islands,Paracel Islands,112.25,16.5
+1959,2863,"Luzon, Philippines","Luzon, Philippines",121.263,16.5662
+1959,2869,"Karachi, Pakistan","Karachi, Pakistan",67.0099,24.8615
+1959,2871,Iranian Coastline (Caspian),Midpoint of coastline,51.6802,36.6202
+1959,2996,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+1959,2997,Iraq-Syria Border,Midpoint of shared (national) border,41.2236,34.8775
+1959,2998,Iraq-Syria Border,Midpoint of shared (national) border,41.2236,34.8775
+1959,2999,Jordan-Syria Border,Midpoint of shared (national) border,37.2119,32.5325
+1959,3150,Jordan-Syria Border,Midpoint of shared (national) border,37.2119,32.5325
+1959,3231,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1959,3421,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1959,3430,Israel-Syria Central Demilitarized Zone,Centroid of Central DMZ,35.6206,33.0035
+1960,246,Cuba,Centroid of ADM0,-79.0364,21.6212
+1960,253,Afghanistan-Russia (Tajikistan [ADM1]),Midpoint of shared (subnational) border,71.3779,37.9037
+1960,1021,Indonesia (Papua [ADM1] and Irian Jaya Barat [ADM1]),Centroid of > ADM1,137.326,-4.03131
+1960,1101,"Palena, Chile","Palena, Chile",-71.8,-43.6167
+1960,1303,Pakistan (Northwest Frontier Province [ADM1]),Centroid of ADM1,72.0483,34.4208
+1960,1321,Congo-DRC Border,Midpoint of shared (national) border,16.2501,-2.10784
+1960,1363,"China, Laos, Vietnam Border",Intersection of multiple borders,102.141,22.3963
+1960,1423,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1960,1710,"Inchon, South Korea","Inchon, South Korea",126.705,37.4563
+1960,1711,Algeria-Tunisia Border,Midpoint of shared (national) border,7.56266,33.6687
+1960,1746,"Saidia, Morocco","Saidia, Morocco",-2.28766,35.0999
+1960,1797,Nepal (Northwest [> ADM1]),Centroid of > ADM1,81.8585,29.085
+1960,2002,"Harbin, China","Harbin, China",126.535,45.8038
+1960,2028,Mekong River,Midpoint of river,105.871,14.6024
+1960,2029,Laos-North Vietnam Border,Midpoint of shared (national) border,104.845,19.8309
+1960,2610,"Kinshasa, DRC","Kinshasa, DRC",15.2663,-4.44193
+1960,2612,"Kinshasa, DRC","Kinshasa, DRC",15.2663,-4.44193
+1960,2731,"Quan Phu Quac, Vietnam","Quan Phu Quac, Vietnam",103.984,10.2899
+1960,2873,Kuril Islands,Kuril Islands,150.971,47.1544
+1960,2875,Iceland,Centroid of ADM0,-18.6055,64.9976
+1960,2876,Austria-West Germany Border,Midpoint of shared (national) border,9.59932,47.5319
+1960,2877,Austria-Italy Border,Midpoint of shared (national) border,12.215,47.0873
+1960,2878,Austria-Hungary Border,Midpoint of shared (national) border,16.6784,47.5965
+1960,2885,India-Pakistan Border,Midpoint of shared (national) border,70.4596,24.4126
+1960,3162,Jordan-Syria Border,Midpoint of shared (national) border,37.2119,32.5325
+1960,3360,"Kon Tum, Vietnam","Kon Tum, Vietnam",107.839,14.6612
+1960,3422,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1961,27,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1961,28,"Bizerte, Tunisia","Bizerte, Tunisia",9.86272,37.2746
+1961,122,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1961,199,India (Arunachal Pradesh [ADM1]),Centroid of ADM1,94.6767,28.039
+1961,1074,India (Goa [ADM1]),Centroid of ADM1,74.0574,15.3597
+1961,1227,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1961,1304,Pakistan (Northwest Frontier Province [ADM1]),Centroid of ADM1,72.0483,34.4208
+1961,1387,Guinea-Senegal Border,Midpoint of shared (national) border,-12.615,12.4098
+1961,1799,Sea of Japan,Sea of Japan,135,38.8488
+1961,1801,Dominican Republic Territorial Waters,Centroid of territorial waters,-70.0869,18.1209
+1961,1900,Faroe Islands,Faroe Islands,-6.91181,61.8926
+1961,2219,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1961,2744,"Ouidah, Benin","Ouidah, Benin",2.07632,6.37165
+1961,2880,"Arsila, Morocco","Arsila, Morocco",-6.03087,35.4646
+1961,2882,Kuril Islands,Kuril Islands,150.971,47.1544
+1961,2884,China-North Vietnam Border (Territorial Waters),Midpoint of shared (territorial water) border,108.096,21.4494
+1961,2887,"Ifni, Morocco","Ifni, Morocco",-10.1759,29.3701
+1961,3361,North Vietnam,Midpoint of coastline,104.094,19.2248
+1961,3406,Israel-Syria Northern Demilitarized Zone,Centroid of Northern DMZ,35.6701,33.2342
+1961,3434,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1962,61,Cuba-United States Border (Territorial Waters),Midpoint along shortest line between territorial waters,-81.9004,23.8593
+1962,172,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1962,610,Saudi Arabia-North Yemen Border,Midpoint of shared (national) border,44.5422,17.3755
+1962,1018,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1962,1083,Algeria (Bechar [ADM1] and Tindouf [ADM1]),Centroid of > ADM1,-4.24893,28.8933
+1962,1108,Saudi Arabia-North Yemen Border,Midpoint of shared (national) border,44.5422,17.3755
+1962,1123,Iraq-Turkey Border,Midpoint of shared (national) border,43.7267,37.2257
+1962,1209,Pilcomayo River,Midpoint of river,-62.6244,-22.2771
+1962,1228,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1962,1310,India (Assam [ADM1] and Tripura [ADM1]),Centroid of > ADM1,92.7042,26.0562
+1962,1353,Laos-North Vietnam Border,Midpoint of shared (national) border,104.845,19.8309
+1962,1410,Mali-Mauritania Border,Midpoint of shared (national) border,-5.64396,16.8928
+1962,1418,Ghana-Togo Border,Midpoint of shared (national) border,0.393728,8.72793
+1962,1466,India-Nepal Border,Midpoint of shared (national) border,83.9121,27.4494
+1962,2188,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1962,2344,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1962,2629,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1962,2730,Cambodia (Svay Reing [ADM1]),Centroid of ADM1,105.861,11.1569
+1962,2888,"Hokkaido, Japan","Hokkaido, Japan",142.552,43.3857
+1962,2890,Guinea-Guinea Bissau Border,Midpoint of shared (national) border,-13.8519,11.671
+1962,3163,"Kars, Turkey","Kars, Turkey",43.0975,40.6013
+1962,3165,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+1962,3244,Peru Territorial Waters,Centroid of territorial waters,-78.7418,-9.0983
+1963,624,"Cayenne, French Guiana","Cayenne, French Guiana",-52.3135,4.92242
+1963,1002,Dominican Republic Territorial Waters,Centroid of territorial waters,-70.0869,18.1209
+1963,1019,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1963,1070,Indonesia-Malaysia Border,Midpoint of shared (national) border,114.183,1.45234
+1963,1084,Algeria-Morocco Border,Midpoint of shared (national) border,-3.81331,31.2712
+1963,1102,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1963,1279,"Nicosia, Cyprus","Nicosia, Cyprus",33.3823,35.1856
+1963,1317,India (Tripura [ADM1]),Centroid of ADM1,91.7436,23.7468
+1963,1407,Benin-Nigeria Border,Midpoint of shared (national) border,3.13833,9.21593
+1963,1425,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1963,1426,Pakistan (Northwest Frontier Province [ADM1]),Centroid of ADM1,72.0483,34.4208
+1963,1803,Ecuador Territorial Waters,Centroid of territorial waters,-80.8282,-0.5294
+1963,2157,"Behan, Iran","Behan, Iran",52.4056,35.7863
+1963,2218,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1963,2623,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1963,2630,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1963,2729,"Quan Phu Quoe, Vietnam","Quan Phu Quoe, Vietnam",103.967,10.2305
+1963,2892,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1963,2894,"Halmahera, Indonesia","Halmahera, Indonesia",128.485,1.31212
+1963,2897,Iran (Northern [> ADM1]),Centroid of > ADM1,52.376,36.1117
+1963,2898,"Prague, Czech Republic","Prague, Czech Republic",14.4378,50.0755
+1963,2899,Bering Strait,Bering Strait,-168.395,65.8938
+1963,3166,Lebanon-Syria Border,Midpoint of shared (national) border,36.3348,33.9818
+1963,3167,Lebanon-Syria Border,Midpoint of shared (national) border,36.3348,33.9818
+1963,3377,Egypt-Israel Border,Midpoint of shared (national) border,34.6071,30.3694
+1964,92,Libreville,"Libreville, Gabon",9.46727,0.416198
+1964,611,North Vietnam,Midpoint of coastline,104.094,19.2248
+1964,623,India (Sikkim [ADM1]),Centroid of ADM1,88.4729,27.5715
+1964,1213,Cambodia-South Vietnam Border,Midpoint of shared (national) border,106.041,11.774
+1964,1229,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1964,1312,India (Jammu and Kashmir [ADM1]),Centroid of ADM1,76.6126,33.7594
+1964,1361,Burundi-Rwanda Border,Midpoint of shared (national) border,29.872,-2.74158
+1964,1379,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1964,2031,Mekong River,Midpoint of river,105.871,14.6024
+1964,2080,"Alto Palena, Chile","Palena, Chile",-71.8,-43.6167
+1964,2153,"Al Mukalla, Yemen","Al Mukalla, Yemen",49.1272,14.5404
+1964,2220,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1964,2707,China-Russia Border,Point along shared noncontiguous border nearest midpoint of contiguous border including neighbors,116.711,49.8305
+1964,2901,Black Sea,Black Sea,34.2993,43.413
+1964,2904,Indonesia Territorial Waters,Point along Territorial Waters boundary nearest centroid of noncontiguous Territorial Waters,120.221,1.23538
+1964,2906,"Cairo, Egypt","Cairo, Egypt",31.2357,30.0444
+1964,2907,Sweden Territorial Waters,Centroid of mainland territorial waters,17.3734,57.276
+1964,2908,"Bonn, Germany","Bonn, Germany",7.09821,50.7374
+1964,3378,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1965,1017,"Beirut, Lebanon","Beirut, Lebanon",35.5018,33.8938
+1965,1216,Cambodia-South Vietnam Border,Midpoint of shared (national) border,106.041,11.774
+1965,1319,DRC-Uganda Border,Midpoint of shared (national) border,30.5205,1.28653
+1965,1328,Congo-DRC Border,Midpoint of shared (national) border,16.2501,-2.10784
+1965,1366,Kenya-Uganda Border,Midpoint of shared (national) border,34.9566,1.58421
+1965,1419,Ghana-Togo Border,Midpoint of shared (national) border,0.393728,8.72793
+1965,1463,India-Nepal Border,Midpoint of shared (national) border,83.9121,27.4494
+1965,1608,"Alto Palena, Chile","Palena, Chile",-71.8,-43.6167
+1965,1804,Zambia-Zimbabwe Border,Midpoint of shared (national) border,27.813,-16.9759
+1965,2066,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1965,2106,Iran (Kordestan [ADM1]),Centroid of ADM1,46.9615,35.7181
+1965,2171,"Nicosia, Cyprus","Nicosia, Cyprus",33.3823,35.1856
+1965,2172,"Nicosia, Cyprus","Nicosia, Cyprus",33.3823,35.1856
+1965,2360,Saudi Arabia-North Yemen Border,Midpoint of shared (national) border,44.5422,17.3755
+1965,2631,Rann of Kutch,Rann of Kutch,70.1456,24.0454
+1965,2708,Mongolia,Centroid of ADM0,103.083,46.8353
+1965,2913,Indonesia Territorial Waters,Point along Territorial Waters boundary nearest centroid of noncontiguous Territorial Waters,120.221,1.23538
+1965,2914,Banda Sea,Banda Sea,126.609,-5.70394
+1965,2915,"Bonn, Germany","Bonn, Germany",7.09821,50.7374
+1965,2916,Sea of Japan,Sea of Japan,135,38.8488
+1965,2929,South China Sea,South China Sea,114.405,15.4881
+1965,3168,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+1965,3169,Turkey (Cukurca [ADM2]),Centroid of ADM2,43.6758,37.3013
+1966,343,Amur River,Midpoint of river,132.169,47.6919
+1966,1035,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1966,1109,Saudi Arabia-North Yemen Border,Midpoint of shared (national) border,44.5422,17.3755
+1966,1166,Anacoco Island,Anacoco Island,-61.1436,6.72528
+1966,1322,Chad (Oaddai [ADM1])-Sudan Border,Midpoint of shared (subnational) border,22.2591,13.3246
+1966,1351,Guinea-Ivory Coast Border,Midpoint of shared (national) border,-7.67512,8.5036
+1966,1392,Angola-Zambia Border,Midpoint of shared (national) border,21.9969,-13.4962
+1966,1401,Caprivi Strip,Caprivi Strip,22.5689,-17.9802
+1966,1408,"Accra, Ghana","Accra, Ghana",-0.186964,5.60372
+1966,1713,"Beijing, China","Beijing, China",116.407,39.9042
+1966,2067,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1966,2107,Iran (Kordestan [ADM1]),Centroid of ADM1,46.9615,35.7181
+1966,2155,Saudi Arabia-Yemen Border,Midpoint of shared (national) border,44.5422,17.3755
+1966,2632,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1966,2891,"Matsu Tao, China","Matsu Tao, China",119.931,26.1499
+1966,2918,"Singapore, Singapore","Singapore, Singapore",103.82,1.35208
+1966,2919,South Korea Territorial Waters,Centroid of mainland territorial waters,127.333,33.9046
+1966,2920,Yellow Sea,Yellow Sea,123.796,35.4943
+1966,2921,"Heringen, Germany","Heringen, Germany",9.99839,50.8944
+1966,3135,"Beira, Mozambique","Beira, Mozambique",34.8845,-19.7964
+1966,3171,Jordan-Syria Border,Midpoint of shared (national) border,37.2119,32.5325
+1966,3379,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1966,3412,Israel-Syria Border,Midpoint of shared (national) border,35.6347,32.9833
+1967,1067,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1967,1115,Venezuela,Midpoint of coastline,-63.8722,10.6422
+1967,1217,Cambodia-South Vietnam Border,Midpoint of shared (national) border,106.041,11.774
+1967,1230,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1967,1280,Cyprus,Centroid of ADM0,33.2218,35.0459
+1967,1343,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1967,1352,Guinea-Ivory Coast Border,Midpoint of shared (national) border,-7.67512,8.5036
+1967,1378,Ethiopia-Kenya-Somalia Border,"Intersection of Ethiopia, Kenya, and Somalia borders",41.9052,3.98032
+1967,1422,Ethiopia-Sudan Border,Midpoint of shared (national) border,34.8118,10.7249
+1967,1480,Israel-Egypt Border,Midpoint of shared (national) border,32.3016,30.9629
+1967,1609,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1967,1715,India (Sikkim [ADM1]),Centroid of ADM1,88.4729,27.5715
+1967,1805,Ecuador Territorial Waters,Centroid of territorial waters,-80.8282,-0.5294
+1967,2097,"Beijing, China","Beijing, China",116.407,39.9042
+1967,2710,"Dairen, China","Dairen, China",121.615,38.914
+1967,2931,Greece (Crete [ADM1]),Centroid of ADM1,24.8447,35.2293
+1967,2932,Baltic Sea,Baltic Sea,19.8633,58.488
+1967,2933,Shetland Islands,Shetland Islands,-1.26594,60.5297
+1967,2934,Russia-United States Border (Territorial Waters),Midpoint of shortest distance between territorial waters,-171.985,64.0926
+1967,2935,China (Eastern [> ADM1]),Centroid of > ADM1,117.929,39.8904
+1967,3170,Gulf of Aqaba,Gulf of Aqaba,34.7299,28.6929
+1967,3172,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1967,3446,Golan Heights,Golan Heights,35.7844,33.0156
+1968,346,Czechoslovakia-Russia Border,Midpoint of shared (national) border,22.3523,48.7316
+1968,347,Sea of Japan,Sea of Japan,135,38.8488
+1968,1051,Israel-Lebanon Border,Midpoint of shared (national) border,35.5057,33.1118
+1968,1069,"Algiers, Algeria","Algiers, Algeria",3.05876,36.7538
+1968,1072,Sabah,"Sabah, Iraq",43.3683,35.3125
+1968,1400,"Lusaka, Zambia","Lusaka, Zambia",28.3228,-15.3875
+1968,1403,Sudan-Uganda Border,Midpoint of shared (national) border,32.314,3.68445
+1968,1462,"Susta, Latvia","Susta, Latvia",21.3318,56.4724
+1968,1610,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1968,1806,Cambodia-South Vietnam Border,Midpoint of shared (national) border,106.041,11.774
+1968,1807,Ghana Territorial Waters,Centroid of territorial waters,-0.943057,5.10273
+1968,2711,China-Russia Border,Point along shared noncontiguous border nearest midpoint of contiguous border including neighbors,116.711,49.8305
+1968,2922,Venezuela Territorial Waters,Centroid of territorial waters,-68.9193,11.5478
+1968,2923,Brazil Territorial Waters,Centroid of territorial waters,-39.2861,-18.0191
+1968,2924,Red Sea,Red Sea,38.5126,20.2802
+1968,2925,Kuril Islands,Kuril Islands,150.971,47.1544
+1968,2926,Hong Kong Island,Hong Kong Island,114.191,22.2588
+1968,2927,Argentina Territorial Waters,Centroid of territorial waters,-62.5692,-41.0919
+1968,2940,Venezuela Territorial Waters,Centroid of territorial waters,-68.9193,11.5478
+1968,3300,Gulf of Thailand,Gulf of Thailand,101.343,9.71212
+1968,3447,Golan Heights,Golan Heights,35.7844,33.0156
+1969,349,Amur River,Midpoint of river,132.169,47.6919
+1969,350,Peru Territorial Waters,Centroid of territorial waters,-78.7418,-9.0983
+1969,352,"Rangoon, Burma","Rangoon, Burma",96.1951,16.8661
+1969,1110,"al Wadiah, Saudi Arabia","al Wadiah, Saudi Arabia",47.0972,17.0854
+1969,1136,Shatt-al-Arab,Midpoint of river,48.0287,30.4622
+1969,1172,"Timoteo Dominguez Key, Uruguay","Timoteo Dominguez Key, Uruguay",-58.2137,-33.5376
+1969,1206,El Salvador-Honduras Border,Midpoint of shared (national) border,-88.3707,13.8792
+1969,1323,Central African Republic-Chad Border,Midpoint of shared (national) border,18.9736,8.95296
+1969,1325,Congo-DRC Border,Midpoint of shared (national) border,16.2501,-2.10784
+1969,1326,"Cabinda, Angola","Cabinda, Angola",12.1927,-5.57752
+1969,1360,Cambodia (Eastern [> ADM1]),Centroid of > ADM1,106.617,13.2301
+1969,1385,Guinea Bissau-Senegal Border,Midpoint of shared (national) border,-15.2665,12.6561
+1969,1399,Caprivi Strip,Caprivi Strip,22.5689,-17.9802
+1969,1406,Equatorial Guinea,Centroid of ADM0,10.342,1.71234
+1969,1717,Gibraltar,Gibraltar,-5.35358,36.1408
+1969,2016,Mekong River,Midpoint of river,105.871,14.6024
+1969,2098,India (Sikkim [ADM1]),Centroid of ADM1,88.4729,27.5715
+1969,2108,Iran (Kordestan [ADM1]),Centroid of ADM1,46.9615,35.7181
+1969,2239,Guyana-Venezuela Border,Midpoint of shared (national) border,-60.4302,6.93136
+1969,2373,"Najran, Saudi Arabia","Najran, Saudi Arabia",44.2289,17.5656
+1969,2633,"Cooch Behar, India","Cooch Behar, India",89.4459,26.3357
+1969,2634,India (Northern [> ADM1]),Centroid of > ADM1,76.7372,28.5088
+1969,2635,India (Malda [ADM2]),Centroid of ADM2,88.0877,25.1357
+1969,2936,China-North Vietnam Border (Territorial Waters),Midpoint of shared (territorial water) border,108.096,21.4494
+1969,2937,Shikotan Island,Shikotan Island,146.747,43.7936
+1969,2938,Gulf of Siam,Gulf of Siam,101.343,9.71212
+1969,3173,Lebanon-Syria Border,Midpoint of shared (national) border,36.4156,34.045
+1969,3206,Angola-DRC Border,Midpoint of shared (national) border,19.5347,-7.01493
+1970,1039,Jordan-Syria Border,Midpoint of shared (national) border,37.2913,32.576
+1970,1068,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1970,1605,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+1970,2017,Mekong River,Midpoint of river,105.871,14.6024
+1970,2109,"Baghdad, Iraq","Baghdad, Iraq",44.3615,33.3128
+1970,2221,"Yerevan, Armenia","Yerevan, Armenia",44.4991,40.1792
+1970,2240,Anacoco Island,Anacoco Island,-61.1436,6.72528
+1970,2942,El Salvador-Guatemala Border (Territorial Waters),Midpoint of shared (territorial water) border,-90.1801,13.6571
+1970,3387,Suez Canal,Timsah Lake,32.2909,30.5735
+1971,1046,Israel-Syria Border,Midpoint of shared (national) border,35.8546,33.0388
+1971,1081,Jordan-Syria Border,Midpoint of shared (national) border,37.2913,32.576
+1971,1107,North Yemen-South Yemen Border,Midpoint of shared (national) border,45.1159,13.8285
+1971,1135,Persian Gulf,Persian Gulf,51.6834,26.7505
+1971,1158,Ecuador Exclusive Economic Zone,Midpoint of westernmost mainland EEZ,-84.3917,-0.875073
+1971,1380,Tanzania (Kagera [ADM1]),Centroid of ADM1,31.4539,-1.88039
+1971,1391,Mozambique-Zambia Border,Midpoint of shared (national) border,31.3928,-14.6432
+1971,1404,Sudan-Uganda Border,Midpoint of shared (national) border,32.314,3.68445
+1971,1447,,,,
+1971,1718,Romania-Russia Border,Midpoint of shared (national) border,27.1899,47.9239
+1971,2059,Bulgaria-Yugoslavia Border,Midpoint of shared (national) border,22.5318,42.8794
+1971,2099,India (Sikkim [ADM1]),Centroid of ADM1,88.4729,27.5715
+1971,2110,Iraq (Khanaqin [ADM2]),Centroid of ADM2,45.2897,34.3615
+1971,2616,Gambia-Senegal Border,Midpoint of shared (national) border,-13.8697,13.3224
+1971,2619,"Mokambo, DRC","Mokambo, DRC",28.3491,-12.4265
+1971,2621,Rwanda-Uganda Border,Midpoint of shared (national) border,30.0537,-1.40806
+1971,2622,Sudan-Uganda Border,Midpoint of shared (national) border,32.314,3.68445
+1971,2944,Baltic Sea,Baltic Sea,19.8633,58.488
+1971,2946,Cuba-United States Border (Territorial Waters),Midpoint along shortest line between territorial waters,-81.9004,23.8593
+1971,2947,China (Guangdong [ADM1]),Centroid of ADM1,113.415,23.3352
+1971,3659,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1972,354,Iceland Territorial Waters,Point along territorial waters nearest North Sea,-12.8121,64.5558
+1972,602,Ecuador Exclusive Economic Zone,Midpoint of westernmost mainland EEZ,-84.3917,-0.875073
+1972,1104,Oman-South Yemen Border,Midpoint of shared (national) border,52.5582,17.8217
+1972,1118,Morocco,Midpoint of coastline,-8.34876,33.3276
+1972,1340,"Mbanie Island, Gabon","Mbanie Island, Gabon",9.3791,0.81068
+1972,1364,Mozambique-Tanzania Border,Midpoint of shared (national) border,37.7783,-11.5669
+1972,1381,Tanzania-Uganda Border,Midpoint of shared (national) border,32.1947,-1.00008
+1972,1389,Guinea Bissau-Senegal Border,Midpoint of shared (national) border,-15.2665,12.6561
+1972,1390,Mozambique-Zambia Border,Midpoint of shared (national) border,31.3928,-14.6432
+1972,1612,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1972,2138,Libya-Sudan Border,Midpoint of shared (national) border,25.0009,20.2518
+1972,2319,Belize Territorial Waters,Centroid of territorial waters,-87.6937,16.7176
+1972,2615,"Bujumbura, Burundi","Bujumbura, Burundi",29.3599,-3.36138
+1972,2638,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1972,2948,North Vietnam,Midpoint of coastline,104.094,19.2248
+1972,2949,Bering Sea,Bering Sea,-178.139,56.9073
+1973,1043,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1973,1105,Oman-South Yemen Border,Midpoint of shared (national) border,52.5582,17.8217
+1973,1119,Morocco,Midpoint of coastline,-8.34876,33.3276
+1973,1200,"Islamabad, Pakistan","Islamabad, Pakistan",73.0931,33.7294
+1973,1342,Malawi-Mozambique Border,Midpoint of shared (national) border,35.2699,-16.3259
+1973,1362,Burundi-Rwanda-Tanzania Border,"Intersection of Burundi, Rwanda, and Tanzania borders",30.5733,-2.39916
+1973,1367,Kenya-Uganda Border,Midpoint of shared (national) border,34.9566,1.58421
+1973,1386,Guinea-Guinea Bissau Border,Midpoint of shared (national) border,-13.8519,11.671
+1973,1397,Zambia-Zimbabwe Border,Midpoint of shared (national) border,27.813,-16.9759
+1973,1808,Argentina-Uruguay Border,Midpoint of shared (national) border,-57.9776,-31.3705
+1973,2068,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1973,2100,India (Sikkim [ADM1]),Centroid of ADM1,88.4729,27.5715
+1973,2712,"Ulaanbaatar, Mongolia","Ulaanbaatar, Mongolia",106.906,47.8864
+1973,2950,Malta Territorial Waters,Southernmost point of territorial waters,14.4108,35.5854
+1973,3215,Namibia-Zambia Border,Midpoint of shared (national) border,24.4249,-17.4801
+1973,3267,,,,
+1973,3380,Suez Canal,Timsah Lake,32.2909,30.5735
+1973,3437,Golan Heights,Golan Heights,35.7844,33.0156
+1974,355,Paracel Islands,Paracel Islands,112.25,16.5
+1974,364,China (Xinjiang [ADM1]),Centroid of ADM1,85.2036,41.112
+1974,1061,Israel-Lebanon Border,Midpoint of shared (national) border,35.5057,33.1118
+1974,1292,Aegean Sea,Aegean Sea,25.2686,39.0192
+1974,1293,Cyprus,Centroid of ADM0,33.2218,35.0459
+1974,1382,Tanzania-Uganda Border,Midpoint of shared (national) border,32.1947,-1.00008
+1974,1384,Gambia-Senegal Border,Midpoint of shared (national) border,-13.8697,13.3224
+1974,1396,Zambia-Zimbabwe Border,Midpoint of shared (national) border,27.813,-16.9759
+1974,1411,Burkina Faso-Mali Border,Midpoint of shared (national) border,-3.43388,13.269
+1974,1427,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1974,1481,Iceland Territorial Waters,Point along territorial waters nearest North Sea,-12.8121,64.5558
+1974,2112,"Badrah Spend, Iraq","Badrah Spend, Iraq",45.9343,33.1158
+1974,2136,Tanzania (Kagera [ADM1]),Centroid of ADM1,31.4539,-1.88039
+1974,2173,Aegean Sea,Aegean Sea,25.2686,39.0192
+1974,2191,Yellow Sea,Yellow Sea,123.796,35.4943
+1974,2713,Mongolia,Centroid of ADM0,103.083,46.8353
+1974,2951,"Guantanamo, Cuba","Guantanamo, Cuba",-75.2129,20.14
+1974,3174,"Jerusalem, Israel","Jerusalem, Israel",35.2137,31.7683
+1974,3227,Namibia-Zambia Border,Midpoint of shared (national) border,24.4249,-17.4801
+1974,3438,Golan Heights,Golan Heights,35.7844,33.0156
+1975,356,Cambodia Territorial Waters,Centroid of territorial waters,102.786,10.4762
+1975,358,India (Tawang [ADM2]),Centroid of ADM2,91.9183,27.6557
+1975,360,Belize-Guatemala Border,Midpoint of shared (national) border,-89.1656,16.6986
+1975,619,High Seas-North Sea near Iceland,Rockall Rise,-14,59
+1975,1106,Oman-South Yemen Border,Midpoint of shared (national) border,52.5582,17.8217
+1975,1189,Brazil-Guyana Border,Midpoint of shared (national) border,-59.7375,2.13478
+1975,1231,Cambodia-Thailand Border (Territorial Waters),Midpoint of shared (territorial water) border,102.771,11.5044
+1975,1290,"Nicosia, Cyprus","Nicosia, Cyprus",33.3823,35.1856
+1975,1331,Algeria-Morocco Border (Territorial Waters),Midpoint of shared (territorial water) border,-2.2027,35.1914
+1975,1334,"Gaborone, Botswana","Gaborone, Botswana",25.9231,-24.6282
+1975,1376,Laos-Thailand Border,Midpoint of shared (national) border,102.671,17.8317
+1975,1428,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1975,1430,Mozambique-Zimbabwe Border,Midpoint of shared (national) border,32.898,-18.5246
+1975,1435,"Phnom Penh, Cambodia","Phnom Penh, Cambodia",104.892,11.5449
+1975,1450,Indonesia (East Timor [ADM1]),Centroid of ADM1,125.852,-8.82025
+1975,1472,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1975,1613,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1975,2374,Centa and Melilla,Alboran Sea,-3.41955,36.2144
+1975,2955,Myanmar Territorial Waters,Centroid of mainland territorial waters,95.5929,15.1422
+1975,3175,Egypt-Libya Border,Midpoint of shared (national) border,25.0003,26.9777
+1975,3381,"Beirut, Lebanon","Beirut, Lebanon",35.5018,33.8938
+1975,3439,Golan Heights,Golan Heights,35.7844,33.0156
+1976,361,Djibouti,Centroid of ADM0,42.5778,11.7497
+1976,362,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1976,363,Falkland Islands,Falkland Islands,-59.5236,-51.7963
+1976,365,Japan (Hokkaido [ADM1]),Centroid of ADM1,142.552,43.3857
+1976,1190,El Salvador-Honduras Border,Midpoint of shared (national) border,-88.3707,13.8792
+1976,1191,Chile-Peru Border,Midpoint of shared (national) border,-69.7861,-18.0145
+1976,1232,Cambodia-Thailand Border,Midpoint of shared (national) border,102.81,13.9557
+1976,1289,Aegean Sea,Aegean Sea,25.2686,39.0192
+1976,1333,Botswana-Zimbabwe Border,Midpoint of shared (national) border,27.2985,-20.3205
+1976,1337,"Aouzou, Chad","Aouzou, Chad",17.4307,21.8163
+1976,1339,Cameroon-Gabon Border,Midpoint of shared (national) border,12.3074,2.3081
+1976,1368,Kenya-Uganda Border,Midpoint of shared (national) border,34.9566,1.58421
+1976,1377,"Entebbe Airport, Uganda","Entebbe Airport, Uganda",32.4418,0.043591
+1976,1469,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+1976,1720,Albania-Yugoslavia Border,Midpoint of shared (national) border,20.3865,42.3043
+1976,2317,Essequibo River,Midpoint of river,-58.3818,3.75846
+1976,2318,Corentyne River,Midpoint of river,-57.9096,3.86172
+1976,2335,Gulf of Suez,Gulf of Suez,32.9006,28.9793
+1976,2956,Yellow Sea,Yellow Sea,123.796,35.4943
+1976,2958,Florida Strait,Florida Strait,-82.3886,23.3876
+1976,2959,South Yemen,Centroid of ADM0,49.162,16.0101
+1976,2960,"Pyongyang, North Korea","Pyongyang, North Korea",125.763,39.0392
+1976,2961,"Tel Aviv, Israel","Tel Aviv, Israel",34.7818,32.0853
+1976,3176,Iraq-Syria Border,Midpoint of shared (national) border,41.2236,34.8775
+1976,3179,Lebanon Territorial Waters,Centroid of territorial waters,35.4013,33.9181
+1977,2069,Ethiopia-Somalia Border,Midpoint of shared (national) border,47.6729,7.70284
+1977,2081,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1977,2120,Cordillera del Condor,Cordillera del Condor,-78.5,-4
+1977,2139,Belize-Guatemala Border,Midpoint of shared (national) border,-89.1656,16.6986
+1977,2140,Tanzania (Kagera [ADM1]),Centroid of ADM1,31.4539,-1.88039
+1977,2142,Ethiopia-Sudan Border,Midpoint of shared (national) border,34.8118,10.7249
+1977,2143,Chile-Peru Border,Midpoint of shared (national) border,-69.7861,-18.0145
+1977,2144,Kenya-Tanzania Border (Territorial Waters),Midpoint of shared (territorial water) border,39.5848,-4.7184
+1977,2148,Angola-DRC Border,Midpoint of shared (national) border,19.5347,-7.01493
+1977,2149,Cambodia-Laos Border,Midpoint of shared (national) border,106.161,14.3695
+1977,2150,Angola-DRC Border,Midpoint of shared (national) border,19.5347,-7.01493
+1977,2192,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1977,2222,United States Territorial Waters (Eastern seaboard),Centroid of territorial waters,-74.3552,39.286
+1977,2326,Corentyne River,Midpoint of river,-57.9096,3.86172
+1977,2714,China (Jiangxi [ADM1]),Centroid of ADM1,115.721,27.6137
+1977,2962,Cuba-United States Border (Territorial Waters),Midpoint along shortest line between territorial waters,-81.9004,23.8593
+1977,2963,Sea of Japan,Sea of Japan,135,38.8488
+1977,2964,Goto Island,Goto Island,128.905,32.8369
+1977,3013,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1977,3014,Gulf of Sidra,Gulf of Sidra,18,31.5
+1977,3018,Chile-Peru Border,Midpoint of shared (national) border,-69.7861,-18.0145
+1977,3122,Argentina-United Kingdom (Falkland Islands) Border (Territorial Waters),Midpoint of shortest distance between two areas,-62.5717,-53.2808
+1977,3126,Egypt-Libya Border,Midpoint of shared (national) border,25.0003,26.9777
+1977,3127,Namibia-Zambia Border,Midpoint of shared (national) border,24.4249,-17.4801
+1977,3129,Kenya-Somalia Border,Midpoint of shared (national) border,47.6729,7.70284
+1977,3130,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1977,3131,Zambia-Zimbabwe Border,Midpoint of shared (national) border,27.813,-16.9759
+1977,3382,Suez Canal,Timsah Lake,32.2909,30.5735
+1977,3602,DRC (Katanga [ADM1]),Centroid of ADM1,26.4035,-8.7498
+1977,3603,Gulf of Siam,Gulf of Siam,101.343,9.71212
+1977,3631,Chad-Libya Border,Midpoint of shared (national) border,19.4983,20.581
+1977,3994,Israel-Lebanon Border,Midpoint of shared (national) border,35.5057,33.1118
+1978,2070,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1978,2082,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1978,2141,Tanzania-Uganda Border,Midpoint of shared (national) border,32.1947,-1.00008
+1978,2174,Aegean Sea,Aegean Sea,25.2686,39.0192
+1978,2223,"Tehran, Iran","Tehran, Iran",51.389,35.6892
+1978,2346,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1978,2357,North Yemen-South Yemen Border,Midpoint of shared (national) border,45.1159,13.8285
+1978,2602,Russia (Turkmenistan [ADM1]),Centroid of ADM1,59.3842,39.1224
+1978,2715,Amur River,Midpoint of river,132.169,47.6919
+1978,2727,Kuril Islands,Kuril Islands,150.971,47.1544
+1978,2743,Egypt-Libya Border,Midpoint of shared (national) border,25.0003,26.9777
+1978,2965,Cape Misrata,Cape Misrata,15.0783,32.373
+1978,3003,Mekong River,Midpoint of river,105.871,14.6024
+1978,3004,"Gaborone, Botswana","Gaborone, Botswana",25.9231,-24.6282
+1978,3005,"Lusaka, Zambia","Lusaka, Zambia",28.3228,-15.3875
+1978,3007,China-Vietnam Border,Midpoint of shared (national) border,105.201,23.2844
+1978,3009,Bolivia-Chile Border,Midpoint of shared (national) border,-68.7092,-20.3063
+1978,3015,Botswana (Northern [> ADM1]),Centroid of > ADM1,24.8268,-20.5584
+1978,3440,"Beirut, Lebanon","Beirut, Lebanon",35.5018,33.8938
+1978,3604,"Nicosia, Cyprus","Nicosia, Cyprus",33.3823,35.1856
+1978,3606,Norway Territorial Waters,Centroid of territorial waters,11.0058,65.7203
+1979,2053,Afghanistan-Pakistan-Russia,Midpoint of shortest line between Pakistan-Russia within Afghanistan,72.1109,36.7697
+1979,2101,India (Sikkim [ADM1]),Centroid of ADM1,88.4729,27.5715
+1979,2113,Iran,Centroid of ADM0,54.3,32.5712
+1979,2115,Shatt-al-Arab,Midpoint of river,48.0287,30.4622
+1979,2193,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1979,2224,Pacific Ocean,Pacific Ocean,-124.509,-8.78319
+1979,2225,Cuba-United States Border (Territorial Waters),Midpoint along shortest line between territorial waters,-81.9004,23.8593
+1979,2325,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1979,2716,China (Xinjiang [ADM1]),Centroid of ADM1,85.2036,41.112
+1979,2967,Peru Territorial Waters,Centroid of territorial waters,-78.7418,-9.0983
+1979,2968,Canada (British Columbia [ADM1]),Centroid of ADM1,-124.769,54.7532
+1979,3000,Ethiopia-Sudan Border,Midpoint of shared (national) border,34.8118,10.7249
+1979,3001,Egypt-Libya-Sudan Border,"Intersection of Egypt, Libya, and Sudan borders",25.0014,21.9997
+1979,3002,Angola-Zimbabwe Border,Southeasternmost point of Angola,23.4282,-17.6393
+1979,3020,"Tehran, Iran","Tehran, Iran",51.389,35.6892
+1979,3021,Gulf of Sidra,Gulf of Sidra,18,31.5
+1979,3022,Sulu Sea,Sulu Sea,120.896,8.51904
+1979,3024,Algeria-Morocco (Western Sahara [> ADM1]) Border,Midpoint of shared (subnational) border,-8.6715,27.4841
+1979,3025,Afghanistan-Iran Border,Midpoint of shared (national) border,60.7024,32.6938
+1979,3026,Laos (Northern [> ADM1]),Centroid of > ADM1,102.191,20.3397
+1979,3383,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1979,3441,Lebanon-Syria (Homs [ADM1]),Midpoint of shared (subnational) border,36.3866,34.5472
+1979,3607,Morocco,Midpoint of coastline,-10.0447,29.6042
+1980,2071,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1980,2083,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1980,2152,Saudi Arabia-North Yemen Border,Midpoint of shared (national) border,44.5422,17.3755
+1980,2717,Argun River,Midpoint of river,120.053,51.5769
+1980,2969,"Dakar, Senegal","Dakar, Senegal",-17.366,14.7645
+1980,3016,Libya-Sudan Border,Midpoint of shared (national) border,24.6142,19.9997
+1980,3017,Afghanistan-Iran-Russia Border,"Intersection of Afghanistan, Iran, and Russia borders",61.2766,35.6072
+1980,3105,Ecuador Territorial Waters,Centroid of territorial waters,-80.8282,-0.5294
+1980,3107,Jordan-Syria Border,Midpoint of shared (national) border,37.2913,32.576
+1980,3108,Kuwait,Centroid of ADM0,47.5909,29.3408
+1980,3109,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+1980,3111,Burma,Midpoint of coastline,95.3626,15.9799
+1980,3112,DRC-Zambia Border,Midpoint of shared (national) border,29.8027,-13.2745
+1980,3113,Algeria-Morocco Border,Midpoint of shared (national) border,-3.75089,31.1518
+1980,3114,Mekong River,Midpoint of river,105.871,14.6024
+1980,3115,Oman-South Yemen Border,Midpoint of shared (national) border,52.5582,17.8217
+1980,3116,"Belgrade, Serbia","Belgrade, Serbia",20.4489,44.7866
+1980,3117,Sulu Sea,Sulu Sea,120.896,8.51904
+1980,3118,Egypt-Libya Border,Midpoint of shared (national) border,25.0003,26.9777
+1980,3119,Mauritania-Morocco Border,Midpoint of shared (national) border,-12.1085,23.4262
+1980,3120,"San Andres Island, Philippines","San Andres Island, Philippines",124.017,12.3953
+1980,3121,Congo-DRC Border,Midpoint of shared (national) border,16.2501,-2.10784
+1980,3448,Lebanon-Syria Border,Midpoint of shared (national) border,36.4156,34.045
+1980,3610,Natuna Islands,Natuna Islands,108.25,4
+1980,3632,Libya-Tunisia Border,Midpoint of shared (national) border,10.4702,31.7216
+1980,3633,Chad-Libya Border,Midpoint of shared (national) border,19.4983,20.581
+1981,2084,Argentina (Mendoza [ADM1]),Centroid of ADM1,-68.5867,-34.6287
+1981,2119,Cordillera del Condor,Cordillera del Condor,-78.5,-4
+1981,2175,Aegean Sea,Aegean Sea,25.2686,39.0192
+1981,2194,Korean Demilitarized Zone,Centroid of DMZ,127.474,38.2539
+1981,2228,"New York, USA","New York, USA",-74.0059,40.7128
+1981,2237,Guyana-Venezuela Border,Midpoint of shared (national) border,-60.4302,6.93136
+1981,2347,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1981,2639,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1981,2970,North Sea,North Sea,3.51563,56.511
+1981,2971,"Pyongyang, North Korea","Pyongyang, North Korea",125.763,39.0392
+1981,2972,Caribbean Sea,Caribbean Sea,-74.9676,14.5401
+1981,3092,Saudi Arabia (Northern [> ADM1]),Centroid of > ADM1,40.0474,28.6258
+1981,3093,Sweden Territorial Waters,Centroid of mainland territorial waters,17.3734,57.276
+1981,3095,Kuwait,Centroid of ADM0,47.5909,29.3408
+1981,3096,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+1981,3097,Iran-Turkey Border,Midpoint of shared (national) border,44.3185,38.5819
+1981,3098,Libya-Sudan Border,Midpoint of shared (national) border,24.6142,19.9997
+1981,3099,Libya,Centroid of ADM0,18.1452,26.6513
+1981,3100,Persian Gulf,Persian Gulf,51.6834,26.7505
+1981,3101,"Baghdad, Iraq","Baghdad, Iraq",44.3615,33.3128
+1981,3102,China-Vietnam Border,Midpoint of shared (national) border,105.201,23.2844
+1981,3104,Cameroon-Nigeria Border,Midpoint of shared (national) border,12.2051,7.99518
+1981,3180,"Baghdad, Iraq","Baghdad, Iraq",44.3615,33.3128
+1982,2072,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1982,2176,Cyprus,Centroid of ADM0,33.2218,35.0459
+1982,2229,Japan Territorial Waters,Northernmost point of territorial waters,141.915,45.7267
+1982,2323,Guajira Peninsula,Guajira Peninsula,-71.5,12
+1982,2348,Guatemala-Mexico Border,Midpoint of shared (national) border,-90.6733,16.6674
+1982,2640,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1982,2973,Sweden Territorial Waters,Centroid of mainland territorial waters,17.3734,57.276
+1982,2974,Sea of Japan,Sea of Japan,135,38.8488
+1982,2975,South China Sea,South China Sea,114.405,15.4881
+1982,2976,Japan-Russia Border (Territorial Waters),Midpoint of shared (territorial water) border,142.007,45.7095
+1982,2977,Nicaragua,Centroid of ADM0,-85.0348,12.8399
+1982,2978,"Athens, Greece","Athens, Greece",23.7275,37.9838
+1982,2982,Arabian Sea,Arabian Sea,64.3372,12.2502
+1982,3073,"Maseru, Lesotho","Maseru, Lesotho",27.5144,-29.3632
+1982,3074,Myanmar Territorial Waters,Centroid of mainland territorial waters,95.5929,15.1422
+1982,3076,Ghana-Togo Border,Midpoint of shared (national) border,0.393728,8.72793
+1982,3077,Falkland Islands,Falkland Islands,-59.5236,-51.7963
+1982,3078,"Kharg Island, Iran","Kharg Island, Iran",50.3121,29.2457
+1982,3082,Mekong River,Midpoint of river,105.871,14.6024
+1982,3083,Indonesia-Papua New Guinea Border,Midpoint of shared (national) border,141.006,-5.95494
+1982,3085,Guyana-Venezuela Border,Midpoint of shared (national) border,-60.4302,6.93136
+1982,3086,Iraq-Syria Border,Midpoint of shared (national) border,41.2236,34.8775
+1982,3088,"Tripoli, Libya","Tripoli, Libya",13.1913,32.8872
+1982,3089,Italy Territorial Waters,Point along Territorial Waters boundary nearest centroid of noncontiguous Territorial Waters,13.138,40.6276
+1982,3090,Zambia (Kaputa [ADM2]),Centroid of ADM2,29.93,-8.80462
+1982,3106,Jordan-Syria Border,Midpoint of shared (national) border,37.2913,32.576
+1982,3444,"Beirut, Lebanon","Beirut, Lebanon",35.5018,33.8938
+1982,3612,"Mindanao Island, Phillippines","Mindanao Island, Phillippines",123.303,8.49613
+1982,3613,Oman-South Yemen Border,Midpoint of shared (national) border,52.5582,17.8217
+1982,3630,Falkland Islands,Falkland Islands,-59.5236,-51.7963
+1983,2054,Afghanistan-Pakistan-Russia,Midpoint of shortest line between Pakistan-Russia within Afghanistan,72.1109,36.7697
+1983,2086,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1983,2163,"Larnaca, Cyprus","Larnaca, Cyprus",33.6232,34.9003
+1983,2195,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1983,2231,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1983,2349,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1983,2590,Afghanistan-Iran Border,Midpoint of shared (national) border,60.7024,32.6938
+1983,2641,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1983,2981,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1983,3054,Saudi Arabia-South Yemen Border,Midpoint of shared (national) border,48.6709,18.1624
+1983,3055,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+1983,3056,Ethiopia-Sudan Border,Midpoint of shared (national) border,34.8118,10.7249
+1983,3057,Persian Gulf,Persian Gulf,51.6834,26.7505
+1983,3058,Grenada,Centroid of ADM0,-61.6794,12.1129
+1983,3059,Afghanistan-Iran Border,Midpoint of shared (national) border,60.7024,32.6938
+1983,3062,"Beirut, Lebanon","Beirut, Lebanon",35.5018,33.8938
+1983,3063,Kamchatka Peninsula,Kamchatka Peninsula,159.531,56.1327
+1983,3064,Falkland Islands,Falkland Islands,-59.5236,-51.7963
+1983,3065,Libya,Centroid of ADM0,18.1452,26.6513
+1983,3066,Chad-Nigeria Border,Midpoint of shared (national) border,13.8502,13.4002
+1983,3067,"Oslo, Norway","Oslo, Norway",10.7522,59.9139
+1983,3068,"Brasilia, Brazil","Brasilia, Brazil",-47.8825,-15.7942
+1983,3070,"Maputo, Mozambique","Maputo, Mozambique",32.6051,-25.892
+1983,3071,Persian Gulf,Persian Gulf,51.6834,26.7505
+1983,3072,Libya-Sudan Border,Midpoint of shared (national) border,24.6142,19.9997
+1983,3075,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1983,3384,"Taba, Egypt","Taba, Egypt",34.8969,29.4925
+1983,3385,"Sinai, Egypt","Sinai, Egypt",34,29.5
+1983,3540,Laos-Thailand Border,Midpoint of shared (national) border,102.671,17.8317
+1983,3614,China-Vietnam Border,Midpoint of shared (national) border,105.201,23.2844
+1983,3615,"Gotland, Sweden","Gotland, Sweden",18.4867,57.4684
+1983,3634,Chad-Libya Border,Midpoint of shared (national) border,19.4983,20.581
+1984,2074,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1984,2087,Beagle Channel,Beagle Channel,-67.8349,-54.8899
+1984,2118,Ecuador (Zamora-Chinchipe [ADM1])-Peru (Amazonas [ADM1]),Midpoint of shared (subnational) border,-78.5543,-4.08944
+1984,2177,Cyprus,Centroid of ADM0,33.2218,35.0459
+1984,2196,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1984,2230,Bering Sea,Bering Sea,-178.139,56.9073
+1984,2350,Guatemala-Mexico Border,Midpoint of shared (national) border,-90.6733,16.6674
+1984,2541,Bay of Biscay,Bay of Biscay,-3.16322,45.557
+1984,2642,Siachen Glacier,Siachen Glacier,77.0439,35.4639
+1984,2728,Kuril Islands,Kuril Islands,150.971,47.1544
+1984,3027,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1984,3031,"Gaborone, Botswana","Gaborone, Botswana",25.9231,-24.6282
+1984,3034,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3035,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3036,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3037,India-Sri Lanka Border (Territorial Waters),Midpoint of shared (territorial water) border,79.5333,9.20362
+1984,3038,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3040,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3041,"Paris, France","Paris, France",2.35222,48.8566
+1984,3042,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3043,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3044,Algeria-Morocco Border,Midpoint of shared (national) border,-3.75089,31.1518
+1984,3045,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3046,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3048,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3049,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3050,Indonesia-Papua New Guinea Border,Midpoint of shared (national) border,141.006,-5.95494
+1984,3051,Egypt-Libya-Sudan Border,"Intersection of Egypt, Libya, and Sudan borders",25.0014,21.9997
+1984,3052,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3053,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3541,Persian Gulf,Persian Gulf,51.6834,26.7505
+1984,3617,Saudi Arabia Territorial Waters (Persian Gulf),Midpoint of shortest distance between two discontiguous waters,50.3189,26.2558
+1984,3639,China-Vietnam Border,Midpoint of shared (national) border,105.201,23.2844
+1985,2075,"Ogaden, Ethiopia","Ogaden, Ethiopia",42.7994,9.35067
+1985,2102,India (Tawang [ADM2]),Centroid of ADM2,91.9183,27.6557
+1985,2232,"Berlin, Germany","Berlin, Germany",13.405,52.52
+1985,2352,El Salvador-Honduras Border,Midpoint of shared (national) border,-88.3707,13.8792
+1985,2540,Libya-Tunisa Border (Territorial Waters),Midpoint of shared (territorial water) border,11.6127,33.2617
+1985,2543,Irish Sea,Irish Sea,-4.46584,53.8277
+1985,2544,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2545,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2546,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1985,2547,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2548,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2549,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2550,"Huksan, South Korea","Huksan, South Korea",126.958,35.9483
+1985,2551,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2552,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2553,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2554,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2555,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2557,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2559,Czechoslovakia-West Germany Border,Midpoint of shared (national) border,12.7928,49.3429
+1985,2560,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2563,"Tunis, Tunisia","Tunis, Tunisia",10.1815,36.8065
+1985,2583,Burkina Faso-Mali Border,Midpoint of shared (national) border,-3.43388,13.269
+1985,2584,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2585,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,2643,Siachen Glacier,Siachen Glacier,77.0439,35.4639
+1985,3029,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,3030,"Gaborone, Botswana","Gaborone, Botswana",25.9231,-24.6282
+1985,3033,Persian Gulf,Persian Gulf,51.6834,26.7505
+1985,3443,"Beirut, Lebanon","Beirut, Lebanon",35.5018,33.8938
+1985,3618,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1985,3620,Egypt-Libya Border,Midpoint of shared (national) border,25.0003,26.9777
+1985,3621,Philippines,Centroid of ADM0,122.879,11.7418
+1985,3622,China-Vietnam Border,Midpoint of shared (national) border,105.201,23.2844
+1985,3625,Kuwait Territorial Waters,Centroid of territorial waters,48.4159,29.1968
+1986,2178,"Nicosia, Cyprus","Nicosia, Cyprus",33.3823,35.1856
+1986,2179,Aegean Sea,Aegean Sea,25.2686,39.0192
+1986,2198,Korean Demilitarized Zone,Centroid of DMZ,127.474,38.2539
+1986,2233,Black Sea,Black Sea,34.2993,43.413
+1986,2315,Yellow Sea,Yellow Sea,123.796,35.4943
+1986,2353,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1986,2354,Dominican Republic-Haiti Border,Midpoint of shared (national) border,-71.7183,18.7414
+1986,2565,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2566,Iran (Kordestan [ADM1]),Centroid of ADM1,46.9615,35.7181
+1986,2568,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2570,"Harare, Zimbabwe","Harare, Zimbabwe",31.0335,-17.8252
+1986,2571,"Lusaka, Zambia","Lusaka, Zambia",28.3228,-15.3875
+1986,2572,"Fashtal, Iran","Fashtal, Iran",49.8279,37.1393
+1986,2573,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1986,2574,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2575,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2578,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2579,Burdwood Bank,Burdwood Bank,-59,-54.25
+1986,2580,"Gaborone, Botswana","Gaborone, Botswana",25.9231,-24.6282
+1986,2588,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2591,Cyprus Territorial Waters,Southernmost point of territorial waters,33.0247,34.3614
+1986,2593,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2594,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2595,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2596,Persian Gulf,Persian Gulf,51.6834,26.7505
+1986,2597,Czechoslovakia-West Germany Border,Midpoint of shared (national) border,12.7928,49.3429
+1986,2598,Gibraltar,Gibraltar,-5.35358,36.1408
+1986,2599,"Mababane, Swaziland","Mababane, Swaziland",31.1367,-26.3054
+1986,2601,"Istanbul, Turkey","Istanbul, Turkey",28.9784,41.0082
+1986,2644,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1986,2718,Amur River,Midpoint of river,132.169,47.6919
+1986,2803,Sudan (Eastern [> ADM1]),Centroid of > ADM1,34.0495,14.1504
+1986,3626,Bangladesh-India (Tripura [ADM1]) Border,Midpoint of shared (subnational) border,91.3137,23.3583
+1986,3628,China-Vietnam Border,Midpoint of shared (national) border,105.201,23.2844
+1986,3629,Burkina Faso-Mali Border,Midpoint of shared (national) border,-3.43388,13.269
+1986,3635,Chad-Libya Border,Midpoint of shared (national) border,19.4983,20.581
+1986,3637,Mediterranean Sea,Mediterranean Sea,18.048,34.5531
+1987,2245,Ethiopia-Somalia Border,Midpoint of shared (national) border,47.6729,7.70284
+1987,2734,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2735,"Barra del Colorado, Costa Rica","Barra del Colorado, Costa Rica",-83.7199,10.6918
+1987,2736,Dominican Republic-Haiti Border,Midpoint of shared (national) border,-71.7183,18.7414
+1987,2737,"Grand Banks, Newfoundland","Grand Banks, Newfoundland",-50,45
+1987,2738,Sweden Territorial Waters,Centroid of mainland territorial waters,17.3734,57.276
+1987,2739,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2740,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2741,"Panama City, Panama","Panama City, Panama",-79.5199,8.98238
+1987,2742,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1987,2776,Laos (Xaignabouri [ADM1]),Centroid of ADM1,101.346,18.9406
+1987,2777,Myanmar Territorial Waters,Centroid of mainland territorial waters,95.5929,15.1422
+1987,2778,Palk Strait,Palk Strait,79.2,8.50893
+1987,2779,Bangladesh-India (Tripura [ADM1]) Border,Midpoint of shared (subnational) border,91.3137,23.3583
+1987,2780,Spratly Islands,Spratly Islands,111.917,8.63333
+1987,2782,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1987,2783,Oman-South Yemen Border,Midpoint of shared (national) border,52.5582,17.8217
+1987,2784,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2785,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2786,Iraq-Syria Border,Midpoint of shared (national) border,41.2236,34.8775
+1987,2788,Iraq-Turkey Border,Midpoint of shared (national) border,43.7267,37.2257
+1987,2789,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2790,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2791,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2792,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2793,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2794,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2796,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2797,Kuwait,Centroid of ADM0,47.5909,29.3408
+1987,2798,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2799,Iran-Turkey Border,Midpoint of shared (national) border,44.3185,38.5819
+1987,2800,Mozambique-South Africa Border,Point along shared noncontiguous border nearest midpoint of contiguous border including neighbors,31.7482,-23.8098
+1987,2801,"Lourenco Marques, Mozambique","Lourenco Marques, Mozambique",32.6051,-25.892
+1987,2802,Ethiopia-Sudan Border,Midpoint of shared (national) border,34.8118,10.7249
+1987,2804,Kenya-Uganda Border,Midpoint of shared (national) border,34.9566,1.58421
+1987,2805,Uganda (Northwest [> ADM1]),Centroid of > ADM1,31.659,2.40119
+1987,2806,Congo (Mindouli [ADM2]),Centroid of ADM2,14.3532,-4.19671
+1987,2807,Nigeria (Borno [ADM1]),Centroid of ADM1,13.1764,11.8943
+1987,2808,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2809,"Laayoune, Western Sahara","Laayoune, Western Sahara",-13.1625,27.1253
+1987,2810,Botswana-South Africa Border,Midpoint of shared (national) border,20.6702,-25.5372
+1987,2811,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2812,Gulf of Venezuela,Gulf of Venezuela,-70.9071,11.339
+1987,2815,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2816,Bay of Gdansk,Bay of Gdansk,19.0852,54.5995
+1987,2817,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2818,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2819,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2820,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2821,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2822,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2823,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2824,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2825,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2826,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2827,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2828,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2832,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,2833,Persian Gulf,Persian Gulf,51.6834,26.7505
+1987,3638,China-Vietnam Border,Midpoint of shared (national) border,105.201,23.2844
+1988,2745,Indonesia-Papua New Guinea Border,Midpoint of shared (national) border,141.006,-5.95494
+1988,2746,Spratly Islands,Spratly Islands,111.917,8.63333
+1988,2747,Myanmar Territorial Waters,Centroid of mainland territorial waters,95.5929,15.1422
+1988,2748,Papua New Guinea Territorial Waters,Centroid of mainland territorial waters,148.537,-10.2925
+1988,2749,Spratly Islands,Spratly Islands,111.917,8.63333
+1988,2750,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1988,2751,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2752,Mubarras Island,Mubarras Island,53.3056,24.5779
+1988,2753,"Mababane, Swaziland","Mababane, Swaziland",31.1367,-26.3054
+1988,2754,"Gaborone, Botswana","Gaborone, Botswana",25.9231,-24.6282
+1988,2755,"Harare, Zimbabwe","Harare, Zimbabwe",31.0335,-17.8252
+1988,2757,"Khartoum, Sudan","Khartoum, Sudan",32.5599,15.5007
+1988,2758,"Larak Island, Iran","Larak Island, Iran",56.3712,26.8483
+1988,2759,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2760,Cyprus-Northern Cyprus Border,Midpoint of shared (national) border,33.4695,35.1045
+1988,2762,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2763,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2764,"Larak Island, Iran","Larak Island, Iran",56.3712,26.8483
+1988,2765,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2767,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2768,Colombia-Venezuela Border,Midpoint of shared (national) border,-69.9777,6.80034
+1988,2769,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2770,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1988,2771,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1988,2772,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2773,"Grand Banks, Newfoundland","Grand Banks, Newfoundland",-50,45
+1988,2774,Persian Gulf,Persian Gulf,51.6834,26.7505
+1988,2775,Gulf of Sidra,Gulf of Sidra,18,31.5
+1989,3900,Canada,Centroid of ADM0,-98.2653,61.392
+1989,3901,"Panama City, Panama","Panama City, Panama",-79.5199,8.98238
+1989,3904,El Salvador-Honduras Border,Midpoint of shared (national) border,-88.3707,13.8792
+1989,3905,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1989,3906,Comoros,Centroid of ADM0,43.6759,-11.8928
+1989,3907,Lebanon Exclusive Economic Zone,Midpoint of distant EEZ waters,34.398,34.088
+1989,3908,Lebanon Exclusive Economic Zone,Midpoint of distant EEZ waters,34.398,34.088
+1989,3909,Thermaikos Kolpos,Thermaikos Kolpos,23.025,40.2893
+1989,3910,Mali-Senegal Border,Midpoint of shared (national) border,-11.9227,13.4753
+1989,3911,Kenya-Uganda Border,Midpoint of shared (national) border,34.9566,1.58421
+1989,3912,Sudan-Uganda Border,Midpoint of shared (national) border,32.314,3.68445
+1989,3913,Kenya-Somalia Border,Midpoint of shared (national) border,40.9886,1.22132
+1989,3914,Iran-Iraq Border,Midpoint of shared (national) border,45.6418,33.7638
+1989,3915,Cyprus,Centroid of ADM0,33.2218,35.0459
+1989,3916,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+1989,3917,Sea of Japan,Sea of Japan,135,38.8488
+1989,3919,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1989,3920,Cambodia-Thailand Border,Midpoint of shared (national) border,102.81,13.9557
+1989,3921,Shatt al-Arab,Midpoint of river,48.0287,30.4622
+1989,3922,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+1989,3953,Mali-Senegal Border,Midpoint of shared (national) border,-11.9227,13.4753
+1990,3950,Gulf of Mexico,Gulf of Mexico,-90.0659,25.3043
+1990,3951,Arabian Gulf,Arabian Gulf,51.6834,26.7505
+1990,3952,Guinea Bissau-Senegal Border,Midpoint of shared (national) border,-15.2665,12.6561
+1990,3954,Ivory Coast-Liberia Border,Midpoint of shared (national) border,-7.80414,6.12613
+1990,3955,Luapula River,Midpoint of river,28.387,-11.5838
+1990,3956,,,,
+1990,3957,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1990,3958,Gulf of Aqaba,Gulf of Aqaba,34.7299,28.6929
+1990,3959,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1990,3960,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1990,3961,Indonesia-Papua New Guinea Border,Midpoint of shared (national) border,141.006,-5.95494
+1991,3970,Egypt-Sudan Border,Midpoint of shared (national) border,31.1415,21.9984
+1991,3971,Persian Gulf,Persian Gulf,51.6834,26.7505
+1991,3972,Canada (British Colombia [ADM1])-United States (Alaska) Border (Territorial Waters),Midpoint of shortest distance between territorial waters,-132.898,54.4666
+1991,3973,Persian Gulf,Persian Gulf,51.6834,26.7505
+1991,3974,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1991,3975,DRC,Centroid of ADM0,23.655,-2.87624
+1991,3976,Austria-Yugoslavia Border,Midpoint of shared (national) border,14.911,46.6223
+1991,3977,Hungary-Yugoslavia Border,Midpoint of shared (national) border,18.0074,45.7869
+1991,3978,Liberia (Lofa [ADM1]),Centroid of ADM1,-9.86518,7.978
+1991,3979,Sudan-Uganda Border,Midpoint of shared (national) border,32.314,3.68445
+1991,3980,Iraq-Turkey Border,Midpoint of shared (national) border,43.7267,37.2257
+1991,3981,Iraq (Western [> ADM1]),Centroid of > ADM1,42.084,33.2144
+1991,3982,Kuwait (Al Jahrah [ADM1]),Centroid of ADM1,47.4772,29.551
+1991,3983,"Taipei, Taiwan","Taipei, Taiwan",121.565,25.033
+1991,3984,North Korea-South Korea Border,Midpoint of shared (national) border,127.507,38.3093
+1991,3985,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+1991,3986,Bangladesh-Myanmar Border,Midpoint of shared (national) border,92.5799,21.2779
+1991,3987,Ecuador-Peru Border,Midpoint of shared (national) border,-78.1798,-3.41804
+1991,3988,Gulf of Fonseca,Gulf of Fonseca,-87.5791,13.2088
+1992,3550,Peru (Northwest [> ADM1]),Centroid of > ADM1,-77.9866,-7.11898
+1992,3551,Yugoslavia Territorial Waters,Centroid of territorial waters,18.9136,42.0486
+1992,3552,Iraq (Southern NFZ [> ADM1]),Centroid of Southern NFZ,45.0445,30.8339
+1992,3555,Bosnia-Croatia Border,Midpoint of shared (national) border,15.9539,45.2248
+1992,3556,Bosnia (Central [> ADM1]),Centroid of > ADM1,17.9537,44.0641
+1992,3557,Bosnia-Yugoslavia Border,Midpoint of shared (national) border,19.5079,43.7075
+1992,3558,Moldova-Ukraine Border,Midpoint of shared (national) border,29.5903,47.0142
+1992,3559,"Sevastopol, Ukraine","Sevastopol, Ukraine",33.5254,44.6166
+1992,3560,Estonia (Ida-Viru [ADM1])-Russia Border,Midpoint of shared (subnational) border,28.1176,59.2973
+1992,3561,Georgia (Abkhazia [ADM1]),Centroid of ADM1,41.1815,43.1038
+1992,3564,Azerbaijan (Nagorno-Karabakh [> ADM1]),Centroid of > ADM1,46.7669,39.9003
+1992,3565,"Sao Domengis, Guinea Bissau","Sao Domengis, Guinea Bissau",-16.1963,12.4101
+1992,3566,Iran-Iraq Border,Midpoint of shared (national) border,45.6418,33.7638
+1992,3567,"Abu Musa Island, Iran","Abu Musa Island, Iran",55.0328,25.8797
+1992,3568,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1992,3569,Qatar-Saudi Arabia Border,Midpoint of shared (national) border,51.0141,24.5707
+1992,3570,Korean Demilitarized Zone,Centroid of DMZ,127.474,38.2539
+1992,3572,Indonesia-Papua New Guinea Border,Midpoint of shared (national) border,141.006,-5.95494
+1992,3573,Malaysia-Singapore Border (Territorial Waters),Midpoint of shared (territorial water) border,103.839,1.47088
+1992,3574,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+1993,4007,India (Jammu and Kashmir [ADM1])-Pakistan (Azad Kashmir [ADM1]) Border,Midpoint of shared (subnational) border,73.9277,34.1529
+1993,4010,"Nahuaterique, Honduras","Nahuaterique, Honduras",-88.1495,14.0515
+1993,4014,"Melchor de Mencos, Guatemala","Melchor de Mencos, Guatemala",-89.1563,17.0581
+1993,4016,Haiti Territorial Waters,Centroid of territorial waters,-73.2248,18.1112
+1993,4018,Yalu River,Midpoint of river,126.547,41.5034
+1993,4021,Northern Limit Line (in Yellow Sea; Maritime DMZ Border),Midpoint of Northern Limit Line,125.143,37.1824
+1993,4022,North Korea (between Pyongyang and DMZ),Midpoint of shortest line between Pyongyang and South Korea Border,126.081,38.4285
+1993,4029,Gulf of Tonkin,Gulf of Tonkin,107.75,19.75
+1993,4032,"Kinshasa, DRC","Kinshasa, DRC",15.2663,-4.44193
+1993,4038,Cyprus,Centroid of ADM0,33.2218,35.0459
+1993,4039,"Nicosia, Cyprus","Nicosia, Cyprus",33.3823,35.1856
+1993,4042,Japan-Russia Border (Territorial Waters),Midpoint of shared (territorial water) border,142.007,45.7095
+1993,4043,Albania-Yugoslavia (Kosovo [> ADM1]) Border,Midpoint of shared (subnational) border,20.4416,42.2725
+1993,4048,Adriatic Sea,Adriatic Sea,17.2903,41.8551
+1993,4051,Dniestr River,Midpoint of river,27.2579,48.5781
+1993,4052,China Exclusive Economic Zone,Midpoint of distant EEZ waters,119.036,24.0438
+1993,4054,Afghanistan-Tajikistan Border,Midpoint of shared (national) border,71.3779,37.9037
+1993,4058,"Strezimir, Macedonia","Strezimir, Macedonia",20.6191,41.8065
+1993,4066,Ghana-Togo Border,Midpoint of shared (national) border,0.393728,8.72793
+1993,4067,Lake Chad,Lake Chad,14.449,13.1079
+1993,4069,Congo-DRC Border,Midpoint of shared (national) border,16.2501,-2.10784
+1993,4072,Iraq (Northern NFZ [> ADM1]),Centroid of Northern NFZ,43.376,36.5531
+1993,4073,"Port Sudan, Sudan","Port Sudan, Sudan",37.1902,19.5903
+1993,4075,"Shortland Island, Western, Solomon Islands","Shortland Island, Western, Solomon Islands",155.737,-7.04522
+1993,4085,Ivory Coast-Liberia Border,Midpoint of shared (national) border,-7.80414,6.12613
+1993,4106,Sea of Okhotsk,Sea of Okhotsk,149.366,52.8736
+1993,4182,"Yaroun, Lebanon","Yaroun, Lebanon",35.4235,33.0801
+1993,4224,Macedonia,Centroid of ADM0,21.6975,41.5997
+1993,4286,"Khartoum, Sudan","Khartoum, Sudan",32.5599,15.5007
+1993,4299,"Baghdad, Iraq","Baghdad, Iraq",44.3615,33.3128
+1993,4308,"Tahoua, Chad","Tahoua, Chad",15.3422,10.8461
+1993,4340,Croatia (Osjecko-Baranjska [ADM1] and Vukovarsko-Srijemska [ADM1])-Yugoslavia Border,Midpoint of shared (subnational) border,19.0426,45.3548
+1993,4341,Bosnia (Federation of Bosnia-Herzegovina [ADM1]),Centroid of ADM1,17.5197,44.1153
+1994,4001,"Poipet, Cambodia","Poipet, Cambodia",102.581,13.6579
+1994,4024,Taiping Island,Taiping Island,114.365,10.3778
+1994,4030,Spratly Islands,Spratly Islands,111.917,8.63333
+1994,4035,Pescadore Islands,Pescadore Islands,119.579,23.5712
+1994,4040,"Ankara, Turkey","Ankara, Turkey",32.8597,39.9334
+1994,4041,Albania (Girokastres [ADM2]),Centroid of ADM2,20.198,40.0662
+1994,4046,Macedonia-Yugoslavia Border,Midpoint of shared (national) border,21.3918,42.2201
+1994,4050,"Odessa, Ukraine","Odessa, Ukraine",30.7233,46.4825
+1994,4055,Afghanistan (Badakhshan [ADM1] and Takhar [ADM1]),Centroid of > ADM1,71.0903,36.9608
+1994,4065,"Liaodong Peninsula, Liaodong, China","Liaodong Peninsula, Liaodong, China",122.968,39.9829
+1994,4071,"Iema, Angola","Iema, Angola",12.2833,-5.73333
+1994,4078,Uganda (Northern [> ADM1]),Centroid of > ADM1,32.9407,2.81584
+1994,4079,"Abderafi, Ethiopia","Abderafi, Ethiopia",36.4716,13.6981
+1994,4081,Eritrea-Sudan Border,Midpoint of shared (national) border,36.9388,16.677
+1994,4094,Cyprus,Centroid of ADM0,33.2218,35.0459
+1994,4103,"Riga, Latvia","Riga, Latvia",24.1052,56.9496
+1994,4104,Amur River,Midpoint of river,132.169,47.6919
+1994,4113,Iraq (Abu Ghraib [ADM2]),Centroid of ADM2,44.0791,33.2228
+1994,4114,Saudi Arabia-Yemen Border,Midpoint of shared (national) border,46.7261,16.0449
+1994,4116,Ghana-Togo Border,Midpoint of shared (national) border,0.393728,8.72793
+1994,4119,Bakassi Peninsula (Cameroon-Nigeria Border),Midpoint of shared (territorial water) border,8.41024,4.53735
+1994,4145,Costa Rica-Nicaragua Border (Territorial Waters),Midpoint of Caribbean territorial waters border,-83.5623,10.9627
+1994,4162,Lesotho-South Africa (Transkei [> ADM1]) Border,Midpoint of shared (subnational) border,27.3848,-30.3378
+1994,4164,"Aouzou, Chad","Aouzou, Chad",17.4307,21.8163
+1994,4169,Mozambique-Swaziland Border,Midpoint of shared (national) border,32.0705,-26.3725
+1994,4219,"Arauca, Colombia","Arauca, Colombia",-70.7105,7.07617
+1994,4237,Lesotho-South Africa (Transkei [> ADM1]) Border,Midpoint of shared (subnational) border,27.3848,-30.3378
+1994,4269,Kuwait (Al Jahrah [ADM1]),Centroid of ADM1,47.4772,29.551
+1994,4285,Stepanakert,Stepanakert,46.7656,39.8265
+1994,4287,"Khartoum, Sudan","Khartoum, Sudan",32.5599,15.5007
+1994,4307,"Kasumbalesa, DRC","Kasumbalesa, DRC",27.8018,-12.2516
+1994,4331,Taiping Island,Taiping Island,114.365,10.3778
+1994,4332,Hungary-Yugoslavia Border,Midpoint of shared (national) border,19.5106,46.1303
+1994,4333,Bosnia (Federation of Bosnia-Herzegovina [ADM1] and Republka Srpska [ADM1]),Centroid of > ADM1,17.7792,44.1689
+1995,4002,"Kawmoora, Myanmar","Kawmoora, Myanmar",98.5153,16.7963
+1995,4008,Gulf of Thailand,Gulf of Thailand,101.343,9.71212
+1995,4009,Colombia-Venezuela Border,Midpoint of shared (national) border,-69.9777,6.80034
+1995,4011,Honduras-Nicaragua Border (Territorial Waters),Midpoint of shared (territorial water) border,-87.7657,13.0918
+1995,4012,Honduras-Nicaragua Border (Territorial Waters),Midpoint of shared (territorial water) border,-87.7657,13.0918
+1995,4013,Cordillera del Condor,Cordillera del Condor,-78.5,-4
+1995,4015,"Monte de Olivos, Guatemala","Monte de Olivos, Guatemala",-90.5848,14.548
+1995,4019,Yellow Sea,Yellow Sea,123.796,35.4943
+1995,4020,Taiwan Strait,Taiwan Strait,119.698,24.6581
+1995,4027,Nanshan Island,Nanshan Island,115.802,10.7355
+1995,4031,"Grand Banks, Atlantic Ocean","Grand Banks, Atlantic Ocean",-50,45
+1995,4045,"Pristina, Kosovo","Pristina, Kosovo",21.1655,42.6629
+1995,4060,Gulf of Paria,Taiping Island,114.365,10.3778
+1995,4061,Senkaku Islands,Senkaku Islands,123.583,25.8333
+1995,4064,"Nanjing, China","Nanjing, China",118.797,32.0603
+1995,4068,Lake Chad,Lake Chad,14.449,13.1079
+1995,4082,"Moulhoule, Djibouti","Moulhoule, Djibouti",43.1953,12.5914
+1995,4083,Uganda (Mbale [ADM1]),Centroid of ADM1,34.2966,0.969226
+1995,4084,Kenya-Uganda Border,Midpoint of shared (national) border,34.9566,1.58421
+1995,4092,Lesbos,Lesbos,26.2777,39.2645
+1995,4100,Danube River,Midpoint of river,20.3259,45.0941
+1995,4101,Croatia (East Slavonia [> ADM1])-Hungary Border,Midpoint of shared (subnational) border,17.8547,45.7773
+1995,4102,"Hercegsz?nt?, Hungary","Hercegsz?nt?, Hungary",18.9389,45.9482
+1995,4105,"Vilnius, Lithuania","Vilnius, Lithuania",25.2797,54.6872
+1995,4118,Burundi-Tanzania Border,Midpoint of shared (national) border,30.5862,-3.46342
+1995,4121,Hanish Islands,Hanish Islands,42.75,13.75
+1995,4134,Halaib Triangle,Halaib Triangle,35.7195,22.502
+1995,4143,Cordillera del Condor,Cordillera del Condor,-78.5,-4
+1995,4146,Costa Rica-Nicaragua Border,Midpoint of shared (national) border,-84.6307,11.0617
+1995,4158,Iraq (Northern [> ADM1]),Centroid of > ADM1,43.1377,36.0851
+1995,4159,Afghanistan-Iran Border,Midpoint of shared (national) border,60.7024,32.6938
+1995,4165,Bakassi Peninsula (Cameroon-Nigeria Border),Midpoint of shared (territorial water) border,8.41024,4.53735
+1995,4168,"Tsiaki, Congo","Tsiaki, Congo",13.8651,-3.71617
+1995,4293,Qatar-Saudi Arabia Border,Midpoint of shared (national) border,51.0141,24.5707
+1995,4318,Armenia (Tavush [ADM1])-Azerbaijan Border,Midpoint of shared (subnational) border,45.1849,41.0742
+1996,4003,Doi Lang,Doi Lang,99.2603,20.1131
+1996,4004,Cambodia (Svay Reing [ADM1]),Centroid of ADM1,105.861,11.1569
+1996,4005,"Belonia, India","Belonia, India",91.4676,23.2505
+1996,4006,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+1996,4026,Senkaku Islands,Senkaku Islands,123.583,25.8333
+1996,4028,Pag-Asa Islands,Pag-Asa Islands,114.285,11.0533
+1996,4062,Senkaku Islands,Senkaku Islands,123.583,25.8333
+1996,4063,Natuna Islands,Natuna Islands,108.25,4
+1996,4076,Solomon Islands Territorial Waters,Centroid of largest territorial waters,159.001,-9.4848
+1996,4086,"Almaty, Kazakhstan","Almaty, Kazakhstan",76.8512,43.222
+1996,4095,Cyprus-Northern Cyprus Border,Midpoint of shared (national) border,33.4695,35.1045
+1996,4098,"Rostov-on-Don, Russia","Rostov-on-Don, Russia",39.7015,47.2357
+1996,4109,Georgia (Kvemo Kartli [ADM1]),Centroid of ADM1,44.5069,41.4939
+1996,4122,DRC-Rwanda Border,Border point between Bukavu/Cyangugu shortest line,28.8563,-2.50797
+1996,4124,Jebel Abu Jamal,Jebel Abu Jamal,36.4322,15.1667
+1996,4126,Tokdo Islands,Tokdo Islands,131.868,37.2427
+1996,4148,South Georgia Island,South Georgia Island,-36.5879,-54.4296
+1996,4149,Columbus Channel,Columbus Channel,-61.5,10
+1996,4166,Bakassi Peninsula (Cameroon-Nigeria Border),Midpoint of shared (territorial water) border,8.41024,4.53735
+1996,4170,DRC-Uganda (Arua [ADM1] and Nebi [ADM1]) Border,Midpoint of shared (subnational) border,30.7799,2.61734
+1996,4173,Armenia (Armavir [ADM1])-Turkey Border,Midpoint of shared (subnational) border,43.8654,40.0356
+1996,4190,Syria-Turkey Border (Coastal),Intersection of shared (national) border at coast,35.9224,35.927
+1996,4191,"Orumiyeh, Iran","Orumiyeh, Iran",45.0786,37.5498
+1996,4192,"Koisanjaq, Iraq","Koisanjaq, Iraq",44.6199,36.0751
+1996,4196,"Havana, Cuba","Havana, Cuba",-82.3666,23.1136
+1996,4206,Iraq-Turkey Border,Midpoint of shared (national) border,43.7267,37.2257
+1996,4231,Croatia (Istria [ADM1])-Slovenia Border,Midpoint of shared (subnational) border,13.865,45.4476
+1996,4271,Persian Gulf,Persian Gulf,51.6834,26.7505
+1996,4272,Iraq Territorial Waters,Centroid of territorial waters,48.5435,29.7978
+1996,4288,"Halaib, Egypt","Halaib, Egypt",36.6412,22.2204
+1996,4297,Nemuro Strait,Nemuro Strait,145.46,44.0331
+1996,4309,"Siquita, Ivory Coast","Siquita, Ivory Coast",-8.1,7.86667
+1996,4319,Armenia-Azerbaijan Border,Midpoint of shared (national) border,45.7991,40.0218
+1997,4089,"Hyesan, North Korea","Hyesan, North Korea",128.174,41.3874
+1997,4090,"Trestenink, Albania","Trestenink, Albania",21.0185,40.5729
+1997,4096,Zemo Larsi,Zemo Larsi,44.4867,42.4451
+1997,4097,Albania-Macedonia Border,Midpoint of shared (national) border,20.5151,41.2606
+1997,4107,Sea of Okhotsk,Sea of Okhotsk,149.366,52.8736
+1997,4108,Ukraine Territorial Waters (Black Sea),Centroid of territorial waters,31.5175,46.1828
+1997,4117,Sidudu Island,Sidudu Island,25.1306,-17.8156
+1997,4123,Burundi (Nyanza-Lac [ADM2])-Tanzania Border,Midpoint of shared (subnational) border,29.6936,-4.45225
+1997,4130,"Shali al Fil, Sudan","Shali al Fil, Sudan",34.0167,10.2333
+1997,4132,Hanish Islands,Hanish Islands,42.75,13.75
+1997,4135,"Khon Kriel, Cambodia","Khon Kriel, Cambodia",103.588,14.2564
+1997,4136,Albania-Yugoslavia Border,Midpoint of shared (national) border,19.795,42.4837
+1997,4144,Ecuador (Paquisha [ADM2]),Centroid of ADM2,-78.6342,-3.9299
+1997,4150,Belize-Guatemala Border,Midpoint of shared (national) border,-89.1656,16.6986
+1997,4154,Gulf of Paria,Gulf of Paria,-61.7941,10.4297
+1997,4171,Honduras-Nicaragua Border (Territorial Waters),Midpoint of shared (territorial water) border,-87.7657,13.0918
+1997,4172,Colombia (Arauca [ADM1])-Venezuela Border,Midpoint of shared (subnational) border,-70.6053,7.06431
+1997,4174,Bering Sea,Bering Sea,-178.139,56.9073
+1997,4176,Afghanistan-Uzbekistan Border,Midpoint of shared (national) border,67.1796,37.2651
+1997,4183,Canada (Pacific) Territorial Waters,Centroid of territorial waters,-131.336,52.0006
+1997,4193,Cyprus,Centroid of ADM0,33.2218,35.0459
+1997,4203,Saudi Arabia-Yemen Border,Midpoint of shared (national) border,46.7261,16.0449
+1997,4205,Iraq (Southern NFZ [> ADM1]),Centroid of Southern NFZ,44.3526,31.4334
+1997,4216,Persian Gulf,Persian Gulf,51.6834,26.7505
+1997,4226,North Korea,Centroid of ADM0,127.182,40.1431
+1997,4230,Croatia-Yugoslavia (Montenegro [> ADM1]) Border,Midpoint of shared (subnational) border,18.471,42.5019
+1997,4244,Port of Matadi,Port of Matadi,13.4515,-5.8238
+1997,4245,"Kinshasa, DRC","Kinshasa, DRC",15.2663,-4.44193
+1997,4246,"Pointe Noire, Congo","Pointe Noire, Congo",11.8664,-4.76916
+1997,4249,Kenya-Uganda Border,Midpoint of shared (national) border,34.9566,1.58421
+1997,4251,"Freetown, Sierra Leone","Freetown, Sierra Leone",-13.2317,8.46568
+1997,4273,"Mosul, Iraq","Mosul, Iraq",43.164,36.3566
+1997,4304,"Bibia, Uganda","Bibia, Uganda",32.0695,3.47404
+1997,4315,Iraq-Syria-Turkey Border,"Intersection of Iraq, Syria, and Turkey borders",42.3556,37.1069
+1997,4323,Aegean Sea,Aegean Sea,25.2686,39.0192
+1997,4337,Iran-Iraq (Sulaymaniyah [ADM1]) Border,Midpoint of shared (subnational) border,46.3463,35.8136
+1998,4111,Latvia-Russia Border,Midpoint of shared (national) border,27.7032,56.9124
+1998,4128,Spratly Islands,Spratly Islands,111.917,8.63333
+1998,4137,Albania-Yugoslavia (Kosovo [> ADM1]) Border,Midpoint of shared (subnational) border,20.4416,42.2725
+1998,4147,Costa Rica-Nicaragua Border (San Juan River),Midpoint of shared (subnational) border,-84.0026,10.7847
+1998,4160,Afghanistan-Iran Border,Midpoint of shared (national) border,60.7024,32.6938
+1998,4175,Armenia-Azerbaijan Border,Midpoint of shared (national) border,45.7991,40.0218
+1998,4187,Djibouti-Eritrea Border,Midpoint of shared (national) border,42.7872,12.4188
+1998,4189,Ecuador (Zamora-Chinchipe [ADM1])-Peru (Amazonas [ADM1]),Midpoint of shared (subnational) border,-78.5543,-4.08944
+1998,4217,"Khartoum, Sudan","Khartoum, Sudan",32.5599,15.5007
+1998,4227,"Khost, Afghanistan","Khost, Afghanistan",69.9372,33.3338
+1998,4228,Afghanistan-Uzbekistan Border,Midpoint of shared (national) border,67.1796,37.2651
+1998,4248,Sudan,Centroid of ADM0,30.05,13.8315
+1998,4250,Bakassi Peninsula (Cameroon-Nigeria Border),Midpoint of shared (territorial water) border,8.41024,4.53735
+1998,4254,"Monrovia, Liberia","Monrovia, Liberia",-10.7605,6.29074
+1998,4255,Liberia-Sierra Leone Border,Midpoint of shared (national) border,-10.7514,7.66489
+1998,4258,"Badme, Eritrea","Badme, Eritrea",37.8048,14.7256
+1998,4291,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+1998,4321,Spitzbergen,Spitzbergen,13.4839,78.9014
+1998,4328,Spratly Islands,Spratly Islands,111.917,8.63333
+1998,4329,Spratly Islands,Spratly Islands,111.917,8.63333
+1998,4339,"Kinshasa, DRC","Kinshasa, DRC",15.2663,-4.44193
+1999,4088,China (Fujian [ADM1]),Centroid of ADM1,117.99,26.0811
+1999,4125,Yellow Sea,Yellow Sea,123.796,35.4943
+1999,4127,Okinawa Island,Okinawa Island,127.945,26.5013
+1999,4133,"Samos, Greece","Samos, Greece",26.9778,37.7548
+1999,4138,"Ranong, Thailand","Ranong, Thailand",98.6085,9.95287
+1999,4140,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+1999,4155,Gulf of Paria,Gulf of Paria,-62.3565,10.1576
+1999,4161,Afghanistan (Farah [ADM1] and Nimruz [ADM1]),Centroid of > ADM1,62.3066,31.7888
+1999,4177,Kyrgyzstan (Kadamjay [ADM2]),Centroid of ADM2,71.7608,39.9876
+1999,4179,Tajikistan (Tajikistan Territories [ADM1]),Centroid of ADM1,70.1647,38.8778
+1999,4180,Senkaku Islands,Senkaku Islands,123.583,25.8333
+1999,4188,"Dambala Fulchana, Kenya","Dambala Fulchana, Kenya",38.7467,3.50583
+1999,4200,Yemen Territorial Waters (Red Sea),Centroid of territorial waters,42.2893,15.0674
+1999,4201,Afghanistan-Tajikistan (Khatlon [ADM1]) Border,Midpoint of shared (subnational) border,69.3502,37.1509
+1999,4208,Iraq (Northern NFZ [> ADM1]),Centroid of Northern NFZ,43.376,36.5531
+1999,4212,"Shatili, Georgia","Shatili, Georgia",45.1546,42.6581
+1999,4215,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1999,4223,Siachen Glacier,Siachen Glacier,77.0439,35.4639
+1999,4225,Japan Territorial Waters,Point nearest Sea of Japan,136.677,37.9279
+1999,4252,"Kisangani, DRC","Kisangani, DRC",25.2008,0.51853
+1999,4256,Liberia-Sierra Leone Border,Midpoint of shared (national) border,-10.7514,7.66489
+1999,4260,Guyana-Venezuela Border,Midpoint of shared (national) border,-60.4302,6.93136
+1999,4274,Iraq-Kuwait Border,Midpoint of shared (national) border,47.0836,29.8809
+1999,4289,"Piranshahr, Iran","Piranshahr, Iran",45.1446,36.695
+1999,4292,"Azham, Iraq","Azham, Iraq",44.9443,34.055
+1999,4302,Guinea-Libera Border,Midpoint of shared (national) border,-9.40761,7.50678
+1999,4330,"Pigeon Reef, Spratly Islands","Pigeon Reef, Spratly Islands",114.637,8.86734
+1999,4334,Macedonia-Yugoslavia (Kosovo [> ADM1]) Border,Midpoint of shared (subnational) border,21.0274,42.1559
+1999,4335,Norway Territorial Waters,Centroid of territorial waters,11.0058,65.7203
+1999,4338,"Baku, Azerbaijan","Baku, Azerbaijan",49.8671,40.4093
+1999,4342,Macedonia-Yugoslavia Border,Midpoint of shared (national) border,21.3918,42.2201
+1999,4344,Turkey,Point along border nearest Russia,42.831,41.5824
+2000,4141,Honduras-Nicaragua Border (Territorial Waters),Midpoint of shared (territorial water) border,-87.7657,13.0918
+2000,4151,Belize-Guatemala Border,Midpoint of shared (national) border,-89.1656,16.6986
+2000,4152,Belize-Guatemala (El Peten [ADM1]),Midpoint of shared (subnational) border,-89.1593,16.8542
+2000,4156,Vassen Island,Vassen Island,-57.1492,5.79306
+2000,4186,"Brussels, Belgium","Brussels, Belgium",4.35172,50.8503
+2000,4197,Russia,Centroid of ADM0,96.7883,61.8384
+2000,4210,Aegean Sea,Aegean Sea,25.2686,39.0192
+2000,4213,Gulf of Oman,Gulf of Oman,58.7374,24.7143
+2000,4214,Equatorial Guinea Territorial Waters,Centroid of mainland territorial waters,9.47262,1.53207
+2000,4220,Sea of Japan,Sea of Japan,135,38.8488
+2000,4221,Armenia-Turkey Border,Midpoint of shared (national) border,43.6501,40.1234
+2000,4222,"Hokkaido Island, Japan","Hokkaido Island, Japan",142.552,43.3857
+2000,4229,Albania-Yugoslavia (Montenegro [> ADM1]) Border,Midpoint of shared (subnational) border,19.5184,42.451
+2000,4232,Azerbaijan (Gadabay [ADM2]),Centroid of ADM2,45.6643,40.5603
+2000,4243,Palau,Palau,134.583,7.51498
+2000,4253,"Kisangani, DRC","Kisangani, DRC",25.2008,0.51853
+2000,4257,Guinea-Liberia Border,Midpoint of shared (national) border,-9.40761,7.50678
+2000,4261,Gulf of Venezuela,Gulf of Venezuela,-70.9071,11.339
+2000,4262,"Tres Bocas, Colombia","Tres Bocas, Colombia",-72.6658,8.6253
+2000,4275,Kuwait,Centroid of ADM0,47.5909,29.3408
+2000,4295,Yugoslavia (Kosovo [> ADM1] and Montenegro [> ADM1]) Border,Midpoint of shared (subnational) border,20.039,42.7632
+2000,4298,"Zelenika, Montenegro","Zelenika, Montenegro",18.579,42.4541
+2000,4312,Lete Island,Lete Island,3.16667,12.1333
+2000,4320,"Datca, Turkey","Datca, Turkey",27.6858,36.7262
+2000,4324,Iraq (Duhok [ADM1]),Centroid of ADM1,43.1558,37.0538
+2000,4343,Bosnia-Serbia and Montenegro Border,Midpoint of shared (national) border,19.5079,43.7075
+2001,4235,"Murovdag, Geranboi District, ARM-AZE border",Murovdag,46.3167,40.2667
+2001,4236,Armenia-Azerbaijan Border,Midpoint of shared (national) border,45.7991,40.0218
+2001,4238,Norway Territorial Waters,Northernmost point along territorial waters,25.6758,71.3855
+2001,4239,Japan (Hokkaido [ADM1]),Centroid of ADM1,142.552,43.3857
+2001,4240,Belarus (Vitebsk [ADM1])-Lithuania Border,Midpoint of shared (subnational) border,26.8265,55.3147
+2001,4242,Georgia-Russia Border,Midpoint of shared (national) border,43.549,42.8639
+2001,4259,Honduras-Nicaragua Border,Midpoint of shared (national) border,-85.4934,14.082
+2001,4263,Caribbean Sea,Caribbean Sea,-74.9676,14.5401
+2001,4266,Amami-o-Shima Island,Amami-o-Shima Island,129.362,28.2678
+2001,4277,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+2001,4278,Taiwan Strait,Taiwan Strait,119.698,24.6581
+2001,4279,Spratly Islands,Spratly Islands,111.917,8.63333
+2001,4280,China (Hainan [ADM1]),Centroid of ADM1,109.746,19.1955
+2001,4281,NA,Hsinshe,120.983,24.85
+2001,4282,Korea Strait,Korea Strait,129.797,34.5994
+2001,4283,Afghanistan,Centroid of ADM0,66.0265,33.8388
+2001,4284,"Kabo, Central Africa Republic","Kabo, Central Africa Republic",18.6265,7.69493
+2001,4290,"Baku, Azerbaijan","Baku, Azerbaijan",49.8671,40.4093
+2001,4296,"Christmas Island, Australia","Christmas Island, Australia",105.69,-10.4475
+2001,4300,"Kambia, Sierra Leone","Kambia, Sierra Leone",-12.9177,9.12617
+2001,4301,"Pujehun, Pujehun, Sierra Leone","Pujehun, Pujehun, Sierra Leone",-11.7211,7.3563
+2001,4303,"Solwezi, Zambia","Solwezi, Zambia",26.384,-12.1669
+2001,4305,Sudan-Uganda Border,Midpoint of shared (national) border,32.314,3.68445
+2001,4306,"Garoua-Boulai, Cameroon","Garoua-Boulai, Cameroon",14.548,5.89014
+2001,4310,Rwanda (Nyagatare [ADM2])-Uganda Border,Midpoint of shared (subnational) border,30.2934,-1.1808
+2001,4313,Bangladesh (Feni [ADM2] to Satkhira [ADM2])-India Border,Midpoint of shared (subnational) border,89.0963,26.3642
+2001,4314,Mae Sai Border Checkpoint,Mae Sai Border Checkpoint,99.8805,20.4444
+2001,4317,Caspian Sea,Caspian Sea,50.6689,41.935
+2001,4325,Iraq (Northern NFZ [> ADM1]),Centroid of Northern NFZ,43.376,36.5531
+2002,4345,Somalia (Puntland [> ADM1]),Centroid of > ADM1,48.5665,8.903
+2002,4346,Kenya-Somalia Border,Midpoint of shared (national) border,40.9886,1.22132
+2002,4347,"Muyenyi, Kindu (ADM1), DRC",Centroid of ADM0,23.655,-2.87624
+2002,4348,Liberia-Sierra Leone Border,Midpoint of shared (national) border,-10.7514,7.66489
+2002,4349,Eritrea-Sudan Border,Midpoint of shared (national) border,36.9388,16.677
+2002,4350,Kenya (Amanguriat [~ADM2])-Uganda Border,"Amanguriat, Kenya",35.0042,2.27861
+2002,4351,Gambia-Senegal Border,Midpoint of shared (national) border,-13.8697,13.3224
+2002,4352,Ceuta (Spanish Island claimed by Morocco),"Ceuta, Spain",-5.32135,35.8894
+2002,4353,Burundi-Tanzania Border,Midpoint of shared (national) border,30.5862,-3.46342
+2002,4354,Zimbabwe,"Harare, Zimbabwe",31.0335,-17.8252
+2002,4355,Eritrea (Shambeko [ADM2])-Ethiopia Border,Midpoint of shared (subnational) border,38.0192,14.762
+2002,4356,DRC (Kivu [> ADM1])-Rwanda Border,Midpoint of shared (subnational) border,29.1739,-2.09996
+2002,4357,Angola (Cabinda [ADM1])-DRC Border,Midpoint of shared (subnational) border,12.4993,-5.12333
+2002,4358,Ivory Coast-Liberia Border,Midpoint of shared (national) border,-7.80414,6.12613
+2002,4359,"Zombo (Airport), DRC",Centroid of ADM0,23.655,-2.87624
+2002,4409,Azerbaijan-Iran Border (Territorial Waters),Midpoint of shared (territorial water) border,49.009,38.4472
+2002,4410,Cyprus Border Violation (Airspace),Location of Cyprus airspace nearest Turkey,33.4362,35.1538
+2002,4411,Georgia-Russia Border and Azerbaijan-Russia Border,"Intersection of Georgia, Russia, Azerbaijain Border",46.4518,41.8971
+2002,4412,Albania-Macedonia Border,Midpoint of shared (national) border,20.5151,41.2606
+2002,4413,Croatian-Slovenian Border (Territorial Waters),Midpoint of shared (territorial water) border,13.5404,45.5171
+2002,4414,Azerbaijan (Nagorno-Karabakh [> ADM1]),Centroid of > ADM1,46.7669,39.9003
+2002,4415,Air corridor between Cyprus and Greece,Midpoint between Cyprus and Greece,30.254,35.755
+2002,4444,Taiwan Territorial Waters,Taiwan territorial waters nearest to China,119.966,24.4155
+2002,4445,"Shenyang, China","Shenyang, China",123.431,41.8057
+2002,4446,China-Vietnam Border (Territorial Waters),Midpoint of shared (territorial water) border,108.096,21.4494
+2002,4447,"Beijing, China","Beijing, China",116.407,39.9042
+2002,4448,"Luzon Islands, South China Sea","Luzon, Philippines",121.263,16.5662
+2002,4449,Japan-North Korea Border (Territorial Waters),Midpoint of shortest distance between territorial waters,128.909,36.7694
+2002,4450,China (EEZ)-International Waters Border,Midpoint of shared (EEZ) border (multiple neighbors),118.606,23.5367
+2002,4451,Yemen Territorial Waters,Point along territorial waters boundary nearest centroid of noncontiguous territorial waters,47.9864,13.815
+2002,4494,Argentina Territorial Waters,Centroid of territorial waters,-62.5692,-41.0919
+2002,4509,Gulf of Aqaba,Gulf of Aqaba,28.6929,34.7299
+2002,4510,Iran-Iraq Border,Midpoint of shared (national) border,45.6418,33.7638
+2002,4552,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+2002,4553,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+2002,4554,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+2002,4555,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+2003,4360,Sudan,Centroid of ADM0,30.05,13.8315
+2003,4361,Algeria-Mali Border (Airspace),Midpoint of shared (national) border,0.162919,21.7249
+2003,4362,"Fawlina, Eritrea",Centroid of DMZ,39.5325,14.2285
+2003,4363,"Anan, Kenya",Midpoint of shared (national) border,39.0232,3.52626
+2003,4364,Mauritania-Mali border,Midpoint of shared (national) border,-5.64396,16.8928
+2003,4416,"Tskhinval, South Ossetia, Georgia","Tskhinval, South Ossetia, Georgia",42.2215,43.9644
+2003,4417,Baltic Sea,Baltic Sea,19.8633,58.488
+2003,4418,Azerbaijan-Iran Border (Airspace),Midpoint of shared (national) border,47.5895,39.5397
+2003,4419,Moldova-Ukraine Border (Dniester River),DGES-2,27.5702,48.4869
+2003,4420,Georgia-Russia Border,Midpoint of shared (national) border,43.549,42.8639
+2003,4452,Indonesia-Papua New Guinea Border,Midpoint of shared (national) border,141.006,-5.95494
+2003,4453,Indonesia-Philippines Border (Territorial Waters),Midpoint of shortest distance between territorial waters,125.634,5.18226
+2003,4454,East China Sea,East China Sea,125.915,30.3953
+2003,4455,Yellow Sea,Yellow Sea,123.796,35.4943
+2003,4456,Japan-North Korea Border (Territorial Waters),Midpoint of shortest distance between territorial waters,128.909,36.7694
+2003,4457,Senkaku (Diaoyu) Islands,Senkaku Islands,123.583,25.8333
+2003,4458,China-India (Arunachal Pradesh [ADM1]) Border,Midpoint of shared (subnational) border,95.1091,29.1286
+2003,4459,Senegal Territorial Waters,Point along territorial waters boundary nearest centroid of noncontiguous territorial waters,-17.2138,14.3241
+2003,4460,Java (Indonesian Island),"Java Island, Indonesia",110.712,-7.61453
+2003,4461,"Bashi Channel, Taiwan","Bashi Channel, Taiwan",121.034,21.651
+2003,4462,"Matzu Islands, Taiwan","Matzu Islands, Taiwan",119.931,26.1499
+2003,4463,China-North Korea Border,Midpoint of shared (national) border,127.961,41.4349
+2003,4464,China-Vietnam Border (Territorial Waters),Midpoint of shared (territorial water) border,108.096,21.4494
+2003,4495,Colombia-Venezuela Border,Midpoint of shared (national) border,-69.9777,6.80034
+2003,4496,Brazil-Peru Border,Midpoint of shared (national) border,-73.5635,-8.22677
+2003,4511,Israel-Syria Border,Midpoint of shared (national) border,35.8546,33.0388
+2003,4512,Iran-Iraq Border (Airspace),Midpoint of shared (national) border,45.6418,33.7638
+2003,4513,Israel,"Jerusalem, Israel",35.2137,31.7683
+2003,4514,Iran-Iraq Border,Midpoint of shared (national) border,45.6418,33.7638
+2003,4515,Gaza Strip-Israel Border,Midpoint of shared (national) border,34.4123,31.4243
+2003,4516,Iraq (Kurdistan [> ADM1]),Centroid of > ADM1,44.5254,36.1063
+2003,4517,"Damascus, Syria","Damascus, Syria",36.2765,33.5138
+2003,4556,"Pedra Blanca Islet, Singapore","Pedra Blanca Islet, Singapore",104.408,1.33028
+2003,4557,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+2003,4558,Myanmar-Thailand Border (Territorial Waters),Midpoint of shared (territorial water) border,97.9572,9.52745
+2004,4365,Burundi (Cibitoke [ADM1])-Rwanda Border,Midpoint of shared (subnational) border,29.225,-2.62768
+2004,4366,DRC (Kivu [> ADM1]),Centroid of > ADM1,27.4229,-2.52693
+2004,4367,Chad-Sudan Border,Midpoint of shared (national) border,22.4098,14.5099
+2004,4368,DRC-Zambia Border,Midpoint of shared (national) border,29.8027,-13.2745
+2004,4369,Ethiopia-Kenya Border,Midpoint of shared (national) border,39.0232,3.52626
+2004,4370,Eritrea-Sudan Border,Midpoint of shared (national) border,36.9388,16.677
+2004,4371,Ivory Coast,Centroid of ADM0,-5.55562,7.63153
+2004,4372,Rwanda-Uganda Border,Midpoint of shared (national) border,30.0537,-1.40806
+2004,4421,Tajikistan-Uzbekistan Border,Midpoint of shared (national) border,68.8798,39.9247
+2004,4422,Georgia,Centroid of ADM0,43.5174,42.1763
+2004,4423,Greece-Turkey Border (Territorial Waters),Midpoint of shared (territorial water) border,26.7665,37.9343
+2004,4465,Korean Demilitarized Zone,Centroid of DMZ,127.474,38.2539
+2004,4466,China-North Korea Border,Midpoint of shared (national) border,127.961,41.4349
+2004,4467,China-Japan Border (Territorial Waters),Midpoint of shortest distance between territorial waters,121.671,25.3028
+2004,4497,Dominican Republic-Haiti Border,Midpoint of shared (national) border,-71.7183,18.7414
+2004,4518,Iraq-Syria Border,Midpoint of shared (national) border,41.2236,34.8775
+2004,4519,"Tikrit, Iraq","Tikrit, Iraq",43.6567,34.6187
+2004,4520,Syria-Turkey Border,Midpoint of shared (national) border,38.6869,36.7241
+2004,4521,Iran-UAE Border (Territorial Waters),Midpoint of shortest distance between territorial waters,54.3591,25.5773
+2004,4522,Iran-Qatar Border (Territorial Waters),Midpoint of shortest distance between territorial waters,52.7789,26.2577
+2004,4523,Iran-Iraq Border,Midpoint of shared (national) border,45.6418,33.7638
+2004,4524,Iran-Iraq Border (Airspace),Midpoint of shared (national) border,45.6418,33.7638
+2004,4525,Iran (Kurdistan [> ADM1])-Turkey Border (Airspace),Midpoint of shared (subnational) border,44.3329,38.5771
+2004,4526,Egypt-Israel Border,Midpoint of shared (national) border,34.4711,30.7262
+2004,4549,Hans Island (Arctic Ocean),Hans Island,-66.4596,80.8269
+2004,4559,Malaysia-Thailand Border,Midpoint of shared (national) border,101.096,5.9239
+2004,4560,Indonesia-Thailand Border (Territorial Waters),Midpoint of shortest distance between territorial waters,98.5017,5.73217
+2004,4561,India Territorial Waters,Point along territorial waters boundary nearest centroid of noncontiguous territorial waters,74.4493,13.342
+2004,4562,Myanmar Territorial Waters,Point along territorial waters boundary nearest centroid of noncontiguous territorial waters,95.2273,15.1151
+2004,4563,India-Nepal Border,Midpoint of shared (national) border,83.9121,27.4494
+2004,4564,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+2004,4565,India-Myanmar Border,Midpoint of shared (national) border,94.5781,25.2131
+2005,4373,Kenya-Somalia Border,Midpoint of shared (national) border,40.9886,1.22132
+2005,4374,"Moyale, Kenya","Moyale, Kenya",39.0546,3.52109
+2005,4375,Eritrea-Ethiopia Border,Midpoint of shared (national) border,39.315,14.4783
+2005,4376,Ethiopia-Somalia (Mudug [ADM1]) Border,Midpoint of shared (subnational) border,47.0957,7.10921
+2005,4377,"Luiza, DRC","Luiza, DRC",22.3993,-7.19913
+2005,4378,Ghana-Togo Border,Midpoint of shared (national) border,0.393728,8.72793
+2005,4379,Eritrea Territorial Waters,Centroid of territorial waters,40.5091,15.5436
+2005,4380,Bakassi Peninsula (Cameroon-Nigeria Border),Midpoint of shared (territorial water) border,8.41024,4.53735
+2005,4381,DRC (Kivu [> ADM1]),Centroid of > ADM1,27.4229,-2.52693
+2005,4382,Ivory Coast,Centroid of ADM0,-5.55562,7.63153
+2005,4383,Eritrea-Ethiopia Demilitarized Zone,Centroid of DMZ,39.5325,14.2285
+2005,4384,Chad-Sudan Border (Airspace),Midpoint of shared (national) border,22.4098,14.5099
+2005,4424,Georgia-Russia Border,Midpoint of shared (national) border,43.549,42.8639
+2005,4425,"Feodosiya, Ukraine","Feodosiya, Ukraine",35.3824,45.0319
+2005,4426,Kyrgystan-Tajikistan Border,Midpoint of shared (national) border,70.3941,39.5895
+2005,4427,Tajikistan-Uzbekistan Border,Midpoint of shared (national) border,68.8798,39.9247
+2005,4428,"Qorasuv, Uzbekistan","Qorasuv, Uzbekistan",72.8811,40.7262
+2005,4429,Norway-Russia Border (Territorial Waters),Midpoint of shared (territorial water) border,31.1108,69.9816
+2005,4430,Kyrgystan (Palman region)-Uzbekistan Border,Midpoint of shared (national) border,71.9143,41.1896
+2005,4468,Tokdo Islands,Tokdo Islands,131.868,37.2427
+2005,4469,Taiwan Territorial Waters,Taiwan territorial waters nearest to China,119.966,24.4155
+2005,4470,Senkaku (Diaoyu) Islands,Senkaku Islands,123.583,25.8333
+2005,4471,Indonesia Territorial Waters,Point along territorial waters boundary nearest centroid of noncontiguous territorial waters,120.221,1.23538
+2005,4472,"Chunxiao gas fields, East China Sea",Midpoint of shared (EEZ) border (in East China Sea),125.702,29.2457
+2005,4473,Korean Demilitarized Zone,Centroid of DMZ,127.474,38.2539
+2005,4474,Bhutan-China Border,Midpoint of shared (national) border,90.2879,28.2749
+2005,4498,Colombia-Ecuador Border,Midpoint of shared (national) border,-77.1538,0.343266
+2005,4527,Iraq-Syria Border,Midpoint of shared (national) border,41.2236,34.8775
+2005,4528,Iraq (Kurdistan [> ADM1])-Turkey Border,Midpoint of shared (subnational) border,44.2385,37.278
+2005,4529,Iraq (Kurdistan [> ADM1]),Centroid of > ADM1,44.5254,36.1063
+2005,4530,Saudi Arabia-Yemen Border,Midpoint of shared (national) border,47.1539,16.95
+2005,4550,Canada (EEZ)-International Waters Border,Location of Canada EEZ nearest Portugal,-47.9025,46.6607
+2005,4551,Hans Island (Arctic Ocean),Hans Island,-66.4596,80.8269
+2005,4566,Kashmir (Line of Control),Midpoint of Line of Control,74.4843,34.7874
+2005,4567,Celebes Sea,Celebes Sea,122.3,3.61211
+2005,4568,Pakistan (Waziristan [> ADM1]),Centroid of > ADM1,69.9079,32.6253
+2005,4569,Cambodia (Preah Vihear [ADM1])-Thailand Border,Midpoint of shared (subnational) border,104.902,14.402
+2005,4570,Malaysia-Thailand Border,Midpoint of shared (national) border,101.096,5.9239
+2005,4571,Pakistan (Waziristan [> ADM1]),Centroid of > ADM1,69.9079,32.6253
+2006,4385,"Somare, Kenya","Somare, Kenya",39.0331,3.52712
+2006,4386,DRC-Uganda Border,Midpoint of shared (national) border,30.5205,1.28653
+2006,4387,Somalia (Gedo [ADM1]),Centroid of ADM1,41.9751,2.88744
+2006,4388,Burundi (Kayanza [ADM1])-Rwanda Border,Midpoint of shared (subnational) border,29.5432,-2.81755
+2006,4389,Eritrea (DMZ)-Ethiopia Border,Midpoint of shared (subnational) border,39.6032,14.7804
+2006,4390,Sudan (Darfur [> ADM1]),Centroid of > ADM1,25.8995,13.9876
+2006,4391,Kenyan-Somali (Gedo [ADM1]) Border,Midpoint of shared (subnational) border,42.3331,4.16455
+2006,4431,Greece-Turkey Border (Territorial Waters),Midpoint of shared (territorial water) border,26.7665,37.9343
+2006,4432,Kyrgystan-Uzbekistan Border,Midpoint of shared (national) border,71.9143,41.1896
+2006,4433,Tajikistan-Uzbekistan Border,Midpoint of shared (national) border,68.8798,39.9247
+2006,4434,Armenia-Turkey Border,Midpoint of shared (national) border,43.6501,40.1234
+2006,4475,Japan-Russia Border (Airspace),Midpoint of shared (airspace) border,142.007,45.7095
+2006,4476,Tokdo Islands,Tokdo Islands,131.868,37.2427
+2006,4477,Kaigara Islands,Kuril Islands,150.971,47.1544
+2006,4499,Colombia-Ecuador Border (Airspace),Midpoint of shared (national) border,-77.1538,0.343266
+2006,4500,Colombia-Venezuela Border,Midpoint of shared (national) border,-69.9777,6.80034
+2006,4531,Egypt-Israel Border,Midpoint of shared (national) border,34.4711,30.7262
+2006,4532,"Latakia, Syria","Latakia, Syria",35.7953,35.5407
+2006,4533,Lebanon (Southern [> ADM1]),Centroid of > ADM1,35.6425,33.6156
+2006,4534,Iran-Iraq Border,Midpoint of shared (national) border,45.6418,33.7638
+2006,4572,Malaysia-Thailand Border,Midpoint of shared (national) border,101.096,5.9239
+2006,4573,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+2006,4574,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+2006,4575,Pakistan (Waziristan [> ADM1]),Centroid of > ADM1,69.9079,32.6253
+2006,4576,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+2007,4392,DRC-Uganda Border (Lake Albert),Lake Albert,1.77179,30.9876
+2007,4393,Burundi-DRC Border (Lake Tanganyika),Lake Tanganyika,29.5108,-6.25557
+2007,4394,Eritrea-Ethiopia Border,Midpoint of shared (national) border,39.315,14.4783
+2007,4395,Sudan (Darfur [> ADM1]),Centroid of > ADM1,25.8995,13.9876
+2007,4435,Greece-Turkey Border (Territorial Waters),Midpoint of shared (territorial water) border,26.7665,37.9343
+2007,4436,South Ossetia + Abkhazia + Georgia,Centroid of ADM0,43.5193,42.177
+2007,4437,Finland-Russia Border (Airspace),Midpoint of shared (national) border,30.12,64.7844
+2007,4478,China-Japan Border (Territorial Waters),Midpoint of shortest distance between territorial waters,121.671,25.3028
+2007,4479,Taiwan Territorial Waters,Taiwan territorial waters nearest to China,119.966,24.4155
+2007,4501,Colombia-Ecuador Border,Midpoint of shared (national) border,-77.1538,0.343266
+2007,4535,Iraq,Centroid of ADM0,43.7721,33.048
+2007,4536,Iraq (Kurdistan [> ADM1]),Centroid of > ADM1,44.5254,36.1063
+2007,4537,Iraq (Kurdistan [> ADM1]),Centroid of > ADM1,44.5254,36.1063
+2007,4538,"Baghdad, Iraq","Baghdad, Iraq",44.3615,33.3128
+2007,4539,Syria,Centroid of ADM0,38.5212,35.0248
+2007,4577,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+2007,4578,Afghanistan (Nimroz [ADM1])-Iran Border,Midpoint of shared (subnational) border,61.5631,30.586
+2007,4579,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+2007,4580,China-India Border,Point along shared noncontiguous border nearest midpoint of contiguous border including neighbors,81.0301,30.2133
+2008,4396,Ethiopia-Somalia Border (Shebelle River),"Intersection of Shebelle River, Ethiopia, Somalia",4.95667,45.0143
+2008,4397,"Doblai, Somalia","Diblaay, Somalia",44.4611,1.52139
+2008,4398,Djibouti-Eritrea Border,Midpoint of shared (national) border,42.7872,12.4188
+2008,4399,Ethiopia (Tach Armachecho [< ADM2]),Centroid of Tach Armacho,37.0736,13.0338
+2008,4400,Kenyan-Somali (Gedo [ADM1]) Border,Midpoint of shared (subnational) border,42.3331,4.16455
+2008,4401,"Mogadishu, Somalia","Mogadishu, Somalia",2.04693,45.3182
+2008,4438,"Sevastapol, Ukraine","Sevastapol, Ukraine",33.5254,44.6166
+2008,4439,Bulgaria-Turkey Border (Territorial Waters),Midpoint of shared (territorial water) border,26.1656,41.9813
+2008,4440,Spitsbergen Islands (Norway),Spitsbergen Islands,13.4839,78.9014
+2008,4480,"Izu Islands, Japan","Izu Islands, Japan",139.772,33.1714
+2008,4481,Northern Limit Line (in Yellow Sea; Maritime DMZ Border),Midpoint of Northern Limit Line,125.143,37.1824
+2008,4482,Senkaku (Diaoyu) Islands,Senkaku Islands,123.583,25.8333
+2008,4502,Colombia-Ecuador Border,Midpoint of shared (national) border,-77.1538,0.343266
+2008,4503,Colombia-Ecuador Border,Midpoint of shared (national) border,-77.1538,0.343266
+2008,4540,Iraq-Syria Border,Midpoint of shared (national) border,41.2236,34.8775
+2008,4541,Iran-Iraq Border,Midpoint of shared (national) border,45.6418,33.7638
+2008,4581,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+2008,4582,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+2008,4583,Afghanistan-Iran Border,Midpoint of shared (national) border,60.7024,32.6938
+2008,4584,Afghanistan-Pakistan Border,Midpoint of shared (national) border,69.227,31.8695
+2008,4585,India (Jammu and Kashmir [ADM1])-Pakistan Border,Midpoint of shared (subnational) border,73.9456,34.5718
+2008,4586,Straits of Malacca,Straits of Malacca,99.5451,4.66259
+2008,4587,India-Sri Lanka Border (Territorial Waters),Midpoint of shared (territorial water) border,79.5333,9.20362
+2008,4588,Cambodia (Preah Vihear [ADM1]),Centroid of ADM1,105.008,13.798
+2008,4589,Indonesia-Papua New Guinea Border,Midpoint of shared (national) border,141.006,-5.95494
+2008,4590,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+2008,4591,Bangladesh-Myanmar Border,Midpoint of shared (national) border,92.5799,21.2779
+2008,4592,Bangladesh-India Border (Territorial Waters),Midpoint of shared (territorial water) border,89.1752,21.5026
+2009,4402,DRC (Bas Congo [ADM1]),Centroid of ADM1,14.3176,-5.29077
+2009,4403,Sudan (Darfur [> ADM1]),Centroid of > ADM1,25.8995,13.9876
+2009,4404,Kenyan-Somali Border,Midpoint of shared (national) border,40.9886,1.22132
+2009,4441,Moldova-Ukraine Border,Midpoint of shared (national) border,29.5903,47.0142
+2009,4483,Northern Limit Line (in Yellow Sea; Maritime DMZ Border),Midpoint of Northern Limit Line,125.143,37.1824
+2009,4484,Kuril Islands,Kuril Islands,150.971,47.1544
+2009,4485,Russia Territorial Waters,Point along Russia territorial waters nearest to China territorial waters,130.698,42.2923
+2009,4486,South China Sea,South China Sea,114.405,15.4881
+2009,4487,China-India Border,Point along shared noncontiguous border nearest midpoint of contiguous border including neighbors,81.0301,30.2133
+2009,4504,Colombia-Ecuador Border,Midpoint of shared (national) border,-77.1538,0.343266
+2009,4505,Colombia-Venezuela Border,Midpoint of shared (national) border,-69.9777,6.80034
+2009,4542,Gaza Strip-Israel Border,Midpoint of shared (national) border,34.4123,31.4243
+2009,4543,Iran-Iraq Border (Airspace),Midpoint of shared (national) border,45.6418,33.7638
+2009,4544,Egypt-Israel Border,Midpoint of shared (national) border,34.4711,30.7262
+2009,4545,Lebanon (Southern [> ADM1]),Centroid of > ADM1,35.6425,33.6156
+2009,4546,"Maysan (ADM1), Iraq",Centroid of ADM1,47.0356,31.9076
+2009,4593,Bangladesh-India Border,Midpoint of shared (national) border,89.8472,25.9152
+2009,4594,Afghanistan (Nimroz [ADM1])-Iran Border,Midpoint of shared (subnational) border,61.5631,30.586
+2009,4595,Myanmar-Thailand Border,Midpoint of shared (national) border,98.7793,16.3433
+2009,4596,Bangladesh-Myanmar Border,Midpoint of shared (national) border,92.5799,21.2779
+2009,4597,Iran-Pakistan Border,Midpoint of shared (national) border,62.8547,27.2283
+2010,4405,"Zalambesa, Ethiopia","Zalambesa, Ethiopia",39.3827,14.52
+2010,4406,Rwanda-Uganda (Kabale [ADM1]) Border,Midpoint of shared (subnational) border,30.0629,-1.39437
+2010,4407,"al-Hoedieda, Yemen","al-Hodeida, Yemen",42.9709,14.7909
+2010,4408,Kenya (Amanguriat [~ADM2]),"Amanguriat, Kenya",35.0042,2.27861
+2010,4442,Kyrgystan-Uzbekistan Border,Midpoint of shared (national) border,71.9143,41.1896
+2010,4443,Ikario Pelagos,Ikario Pelagos,26.3249,37.8039
+2010,4488,Spratly Islands,Spratly Islands,111.917,8.63333
+2010,4489,"Okinawa, Japan","Okinawa Island, Japan",127.945,26.5013
+2010,4490,China-North Korea Border,Midpoint of shared (national) border,127.961,41.4349
+2010,4491,Senkaku Islands,Senkaku Islands,123.583,25.8333
+2010,4492,Senkaku Islands,Senkaku Islands,123.583,25.8333
+2010,4493,China-South Korea Border (Territorial Waters),Midpoint of shortest distance between territorial waters,123.918,35.5052
+2010,4506,Venezuela (Coastal Airspace),Point along territorial waters boundary nearest centroid of noncontiguous territorial waters,-66.0061,11.6028
+2010,4507,Colombia-Venezuela Border (Airspace),Midpoint of shared (national) border,-69.9777,6.80034
+2010,4508,Costa Rica-Nicaragua Border (Calero Island),Calero Island,-83.6455,10.7913
+2010,4547,Iraq (Kurdistan [> ADM1]),Centroid of > ADM1,44.5254,36.1063
+2010,4548,Persian Gulf,Persian Gulf,51.6834,26.7505
+2010,4598,Afghanistan-Pakistan Border (Airspace),Midpoint of shared (national) border,69.227,31.8695
+2010,4599,Afghanistan-Iran Border,Midpoint of shared (national) border,60.7024,32.6938

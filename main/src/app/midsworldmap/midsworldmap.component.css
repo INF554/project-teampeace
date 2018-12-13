@@ -1,0 +1,147 @@
+path {
+    stroke-width: 1px;
+    stroke-opacity: 0.7;
+}
+
+text {
+    /* fill: #777; */
+    font: 5px sans-serif;
+    text-anchor: middle;
+}
+
+.card{
+    width: 65rem;
+}
+
+/* 
+#worldChor{
+    background-color: black;
+} */
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: Consolas;
+    font-size: 10px;
+}
+
+
+/* .bar:hover {
+    fill: rgb(196, 50, 50);
+} */
+
+/* .arc:hover {
+    fill:rgb(214, 214, 29);
+} */
+
+/* path.pathLine:hover {
+    fill: #4d4dc7;
+} */
+
+
+
+/* path.bub1:hover{
+    fill:green;
+    stroke:black;
+    stroke-dasharray:5,5;
+    stroke-width: 10px;
+} */
+
+/* circle#dot1:hover{
+    fill:green;
+}  */
+
+
+
+
+
+
+#graph {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+
+
+
+
+.bar {
+    fill: rgb(2, 82, 109);
+}
+
+text.xlabel {
+    font-family: Courier;
+    font-size: 12px;
+    font-weight: bold;
+    text-anchor: middle;
+}
+
+text.ylabel {
+    font-family: Courier;
+    font-size: 24px;
+    text-anchor: middle;
+    alignment-baseline: central;
+}
+
+text.name {
+    font-family: Courier;
+    font-weight: bold;
+    font-size: 14px;
+    fill: red;
+    text-anchor: middle;
+    alignment-baseline: central;
+}
+
+
+
+
+.card{
+    width: 65rem;
+}
+
+
+
+.und-col{
+    min-height: 600px !important;
+}
+                    
+#tooltip-mid {
+    position: absolute;
+    width: 120px;
+    /* height: auto; */
+    height: 10;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+}
+
+#tooltip-mid.hidden {
+    display: none;
+}
+
+
+
+/* .card-bub1{
+    width: 18rem;
+} */
+
+
+
+
+
+
+
+
+

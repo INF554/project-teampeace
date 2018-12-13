@@ -1,0 +1,120 @@
+{
+    "name": "Entireperiod",
+    "children": [
+        {
+            "name": "BeforeWWOne",
+            "children": [
+                {
+                    "name": "Periods",
+                    "children": [
+                        {
+                            "name": "1870-1883",
+                            "totalcountCouWars": 30,
+                            "totalSumTrade":31514,
+                            "war":"Franco Prussian War",
+                            "aver":2.15,
+                            "content":"From 1870 to 1883, about 2 countries per year were at wars. The major war in this period is Franco Prussian War."
+
+                        },
+                        {
+                            "name": "1884-1896",
+                            "totalcountCouWars": 10,
+                            "totalSumTrade":31514,
+                            "war":"First Sino Japanese War",
+                            "aver":0.77,
+                            "content":"From 1884 to 1896, about 1 countries per year were at wars. The major war in this period is First Sino Japanese War."
+                        },
+                        {
+                            "name": "1897-1909",
+                            "totalcountCouWars": 22,
+                            "totalSumTrade":52250,
+                            "war":"Boxer Rebellion",
+                            "aver":1.7,
+                            "content":"From 1897 to 1909, about 2 countries per year were at wars. The major war in this period is Boxer Rebellion."
+
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BetweenWWoneWWtwo",
+            "children": [
+                {
+                    "name": "Periods",
+                    "children": [
+                        {
+                            "name": "1910-1922",
+                            "totalcountCouWars": 100,                          
+                            "totalSumTrade":71235,
+                            "war":"World War I ",
+                            "aver":7.7,
+                            "content":"From 1910 to 1922, about 9 countries per year were at wars. The major war in this period is World War 1."
+
+                        },
+                        {
+                            "name": "1923-1935",
+                            "totalcountCouWars": 20,
+                            "totalSumTrade":131540,
+                            "war":" Second Sino Japanese War",
+                            "aver":1.5,
+                            "content":"From 1923 to 1935, about 1.5 countries per year were at wars. The major war in this period is Second Sino Japanese War."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PostWWtwo",
+            "children": [
+                {
+                    "name": "Periods",
+                    "children": [
+                        {
+                            "name": "1936-1948",
+                            "totalcountCouWars": 125,
+                            "totalSumTrade":86804,
+                            "war":"World War II",
+                            "aver":9.6,
+                            "content":"Durning 1936 to 1948, about 10 countries per year were at wars. The major war in this period is World War 2."
+                        },
+                        {
+                            "name": "1949-1961",
+                            "totalcountCouWars": 77,
+                            "totalSumTrade":492395,
+                            "war":"Korean War",
+                            "aver":6,
+                            "content":"Durning 1936 to 1948, about 6 countries per year were at wars. The major war in this period is Korean War."
+
+
+                        },
+                        {
+                            "name": "1962-1974",
+                            "totalcountCouWars": 92,
+                            "totalSumTrade":1556635,
+                            "war":"Vietnam War",
+                            "aver":7,
+                            "content":"Durning 1962 to 1974, about 7 countries per year were at wars. The major war in this period is Vietnam War."
+                        },
+                        {
+                            "name": "1975-1987",
+                            "totalcountCouWars": 54,
+                            "totalSumTrade":8364698,
+                            "war":"Iran Iraq War",
+                            "aver":4,
+                            "content":"Durning 1975 to 1987, about 4 countries per year were at wars. The major war in this period is Iran Iraq War."
+                        },
+                        {
+                            "name": "1988-2003",
+                            "totalcountCouWars": 35,
+                            "totalSumTrade":35411121,
+                            "war":"Invasion of Iraq ",
+                            "aver":2.2,
+                            "content":"Durning 1988 to 2003, about 2 countries per year were at wars. The major war in this period is Iran Iraq War."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
