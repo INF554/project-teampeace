@@ -22,38 +22,38 @@ This project is about Militarized interstate disputes, wars, and trade. By givin
     By using the bootstrap example code, we made the main webpage.
 
 ## Bubble chart
-    By mouseovering each circle, we can check each information of each period with tooltips. 
+    By doing mouseover each circle, we can check each information of each period with tooltips. 
 ### ![alt text](01P.PNG)
 
 ## 0. Format your files and Load the JSON file.
 ### Bubble chart(The file named, BothWarAndTradeInter10ForBubble.json)
-    To make json file for this bubble chart, we need the war data set and trade. There are 3 parts, which are BeforeWWone, BetweenWWoneWWtwo, and PostWWtwo. And in each part, there are records about wars, trade, and the name of major war. we upload the python file for processing data(554DataPreprocessing.py).
+    To make JSON file for this bubble chart, we need the war data set and trade. There are three parts, which are BeforeWWone, BetweenWWoneWWtwo, and PostWWtwo. And in each part, there are records about wars, trade, and the name of a major war. We upload the python file for processing data(554DataPreprocessing.py).
 #### ![alt text](05.PNG) 
 
 ## 1. Implementation of the Bubble chart.
 ### 1-1 Explanation about bubble-war-trade.html
-    For the bubble chart, we need to implement html code. The code is located in this bubble-cir-pack.component.html.
-    We can see the structure of each part such as where card and tooltips are located.
-    Based on this html code, we implement the bubble chart.
+    For the bubble chart, we need to implement HTML code. The code is located in this bubble-cir-pack.component.html.
+    We can see the structure of each part, such as where card and tooltips are located.
+    Based on this HTML code, we implement the bubble chart.
 ### 1-2 Explanation about bubble-war-trade.ts
 #### About bubble chart
-    We implement js code in this file. For implementing this code, the most important part is to format the json file well. We explain the code in ts file. We select the div with BubbleChar1Div.
+    We implement js code in this file. For implementing this code, the most important part is to format the JSON file well. We explain the code in the ts file. We select the div with BubbleChar1Div.
 #### ![alt text](10.PNG)   
     The root variable is made using d.value, which means expenditure. And it is sorted using the values.
 #### ![alt text](11.PNG)   
-    The circles have the class named cir1. we can check how the radius and color are set. 
+    The circles have the class named cir1. We can check how the radius and colour are set. 
 #### ![alt text](12.PNG)  
 
 #### About tooltip in the bubble chart.
-    When user mouseovers each pie, which is class cir1 in my code, the function on('mouseover') shows the tooltip. This photo shows how it works. The principle is not complicated.
-    The x,y position means where tooltip is located. So, by using the tooltip-bub1 (in the html code), if mouseover occurs, it shows the tooltip and if user mouseouts, the tooltip is hidden.
+    When the user mouseovers each pie, which is class cir1 in my code, the function on('mouseover') shows the tooltip. This photo shows how it works. The principle is not complicated.
+    The x,y position means where the tooltip is located. 
 #### ![alt text](13.PNG)  
 
 
 
 
 ## Pie chart
-    On the right side of the chart, there are generic informtion about data and how to use the pie chart. If we mouseover on each pie, we can check the color of the selected pie can be changed. And the card also changes, based on user's selection on the pies.
+    On the right side of the chart, there is information about data and how to use the pie chart. If we mouseover on each pie, we can check the colour of the selected pie can be changed. And the card also changes, based on user's selection on the pies.
 ### ![alt text](4-1.PNG)
 ### ![alt text](4-2.PNG)
 
@@ -61,18 +61,18 @@ This project is about Militarized interstate disputes, wars, and trade. By givin
 
 ## 0. Format your files and Load the JSON file.
 ### Pie chart(The file named, tradeImportanceAndWarsPoint1.json)
-    The structure of this json file is simple. The value represents the number of war between two countries. The country <0.1 and value 227  in file represent the 227 number of war whose trade dependency is smaller than 0.1. To make this json, we need war data set and trade dataset (dyad trade data set and nation trade data set). we upload the python file for processing data(554DataPreprocessing.py). 
+    The structure of this JSON file is simple. The value represents the number of war between the two countries. The country <0.1 and value 227 in the file represent the 227 number of war whose trade dependency is smaller than 0.1. To make this JSON, we need war data set and trade dataset (dyad trade data set and national trade data set). We upload the python file for processing data(554DataPreprocessing.py). 
    
 
 ## 1. Implementation the Pie chart.
 ### 1 Explanation about piechart.component.html
-    For pie chart, we need to implement html code. The code is located in piechart.component.html.
-    we can see the structure of each part such as where card and tooltips are located.
-    Based on this html code, we implement the pie chart.
+    For the pie chart, we need to implement the HTML code. The code is located in piechart.component.html.
+    We can see the structure of each part, such as where card and tooltips are located.
+    Based on this HTML code, we implement the pie chart.
 ## 2 Explanation about piechart.component.ts
 ### About pie chart
-    we implement js code in this file.   
-    margin convention is used. svg is appended with id PieChart1Div.
+    We implement js code in this file. 
+    Margin convention is used. SVG is appended with id PieChart1Div.
 <!-- #### ![alt text](22.PNG)   -->
 
 ```javascript
@@ -128,28 +128,27 @@ d3.json("tradeImportanceAndWarsPoint1.json").then(function (data: any) {
 ```
 
 <!-- #### ![alt text](24.PNG)     -->
-    This photo is about mouseover and mouseout.
-    The pies have each id and common class named pathLine. By using the id, we change the fill. And we deal with card. And the mouseout is same. So if user mousevovers, the color of each pie and card information are changed.
+    The pies have each id and a common class named pathLine. By using the id, we change the fill. And we deal with card. If user mouse-overs, the colour of each pie and card information are changed.
 
 
 
 ## Scatter Plot
-    By mouseovering each circle, and then we can check information of each year with tooltips. 
+    By doing mouseover each circle, and then we can check information of each year with tooltips. 
 ### ![alt text](25.PNG)
 
 ## 0. Format your files and Load the csvfile.
 ### Bubble chart(The file named, WarAndTrade_From1870.csv)
-    To make csv file , we need the war data set and trade. After processing them, we made the file, named WarAndTrade_From1870.csv. The file has information about year, the number of countries at wars, sum of trade amount. we upload the python file for processing data(554DataPreprocessing.py).
+    To make the CSV file, we need the war data set and trade. After processing them, we made the file, named WarAndTrade_From1870.csv. The file has information about the year, the number of countries at wars, the sum of the trade amount. We upload the python file for processing data(554DataPreprocessing.py).
 #### ![alt text](505.PNG) 
 
 ## 1. Implementation the scatter plot.
 ### 1-1 Explanation about scatter.component.html
-    For the scatter plot, we need to implement html code. The code is located in this scatter.component.html.
+    For the scatter plot, we need to implement HTML code. The code is located in this scatter.component.html.
     we can see the structure of each part such as where card and tooltips are located.
-    Based on this html code, we implement the scatter plot.
+    Based on this HTML code, we implement the scatter plot.
 ## 1-2 Explanation about scatter.component.html.ts
 ### About scatter plot
-    we implement js code in this file. For implementing this code, we made csv file. We explain the code in ts file. We select the div with scatterChart1Div.
+    We implement js code in this file. For implementing this code, we made the CSV file. We explain the code in the ts file. We select the div with scatterChart1Div.
 <!-- #### ![alt text](10.PNG)    -->
 
 
@@ -255,7 +254,7 @@ var svg = d3.select("#scatterChart1Div").append("svg")
 ```
 
 
-   When user mouseout circle, or rectangle, or year, its edge and tooltip disappear.
+   
 ```javascript
 
   d3.select('#tooltip-scatter1').classed('hidden', true);
@@ -270,32 +269,32 @@ var svg = d3.select("#scatterChart1Div").append("svg")
 
 
 ## Bar chart
-    By mouseovering each circle, we can check information of each period with tooltips. 
+    By doing mouseover each circle, we can check information of each period with tooltips.  
 ### ![alt text](01P.PNG)
 
 ## 0. Format your files and Load the JSON file.
 ### Bubble chart(The file named, BothWarAndTradeInter10ForBubble.json)
-    To make json file for this bubble chart, we need the war data set and trade. There are 3 parts, which are BeforeWWone, BetweenWWoneWWtwo, and PostWWtwo. And in each part, there are records about wars, trade, and the name of major war. we upload the python file for processing data(554DataPreprocessing.py).
+    To make JSON file for this bubble chart, we need the war data set and trade. There are three parts, which are BeforeWWone, BetweenWWoneWWtwo, and PostWWtwo. And in each part, there are records about wars, trade, and the name of a major war. We upload the python file for processing data(554DataPreprocessing.py).
 #### ![alt text](05.PNG) 
 
 ## 1. Implementation the Bubble chart.
 
 ### 1-1 Explanation about bubble-war-trade.html
-    For the bubble chart, we implement html code. The code is located in this bubble-cir-pack.component.html.
-    We can see the structure of each parts such as where card and tooltips are located.
-    Based on this html code, we implement the bubble chart.
+    For the bubble chart, we implement HTML code. The code is located in this bubble-cir-pack.component.html.
+    We can see the structure of each part, such as where card and tooltips are located.
+    Based on this HTML code, we implement the bubble chart.
 ### 1-2 Explanation about bubble-war-trade.ts
 #### About bubble chart
-    we implement js code in this file. For implementing this code, the most important part is to format the json file well. Let's me explain my code in ts file. we select the div with BubbleChar1Div.
+    We implement js code in this file. For implementing this code, the most important part is to format the JSON file well. Let's me explain my code in ts file. We select the div with BubbleChar1Div.
 #### ![alt text](10.PNG)   
     The root variable is made using d.value, which means expenditure. And it is sorted using the values.
 #### ![alt text](11.PNG)   
-    The circles have the class named cir1. we can check how the radius and color are set. 
+    The circles have the class named cir1. We can check how the radius and colour are set. 
 #### ![alt text](12.PNG)  
 
 #### About tooltip in the bubble chart.
-    When user mouseovers the each pie, which is class cir1 in my code, the function on('mouseover') shows the tooltip. This photo shows how it works. The principle is not complicated.
-    The x,y position means where tooltip is located. So, by using the tooltip-bub1 (in the html code), if mouseover occurs, it shows the tooltip and if user mouseouts, the tooltip is hidden.
+    When the user mouseovers each pie, which is class cir1 in my code, the function on('mouseover') shows the tooltip. This photo shows how it works. The principle is not complicated.
+    The x,y position means where the tooltip is located. 
 #### ![alt text](13.PNG)  
 
 
@@ -320,7 +319,7 @@ var svg = d3.select("#scatterChart1Div").append("svg")
 
 ## 0. Format your files and Load the JSON file.
 #### Data Processing
-    We need MIDs dataset, wars dataset, and trade dataset. The processed MIDs data shows how many MIDs have been occured in each year. The continent represents which area is the most disputed area. 1-7 represent Africa, Antarctica, Asia, Australia, Europe, North America,  and South America. The processed war data shows how many countries have been at wars in each year. The processsed trade data represents the sum of trade amount, how many trade relationships there were, how many contries took part in international trade, which countries they are. we upload the python file for processing data(554DataPreprocessing.py).
+    We need MIDs dataset, wars, dataset, and trade dataset. The processed MIDs data shows how many MIDs have been occurred in each year. The continent represents which area is the most disputed area. 1-7 represent Africa, Antarctica, Asia, Australia, Europe, North America, and South America. The processed war data shows how many countries have been at wars each year. The processed trade data represents the sum of the trade amount, how many trade relationships there were, how many countries took part in international trade, which countries they are. We upload the python file for processing data(554DataPreprocessing.py).
 
 
 
@@ -371,7 +370,7 @@ var svg = d3.select("#scatterChart1Div").append("svg")
 ```
 
 #### Draw world map
-    we use geoMercator function. By using the geojson file, we do projection. And then we draw the path using data join.
+    We use geoMercator function. By using the geojson file, we make a projection. And then we draw the path using data join.
     
 ```javascript
     var projection = d3.geoMercator().fitSize([width, height], worldmapPath);
@@ -400,7 +399,7 @@ var svg = d3.select("#scatterChart1Div").append("svg")
         .on('mouseover', function (this: any, d: any) {
 ```
 
-    This is about tooltip and responsive map. Tooltip works based on the mouse coordinate. And when user mouseover on the map, the gray color changes to steelblue color.
+    This is about a tooltip and responsive map. Tooltip works based on the mouse coordinate. And when user mouseover on the map, the grey colour changes to steel-blue colour.
 
 ```javascript
         .on('mouseover', function (this: any, d: any) {
@@ -435,7 +434,7 @@ var svg = d3.select("#scatterChart1Div").append("svg")
         })
 ```
 
-    When user mouseout, every responsive parts return to the initial state.
+   
 
 ```javascript
     .on('mouseout', function (this: any) {
@@ -452,7 +451,7 @@ var svg = d3.select("#scatterChart1Div").append("svg")
 
 
 #### Draw Bar chart.
-By using data join, we make the bars
+By using data join, we make the bars.
 <!-- #### ![alt text](13-3.PNG)  -->
 
 ```javascript
@@ -473,7 +472,7 @@ svgmidsBar.selectAll(".bar")
 
 ```
 
-When user hovers the mouse on the bars, the MIDs information change. We make code part which shows these changes in the map below. We explain and show the corresponding information in the map. But others have same principle. Therefore we omitted to explain them.
+When a user hovers the mouse on the bars, the MIDs information change. We make the code part which shows these changes in the map below. We explain and show the corresponding information in the map. But others have the same principle. Therefore we omitted to explain them.
 
 ```javascript
 d3.select("#WarMajorOnMap")
@@ -514,7 +513,7 @@ svg.append("text")
 
 
 #### Draw Corresponding MIDs Points.
-    We combine bar charts with map. When user mouseover on the MIDs bars, user can see the outbreak location of the MIDs. The dotsdrawMIDsDotOnMap function is the part. The MID dots on the map is made, using data join. This function is located in on click of the bar charts. 
+    We combine bar charts with a map. When user mouseover on the MIDs bars, the user can see the outbreak location of the MIDs. The dotsdrawMIDsDotOnMap function is the part. The MID dots on the map is made, using data join. This function is located in on click of the bar charts. 
 ```javascript
 
  var mids = svg.selectAll(".mid")
@@ -582,7 +581,7 @@ svg.append("text")
           })
 
 ```
-    When user mouseovers the MID point, it provide year and location information.
+    When a user mouseovers the MID point, it provide year and location information.
 ```javascript
 
     d3.select(idString).attr("fillX", String(d3.select(idString).attr("fill")));
@@ -613,7 +612,7 @@ svg.append("text")
 
 ``` 
 
-    Until here, we explain what parts of code are related to each part of visualization.
+    Until here, we explain what parts of code are related to each part of the visualization.
     Using similar methods, we plot the bars and maps for the wars and trade datasets.
 
 
